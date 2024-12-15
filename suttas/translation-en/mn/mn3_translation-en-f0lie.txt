@@ -1,0 +1,308 @@
+Pali [0.1]: Majjhima Nikāya 3 
+EN [0.1]: Middle Length Discourses 3
+
+Pali [0.2]: Dhammadāyādasutta
+EN [0.2]: The Discourse on Heirs of the Dhamma 
+
+Pali [1.1]: Evaṁ me sutaṁ—
+EN [1.1]: Thus have I heard.
+
+Pali [1.2]: ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+EN [1.2]: At one time the Blessed One was staying near Savatthi in Jeta's Grove, Anathapindika's monastery.
+
+Pali [1.3]: Tatra kho bhagavā bhikkhū āmantesi:
+EN [1.3]: There the Blessed One addressed the monks:
+
+Pali [1.4]: “bhikkhavo”ti.
+EN [1.4]: "Monks!"
+
+Pali [1.5]: “Bhadante”ti te bhikkhū bhagavato paccassosuṁ.
+EN [1.5]: "Venerable Sir," those monks replied to the Blessed One.
+
+Pali [1.6]: Bhagavā etadavoca:
+EN [1.6]: The Blessed One said this:
+
+Pali [2.1]: “Dhammadāyādā me, bhikkhave, bhavatha, mā āmisadāyādā.
+EN [2.1]: "Be heirs of the Dhamma, monks, not heirs of material things.
+
+Pali [2.2]: Atthi me tumhesu anukampā:
+EN [2.2]: There is compassion in me for you:
+
+Pali [2.3]: ‘kinti me sāvakā dhammadāyādā bhaveyyuṁ, no āmisadāyādā’ti.
+EN [2.3]: 'How can my disciples be heirs of the Dhamma, not heirs of material things?'
+
+Pali [2.4]: Tumhe ca me, bhikkhave, āmisadāyādā bhaveyyātha no dhammadāyādā, tumhepi tena ādiyā bhaveyyātha:
+EN [2.4]: If you, monks, were to be heirs of material things and not heirs of the Dhamma, you would be liable to reproach:
+EN-COMMENT [2.4]: "Ca me" is a Pali phrase where "ca" is a conjunction meaning "and" or "also," used for emphasis, and "me" is a dative pronoun meaning "to me" or "for me," but in this context signifies the Buddha's concern for his disciples. The Buddha uses this phrase to emphasize his instruction within the teacher-student dynamic, conveying both his authority and his benevolent concern for their spiritual progress.]
+
+Pali [2.5]: ‘āmisadāyādā satthusāvakā viharanti, no dhammadāyādā’ti;
+EN [2.5]: 'The Teacher's disciples live as heirs of material things, not as heirs of the Dhamma';
+
+Pali [2.6]: ahampi tena ādiyo bhaveyyaṁ:
+EN [2.6]: I too would be liable to reproach:
+
+Pali [2.7]: ‘āmisadāyādā satthusāvakā viharanti, no dhammadāyādā’ti.
+EN [2.7]: 'The Teacher's disciples live as heirs of material things, not as heirs of the Dhamma.'
+
+Pali [2.8]: Tumhe ca me, bhikkhave, dhammadāyādā bhaveyyātha, no āmisadāyādā, tumhepi tena na ādiyā bhaveyyātha:
+EN [2.8]: And you, monks, should be heirs of the Dhamma, not heirs of material things. You too would not be liable to reproach:
+
+Pali [2.9]: ‘dhammadāyādā satthusāvakā viharanti, no āmisadāyādā’ti;
+EN [2.9]: 'The Teacher's disciples live as heirs of the Dhamma, not as heirs of material things';
+
+Pali [2.10]: ahampi tena na ādiyo bhaveyyaṁ:
+EN [2.10]: nor would I be liable to reproach:
+
+Pali [2.11]: ‘dhammadāyādā satthusāvakā viharanti, no āmisadāyādā’ti.
+EN [2.11]: 'The Teacher's disciples live as heirs of the Dhamma, not as heirs of material things.'
+
+Pali [2.12]: Tasmātiha me, bhikkhave, dhammadāyādā bhavatha, mā āmisadāyādā.
+EN [2.12]: Therefore, monks, be heirs of the Dhamma, not heirs of material things.
+
+Pali [2.13]: Atthi me tumhesu anukampā:
+EN [2.13]: There is compassion in me for you:
+
+Pali [2.14]: ‘kinti me sāvakā dhammadāyādā bhaveyyuṁ, no āmisadāyādā’ti.
+EN [2.14]: 'How can my disciples be heirs of the Dhamma, not heirs of material things?'"
+
+Pali [3.1]: Idhāhaṁ, bhikkhave, bhuttāvī assaṁ pavārito paripuṇṇo pariyosito suhito yāvadattho;
+EN [3.1]: Here, monks, I suppose I have eaten, satisfied, full, done, content, and having had enough;
+EN-COMMENT [3.1]: It might odd that the Buddha uses five different words to describe eating. But if one were to pay attention while eating, one often eats beyond being full and what the stomach can handle.
+
+Pali [3.2]: siyā ca me piṇḍapāto atirekadhammo chaḍḍanīyadhammo.
+EN [3.2]: and there is my leftover alms-food that should be discarded.
+
+Pali [3.3]: Atha dve bhikkhū āgaccheyyuṁ jighacchādubbalyaparetā.
+EN [3.3]: Then two monks come, overcome by hunger and weakness.
+
+Pali [3.4]: Tyāhaṁ evaṁ vadeyyaṁ:
+EN [3.4]: Then I would say to them:
+
+Pali [3.5]: ‘ahaṁ khomhi, bhikkhave, bhuttāvī pavārito paripuṇṇo pariyosito suhito yāvadattho;
+EN [3.5]: "Monks, I have eaten, satisfied, full, done, content, and having had enough;
+
+Pali [3.6]: atthi ca me ayaṁ piṇḍapāto atirekadhammo chaḍḍanīyadhammo.
+EN [3.6]: and there is my leftover alms-food that should be discarded.
+
+Pali [3.7]: Sace ākaṅkhatha, bhuñjatha, no ce tumhe bhuñjissatha, idānāhaṁ appaharite vā chaḍḍessāmi, appāṇake vā udake opilāpessāmī’ti.
+EN [3.7]: If you wish, eat it; if you do not eat it, I will discard it in a barren place or pour it into water where no living beings dwell.'
+
+Pali [3.8]: Tatrekassa bhikkhuno evamassa:
+EN [3.8]: Then one of the monks might think:
+
+Pali [3.9]: ‘bhagavā kho bhuttāvī pavārito paripuṇṇo pariyosito suhito yāvadattho;
+EN [3.9]: 'The Blessed One has eaten, is satisfied, full, done, content, and having had enough;
+
+Pali [3.10]: atthi cāyaṁ bhagavato piṇḍapāto atirekadhammo chaḍḍanīyadhammo.
+EN [3.10]: and there is Blessed One's leftover alms-food that should be discarded.
+
+Pali [3.11]: Sace mayaṁ na bhuñjissāma, idāni bhagavā appaharite vā chaḍḍessati, appāṇake vā udake opilāpessati.
+EN [3.11]: If we do not eat it, the Blessed One will discard it in a barren place or pour it into water where no living beings dwell.
+
+Pali [3.12]: Vuttaṁ kho panetaṁ bhagavatā:
+EN [3.12]: It has been said by the Blessed One:
+
+Pali [3.13]: “dhammadāyādā me, bhikkhave, bhavatha, mā āmisadāyādā”ti.
+EN [3.13]: "Monks, be heirs of the Dhamma, not heirs of material things."
+
+Pali [3.14]: Āmisaññataraṁ kho panetaṁ, yadidaṁ piṇḍapāto.
+EN [3.14]: And this alms-food is a material thing in particular.
+EN-COMMENT [3.14]: Starving oneself is not the purpose of the practice. The Buddha rejected this path and ate alms-food to sustain the body. But alms-food still more material than the Dhamma. Hence, the Buddha speaking about restraining here to develop the Dhamma further.
+
+Pali [3.15]: Yannūnāhaṁ imaṁ piṇḍapātaṁ abhuñjitvā imināva jighacchādubbalyena evaṁ imaṁ rattindivaṁ vītināmeyyan’ti.
+EN [3.15]: What if I were to not eat this alms-food and endure the day and night with this hunger and weakness?
+
+Pali [3.16]: So taṁ piṇḍapātaṁ abhuñjitvā teneva jighacchādubbalyena evaṁ taṁ rattindivaṁ vītināmeyya.
+EN [3.16]: Then, without eating that alms-food, he would endure the day and night with that hunger and weakness?
+
+Pali [3.17]: Atha dutiyassa bhikkhuno evamassa:
+EN [3.17]: Then another monk might think:
+
+Pali [3.18]: ‘bhagavā kho bhuttāvī pavārito paripuṇṇo pariyosito suhito yāvadattho;
+EN [3.18]: 'The Blessed One has eaten, is satisfied, full, done, content, and having had enough;
+
+Pali [3.19]: atthi cāyaṁ bhagavato piṇḍapāto atirekadhammo chaḍḍanīyadhammo.
+EN [3.19]: and there is the Blessed One's leftover alms-food that should be discarded.
+
+Pali [3.20]: Sace mayaṁ na bhuñjissāma, idāni bhagavā appaharite vā chaḍḍessati, appāṇake vā udake opilāpessati.
+EN [3.20]: If we do not eat it, the Blessed One will discard it in a barren place or pour it into water where no living beings dwell.
+
+Pali [3.21]: Yannūnāhaṁ imaṁ piṇḍapātaṁ bhuñjitvā jighacchādubbalyaṁ paṭivinodetvā evaṁ imaṁ rattindivaṁ vītināmeyyan’ti.
+EN [3.21]: What if I were to eat this alms-food and then spend the day and night, having dispelled this hunger and weakness?
+
+Pali [3.22]: So taṁ piṇḍapātaṁ bhuñjitvā jighacchādubbalyaṁ paṭivinodetvā evaṁ taṁ rattindivaṁ vītināmeyya.
+EN [3.22]: Then, having eaten that alms-food, he would spend the day and night having dispelled that hunger and weakness.
+
+Pali [3.23]: Kiñcāpi so, bhikkhave, bhikkhu taṁ piṇḍapātaṁ bhuñjitvā jighacchādubbalyaṁ paṭivinodetvā evaṁ taṁ rattindivaṁ vītināmeyya, atha kho asuyeva me purimo bhikkhu pujjataro ca pāsaṁsataro ca.
+EN [3.23]: Even though that monk, having eaten that alms-food, would pass the day and night having dispelled that hunger and weakness, that earlier monk is still more worthy of respect and praise to me.
+
+Pali [3.24]: Taṁ kissa hetu?
+EN [3.24]: And why is that?
+
+Pali [3.25]: Tañhi tassa, bhikkhave, bhikkhuno dīgharattaṁ appicchatāya santuṭṭhiyā sallekhāya subharatāya vīriyārambhāya saṁvattissati.
+EN [3.25]: Because, monks, that (earlier) monk will lead to long-term fewness of wishes, contentment, erasure (of defilements), ease of support, and diligent effort.
+
+Pali [3.26]: Tasmātiha me, bhikkhave, dhammadāyādā bhavatha, mā āmisadāyādā.
+EN [3.26]: Therefore, monks, be heirs of the Dhamma, not heirs of material things.
+
+Pali [3.27]: Atthi me tumhesu anukampā:
+EN [3.27]: There is compassion in me for you:
+
+Pali [3.28]: ‘kinti me sāvakā dhammadāyādā bhaveyyuṁ, no āmisadāyādā’”ti.
+EN [3.28]: 'How can my disciples be heirs of the Dhamma, not heirs of material things?'
+
+Pali [4.1]: Idamavoca bhagavā.
+
+Pali [4.2]: Idaṁ vatvāna sugato uṭṭhāyāsanā vihāraṁ pāvisi.
+
+Pali [4.3]: Tatra kho āyasmā sāriputto acirapakkantassa bhagavato bhikkhū āmantesi:
+
+Pali [4.4]: “āvuso bhikkhave”ti.
+
+Pali [4.5]: “Āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṁ.
+
+Pali [4.6]: Āyasmā sāriputto etadavoca:
+
+Pali [5.1]: “Kittāvatā nu kho, āvuso, satthu pavivittassa viharato sāvakā vivekaṁ nānusikkhanti, kittāvatā ca pana satthu pavivittassa viharato sāvakā vivekamanusikkhantī”ti?
+
+Pali [5.2]: “Dūratopi kho mayaṁ, āvuso, āgacchāma āyasmato sāriputtassa santike etassa bhāsitassa atthamaññātuṁ.
+
+Pali [5.3]: Sādhu vatāyasmantaṁyeva sāriputtaṁ paṭibhātu etassa bhāsitassa attho;
+
+Pali [5.4]: āyasmato sāriputtassa sutvā bhikkhū dhāressantī”ti.
+
+Pali [5.5]: “Tena hāvuso, suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti.
+
+Pali [5.6]: “Evamāvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṁ.
+
+Pali [5.7]: Āyasmā sāriputto etadavoca:
+
+Pali [6.1]: “Kittāvatā nu kho, āvuso, satthu pavivittassa viharato sāvakā vivekaṁ nānusikkhanti?
+
+Pali [6.2]: Idhāvuso, satthu pavivittassa viharato sāvakā vivekaṁ nānusikkhanti,
+
+Pali [6.3]: yesañca dhammānaṁ satthā pahānamāha, te ca dhamme nappajahanti,
+
+Pali [6.4]: bāhulikā ca honti, sāthalikā, okkamane pubbaṅgamā, paviveke nikkhittadhurā.
+
+Pali [6.5]: Tatrāvuso, therā bhikkhū tīhi ṭhānehi gārayhā bhavanti.
+
+Pali [6.6]: ‘Satthu pavivittassa viharato sāvakā vivekaṁ nānusikkhantī’ti—
+
+Pali [6.7]: iminā paṭhamena ṭhānena therā bhikkhū gārayhā bhavanti.
+
+Pali [6.8]: ‘Yesañca dhammānaṁ satthā pahānamāha te ca dhamme nappajahantī’ti—
+
+Pali [6.9]: iminā dutiyena ṭhānena therā bhikkhū gārayhā bhavanti.
+
+Pali [6.10]: ‘Bāhulikā ca, sāthalikā, okkamane pubbaṅgamā, paviveke nikkhittadhurā’ti—
+
+Pali [6.11]: iminā tatiyena ṭhānena therā bhikkhū gārayhā bhavanti.
+
+Pali [6.12]: Therā, āvuso, bhikkhū imehi tīhi ṭhānehi gārayhā bhavanti.
+
+Pali [6.13]: Tatrāvuso, majjhimā bhikkhū …pe…
+
+Pali [6.14]: navā bhikkhū tīhi ṭhānehi gārayhā bhavanti.
+
+Pali [6.15]: ‘Satthu pavivittassa viharato sāvakā vivekaṁ nānusikkhantī’ti—
+
+Pali [6.16]: iminā paṭhamena ṭhānena navā bhikkhū gārayhā bhavanti.
+
+Pali [6.17]: ‘Yesañca dhammānaṁ satthā pahānamāha te ca dhamme nappajahantī’ti—
+
+Pali [6.18]: iminā dutiyena ṭhānena navā bhikkhū gārayhā bhavanti.
+
+Pali [6.19]: ‘Bāhulikā ca honti, sāthalikā, okkamane pubbaṅgamā, paviveke nikkhittadhurā’ti—
+
+Pali [6.20]: iminā tatiyena ṭhānena navā bhikkhū gārayhā bhavanti.
+
+Pali [6.21]: Navā, āvuso, bhikkhū imehi tīhi ṭhānehi gārayhā bhavanti.
+
+Pali [6.22]: Ettāvatā kho, āvuso, satthu pavivittassa viharato sāvakā vivekaṁ nānusikkhanti.
+
+Pali [7.1]: Kittāvatā ca panāvuso, satthu pavivittassa viharato sāvakā vivekamanusikkhanti?
+
+Pali [7.2]: Idhāvuso, satthu pavivittassa viharato sāvakā vivekamanusikkhanti—
+
+Pali [7.3]: yesañca dhammānaṁ satthā pahānamāha te ca dhamme pajahanti;
+
+Pali [7.4]: na ca bāhulikā honti, na sāthalikā okkamane nikkhittadhurā paviveke pubbaṅgamā.
+
+Pali [7.5]: Tatrāvuso, therā bhikkhū tīhi ṭhānehi pāsaṁsā bhavanti.
+
+Pali [7.6]: ‘Satthu pavivittassa viharato sāvakā vivekamanusikkhantī’ti—
+
+Pali [7.7]: iminā paṭhamena ṭhānena therā bhikkhū pāsaṁsā bhavanti.
+
+Pali [7.8]: ‘Yesañca dhammānaṁ satthā pahānamāha te ca dhamme pajahantī’ti—
+
+Pali [7.9]: iminā dutiyena ṭhānena therā bhikkhū pāsaṁsā bhavanti.
+
+Pali [7.10]: ‘Na ca bāhulikā, na sāthalikā okkamane nikkhittadhurā paviveke pubbaṅgamā’ti—
+
+Pali [7.11]: iminā tatiyena ṭhānena therā bhikkhū pāsaṁsā bhavanti.
+
+Pali [7.12]: Therā, āvuso, bhikkhū imehi tīhi ṭhānehi pāsaṁsā bhavanti.
+
+Pali [7.13]: Tatrāvuso, majjhimā bhikkhū …pe…
+
+Pali [7.14]: navā bhikkhū tīhi ṭhānehi pāsaṁsā bhavanti.
+
+Pali [7.15]: ‘Satthu pavivittassa viharato sāvakā vivekamanusikkhantī’ti—
+
+Pali [7.16]: iminā paṭhamena ṭhānena navā bhikkhū pāsaṁsā bhavanti.
+
+Pali [7.17]: ‘Yesañca dhammānaṁ satthā pahānamāha te ca dhamme pajahantī’ti—
+
+Pali [7.18]: iminā dutiyena ṭhānena navā bhikkhū pāsaṁsā bhavanti.
+
+Pali [7.19]: ‘Na ca bāhulikā, na sāthalikā okkamane nikkhittadhurā paviveke pubbaṅgamā’ti—
+
+Pali [7.20]: iminā tatiyena ṭhānena navā bhikkhū pāsaṁsā bhavanti.
+
+Pali [7.21]: Navā, āvuso, bhikkhū imehi tīhi ṭhānehi pāsaṁsā bhavanti.
+
+Pali [7.22]: Ettāvatā kho, āvuso, satthu pavivittassa viharato sāvakā vivekamanusikkhanti.
+
+Pali [8.1]: Tatrāvuso, lobho ca pāpako doso ca pāpako.
+
+Pali [8.2]: Lobhassa ca pahānāya dosassa ca pahānāya atthi majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+
+Pali [8.3]: Katamā ca sā, āvuso, majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
+
+Pali [8.4]: Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—
+
+Pali [8.5]: sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.
+
+Pali [8.6]: Ayaṁ kho sā, āvuso, majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+
+Pali [9-15.1]: Tatrāvuso, kodho ca pāpako upanāho ca pāpako …pe…
+
+Pali [9-15.2]: makkho ca pāpako paḷāso ca pāpako,
+
+Pali [9-15.3]: issā ca pāpikā maccherañca pāpakaṁ,
+
+Pali [9-15.4]: māyā ca pāpikā sāṭheyyañca pāpakaṁ,
+
+Pali [9-15.5]: thambho ca pāpako sārambho ca pāpako,
+
+Pali [9-15.6]: māno ca pāpako atimāno ca pāpako,
+
+Pali [9-15.7]: mado ca pāpako pamādo ca pāpako.
+
+Pali [9-15.8]: Madassa ca pahānāya pamādassa ca pahānāya atthi majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.
+
+Pali [9-15.9]: Katamā ca sā, āvuso, majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?
+
+Pali [9-15.10]: Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—
+
+Pali [9-15.11]: sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.
+
+Pali [9-15.12]: Ayaṁ kho sā, āvuso, majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattatī”ti.
+
+Pali [9-15.13]: Idamavocāyasmā sāriputto.
+
+Pali [9-15.14]: Attamanā te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinandunti.
+
+Pali [9-15.15]: Dhammadāyādasuttaṁ niṭṭhitaṁ tatiyaṁ.

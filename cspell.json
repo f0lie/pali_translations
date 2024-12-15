@@ -6,12 +6,16 @@
     ],
     "words": [
         "Anathapindika",
+        "bhikkhu",
+        "bhikkhus",
         "Bilara",
         "dhamma",
         "Dhamma",
         "Jeta",
+        "Sāriputta",
         "Savatthi",
-        "suttacentral"
+        "suttacentral",
+        "viveka"
     ],
     "ignorePaths": [
         "package-lock.json",
@@ -23,5 +27,5 @@
         ".vscode-insiders",
         "suttas/root/mn",
         ".gitignore"
-    ],
+    ]
 }

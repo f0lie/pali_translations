@@ -11,19 +11,19 @@ Pali [1.2]: ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapi
 EN [1.2]: At one time the Blessed One was staying near Savatthi in Jeta's Grove, Anathapindika's monastery.
 
 Pali [1.3]: Tatra kho bhagavā bhikkhū āmantesi:
-EN [1.3]: There the Blessed One addressed the monks:
+EN [1.3]: There the Blessed One addressed the bhikkhus:
 
 Pali [1.4]: “bhikkhavo”ti.
-EN [1.4]: "Monks!"
+EN [1.4]: "Bhikkhus!"
 
 Pali [1.5]: “Bhadante”ti te bhikkhū bhagavato paccassosuṁ.
-EN [1.5]: "Venerable Sir," those monks replied to the Blessed One.
+EN [1.5]: "Venerable Sir," those bhikkhus replied to the Blessed One.
 
 Pali [1.6]: Bhagavā etadavoca:
 EN [1.6]: The Blessed One said this:
 
 Pali [2.1]: “Dhammadāyādā me, bhikkhave, bhavatha, mā āmisadāyādā.
-EN [2.1]: "Be heirs of the Dhamma, monks, not heirs of material things.
+EN [2.1]: "Be heirs of the Dhamma, bhikkhus, not heirs of material things.
 
 Pali [2.2]: Atthi me tumhesu anukampā:
 EN [2.2]: There is compassion in me for you:
@@ -32,7 +32,7 @@ Pali [2.3]: ‘kinti me sāvakā dhammadāyādā bhaveyyuṁ, no āmisadāyādā
 EN [2.3]: 'How can my disciples be heirs of the Dhamma, not heirs of material things?'
 
 Pali [2.4]: Tumhe ca me, bhikkhave, āmisadāyādā bhaveyyātha no dhammadāyādā, tumhepi tena ādiyā bhaveyyātha:
-EN [2.4]: If you, monks, were to be heirs of material things and not heirs of the Dhamma, you would be liable to reproach:
+EN [2.4]: If you, bhikkhus, were to be heirs of material things and not heirs of the Dhamma, you would be liable to reproach:
 EN-COMMENT [2.4]: "Ca me" is a Pali phrase where "ca" is a conjunction meaning "and" or "also," used for emphasis, and "me" is a dative pronoun meaning "to me" or "for me," but in this context signifies the Buddha's concern for his disciples. The Buddha uses this phrase to emphasize his instruction within the teacher-student dynamic, conveying both his authority and his benevolent concern for their spiritual progress.]
 
 Pali [2.5]: ‘āmisadāyādā satthusāvakā viharanti, no dhammadāyādā’ti;
@@ -45,7 +45,7 @@ Pali [2.7]: ‘āmisadāyādā satthusāvakā viharanti, no dhammadāyādā’ti
 EN [2.7]: 'The Teacher's disciples live as heirs of material things, not as heirs of the Dhamma.'
 
 Pali [2.8]: Tumhe ca me, bhikkhave, dhammadāyādā bhaveyyātha, no āmisadāyādā, tumhepi tena na ādiyā bhaveyyātha:
-EN [2.8]: And you, monks, should be heirs of the Dhamma, not heirs of material things. You too would not be liable to reproach:
+EN [2.8]: And you, bhikkhus, should be heirs of the Dhamma, not heirs of material things. You too would not be liable to reproach:
 
 Pali [2.9]: ‘dhammadāyādā satthusāvakā viharanti, no āmisadāyādā’ti;
 EN [2.9]: 'The Teacher's disciples live as heirs of the Dhamma, not as heirs of material things';
@@ -57,7 +57,7 @@ Pali [2.11]: ‘dhammadāyādā satthusāvakā viharanti, no āmisadāyādā’t
 EN [2.11]: 'The Teacher's disciples live as heirs of the Dhamma, not as heirs of material things.'
 
 Pali [2.12]: Tasmātiha me, bhikkhave, dhammadāyādā bhavatha, mā āmisadāyādā.
-EN [2.12]: Therefore, monks, be heirs of the Dhamma, not heirs of material things.
+EN [2.12]: Therefore, bhikkhus, be heirs of the Dhamma, not heirs of material things.
 
 Pali [2.13]: Atthi me tumhesu anukampā:
 EN [2.13]: There is compassion in me for you:
@@ -66,20 +66,20 @@ Pali [2.14]: ‘kinti me sāvakā dhammadāyādā bhaveyyuṁ, no āmisadāyād�
 EN [2.14]: 'How can my disciples be heirs of the Dhamma, not heirs of material things?'"
 
 Pali [3.1]: Idhāhaṁ, bhikkhave, bhuttāvī assaṁ pavārito paripuṇṇo pariyosito suhito yāvadattho;
-EN [3.1]: Here, monks, I suppose I have eaten, satisfied, full, done, content, and having had enough;
+EN [3.1]: Here, bhikkhus, I suppose I have eaten, satisfied, full, done, content, and having had enough;
 EN-COMMENT [3.1]: It might odd that the Buddha uses five different words to describe eating. But if one were to pay attention while eating, one often eats beyond being full and what the stomach can handle.
 
 Pali [3.2]: siyā ca me piṇḍapāto atirekadhammo chaḍḍanīyadhammo.
 EN [3.2]: and there is my leftover alms-food that should be discarded.
 
 Pali [3.3]: Atha dve bhikkhū āgaccheyyuṁ jighacchādubbalyaparetā.
-EN [3.3]: Then two monks come, overcome by hunger and weakness.
+EN [3.3]: Then two bhikkhus come, overcome by hunger and weakness.
 
 Pali [3.4]: Tyāhaṁ evaṁ vadeyyaṁ:
 EN [3.4]: Then I would say to them:
 
 Pali [3.5]: ‘ahaṁ khomhi, bhikkhave, bhuttāvī pavārito paripuṇṇo pariyosito suhito yāvadattho;
-EN [3.5]: "Monks, I have eaten, satisfied, full, done, content, and having had enough;
+EN [3.5]: "bhikkhus, I have eaten, satisfied, full, done, content, and having had enough;
 
 Pali [3.6]: atthi ca me ayaṁ piṇḍapāto atirekadhammo chaḍḍanīyadhammo.
 EN [3.6]: and there is my leftover alms-food that should be discarded.
@@ -88,7 +88,7 @@ Pali [3.7]: Sace ākaṅkhatha, bhuñjatha, no ce tumhe bhuñjissatha, idānāha
 EN [3.7]: If you wish, eat it; if you do not eat it, I will discard it in a barren place or pour it into water where no living beings dwell.'
 
 Pali [3.8]: Tatrekassa bhikkhuno evamassa:
-EN [3.8]: Then one of the monks might think:
+EN [3.8]: Then one of the bhikkhus might think:
 
 Pali [3.9]: ‘bhagavā kho bhuttāvī pavārito paripuṇṇo pariyosito suhito yāvadattho;
 EN [3.9]: 'The Blessed One has eaten, is satisfied, full, done, content, and having had enough;
@@ -103,7 +103,7 @@ Pali [3.12]: Vuttaṁ kho panetaṁ bhagavatā:
 EN [3.12]: It has been said by the Blessed One:
 
 Pali [3.13]: “dhammadāyādā me, bhikkhave, bhavatha, mā āmisadāyādā”ti.
-EN [3.13]: "Monks, be heirs of the Dhamma, not heirs of material things."
+EN [3.13]: "Bhikkhus, be heirs of the Dhamma, not heirs of material things."
 
 Pali [3.14]: Āmisaññataraṁ kho panetaṁ, yadidaṁ piṇḍapāto.
 EN [3.14]: And this alms-food is a material thing in particular.
@@ -116,7 +116,7 @@ Pali [3.16]: So taṁ piṇḍapātaṁ abhuñjitvā teneva jighacchādubbalyena
 EN [3.16]: Then, without eating that alms-food, he would endure the day and night with that hunger and weakness?
 
 Pali [3.17]: Atha dutiyassa bhikkhuno evamassa:
-EN [3.17]: Then another monk might think:
+EN [3.17]: Then another bhikkhu might think:
 
 Pali [3.18]: ‘bhagavā kho bhuttāvī pavārito paripuṇṇo pariyosito suhito yāvadattho;
 EN [3.18]: 'The Blessed One has eaten, is satisfied, full, done, content, and having had enough;
@@ -134,16 +134,16 @@ Pali [3.22]: So taṁ piṇḍapātaṁ bhuñjitvā jighacchādubbalyaṁ paṭi
 EN [3.22]: Then, having eaten that alms-food, he would spend the day and night having dispelled that hunger and weakness.
 
 Pali [3.23]: Kiñcāpi so, bhikkhave, bhikkhu taṁ piṇḍapātaṁ bhuñjitvā jighacchādubbalyaṁ paṭivinodetvā evaṁ taṁ rattindivaṁ vītināmeyya, atha kho asuyeva me purimo bhikkhu pujjataro ca pāsaṁsataro ca.
-EN [3.23]: Even though that monk, having eaten that alms-food, would pass the day and night having dispelled that hunger and weakness, that earlier monk is still more worthy of respect and praise to me.
+EN [3.23]: Even though that bhikkhu, having eaten that alms-food, would pass the day and night having dispelled that hunger and weakness, that earlier bhikkhu is still more worthy of respect and praise to me.
 
 Pali [3.24]: Taṁ kissa hetu?
 EN [3.24]: And why is that?
 
 Pali [3.25]: Tañhi tassa, bhikkhave, bhikkhuno dīgharattaṁ appicchatāya santuṭṭhiyā sallekhāya subharatāya vīriyārambhāya saṁvattissati.
-EN [3.25]: Because, monks, that (earlier) monk will lead to long-term fewness of wishes, contentment, erasure (of defilements), ease of support, and diligent effort.
+EN [3.25]: Because, bhikkhus, that (earlier) bhikkhu will lead to long-term fewness of wishes, contentment, erasure (of defilements), ease of support, and diligent effort.
 
 Pali [3.26]: Tasmātiha me, bhikkhave, dhammadāyādā bhavatha, mā āmisadāyādā.
-EN [3.26]: Therefore, monks, be heirs of the Dhamma, not heirs of material things.
+EN [3.26]: Therefore, bhikkhus, be heirs of the Dhamma, not heirs of material things.
 
 Pali [3.27]: Atthi me tumhesu anukampā:
 EN [3.27]: There is compassion in me for you:
@@ -152,30 +152,45 @@ Pali [3.28]: ‘kinti me sāvakā dhammadāyādā bhaveyyuṁ, no āmisadāyād�
 EN [3.28]: 'How can my disciples be heirs of the Dhamma, not heirs of material things?'
 
 Pali [4.1]: Idamavoca bhagavā.
+EN [4.1]: This is what the Blessed One said.
 
 Pali [4.2]: Idaṁ vatvāna sugato uṭṭhāyāsanā vihāraṁ pāvisi.
+EN [4.2]: Having said this, the Excellent One rose from his seat and entered his dwelling.
 
 Pali [4.3]: Tatra kho āyasmā sāriputto acirapakkantassa bhagavato bhikkhū āmantesi:
+EN [4.3]: Then, shortly after the Blessed One had departed, the Venerable Sāriputta addressed the bhikkhus:
 
 Pali [4.4]: “āvuso bhikkhave”ti.
+EN [4.4]: "Friends, bhikkhus!"
 
 Pali [4.5]: “Āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṁ.
+EN [4.5]: "Friend!" those monks replied to the Venerable Sāriputta.
 
 Pali [4.6]: Āyasmā sāriputto etadavoca:
+EN [4.6]: The Venerable Sāriputta said this:
 
 Pali [5.1]: “Kittāvatā nu kho, āvuso, satthu pavivittassa viharato sāvakā vivekaṁ nānusikkhanti, kittāvatā ca pana satthu pavivittassa viharato sāvakā vivekamanusikkhantī”ti?
+EN [5.1]: "How, friend, do the disciples not train in withdrawal while the teacher lives withdrawn, and how do the disciples train in withdrawal while the teacher lives withdrawn?"
+EN-COMMIT [5.1]: I rendered "viveka" as "withdrawn" rather than "secluded" because one isn't just physically being separated, but mentally being withdrawn from the unwholesome.
 
 Pali [5.2]: “Dūratopi kho mayaṁ, āvuso, āgacchāma āyasmato sāriputtassa santike etassa bhāsitassa atthamaññātuṁ.
+EN [5.2]: "Even from afar, friend, we would come to the Venerable Sāriputta to understand the meaning of this statement."
 
 Pali [5.3]: Sādhu vatāyasmantaṁyeva sāriputtaṁ paṭibhātu etassa bhāsitassa attho;
+EN [5.3]: "It would be good if the meaning of this statement were explained by the Venerable Sāriputta himself."
 
 Pali [5.4]: āyasmato sāriputtassa sutvā bhikkhū dhāressantī”ti.
+EN [5.4]: "The bhikkhus will retain what they heard from the Venerable Sāriputta."
 
 Pali [5.5]: “Tena hāvuso, suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti.
+EN [5.5]: "Then, friends, listen and apply the mind well, and I will speak."
+EN-COMMENT [5.5]: "Apply the mind well" is not just paying close attention, but reflecting more deeply and thoroughly about what is being said.
 
 Pali [5.6]: “Evamāvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṁ.
+EN [5.6]: "Yes, friend," those monks replied to the Venerable Sāriputta.
 
 Pali [5.7]: Āyasmā sāriputto etadavoca:
+EN [5.7]: The Venerable Sāriputta said this:
 
 Pali [6.1]: “Kittāvatā nu kho, āvuso, satthu pavivittassa viharato sāvakā vivekaṁ nānusikkhanti?
 

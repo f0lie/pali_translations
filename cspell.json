@@ -21,6 +21,7 @@
         ".git/{index,*refs,*HEAD}",
         ".vscode",
         ".vscode-insiders",
-        "suttas/root/mn"
+        "suttas/root/mn",
+        ".gitignore"
     ],
 }

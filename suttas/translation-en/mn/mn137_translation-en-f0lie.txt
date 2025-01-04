@@ -1,391 +1,391 @@
-SUTTA: MN137
+[SUTTA mn137]
 
-PLI [0.1]: Majjhima Nikāya 137 
+Majjhima Nikāya 137 [0.1]
 
-PLI [0.2]: Saḷāyatanavibhaṅgasutta 
+Saḷāyatanavibhaṅgasutta [0.2]
 
-PLI [1.1]: Evaṁ me sutaṁ—
+Evaṁ me sutaṁ— [1.1]
 
-PLI [1.2]: ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. 
+ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. [1.2]
 
-PLI [1.3]: Tatra kho bhagavā bhikkhū āmantesi: 
+Tatra kho bhagavā bhikkhū āmantesi: [1.3]
 
-PLI [1.4]: “bhikkhavo”ti. 
+“bhikkhavo”ti. [1.4]
 
-PLI [1.5]: “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. 
+“Bhadante”ti te bhikkhū bhagavato paccassosuṁ. [1.5]
 
-PLI [1.6]: Bhagavā etadavoca: 
+Bhagavā etadavoca: [1.6]
 
-PLI [2.1]: “saḷāyatanavibhaṅgaṁ vo, bhikkhave, desessāmi. 
+“saḷāyatanavibhaṅgaṁ vo, bhikkhave, desessāmi. [2.1]
 
-PLI [2.2]: Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti. 
+Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti. [2.2]
 
-PLI [2.3]: “Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ. 
+“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ. [2.3]
 
-PLI [2.4]: Bhagavā etadavoca: 
+Bhagavā etadavoca: [2.4]
 
-PLI [3.1]: “‘Cha ajjhattikāni āyatanāni veditabbāni, cha bāhirāni āyatanāni veditabbāni, cha viññāṇakāyā veditabbā, cha phassakāyā veditabbā, aṭṭhārasa manopavicārā veditabbā, chattiṁsa sattapadā veditabbā, tatra idaṁ nissāya idaṁ pajahatha, tayo satipaṭṭhānā yadariyo sevati yadariyo sevamāno satthā gaṇamanusāsitumarahati, so vuccati yoggācariyānaṁ anuttaro purisadammasārathī’ti—
+“‘Cha ajjhattikāni āyatanāni veditabbāni, cha bāhirāni āyatanāni veditabbāni, cha viññāṇakāyā veditabbā, cha phassakāyā veditabbā, aṭṭhārasa manopavicārā veditabbā, chattiṁsa sattapadā veditabbā, tatra idaṁ nissāya idaṁ pajahatha, tayo satipaṭṭhānā yadariyo sevati yadariyo sevamāno satthā gaṇamanusāsitumarahati, so vuccati yoggācariyānaṁ anuttaro purisadammasārathī’ti— [3.1]
 
-PLI [3.2]: ayamuddeso saḷāyatanavibhaṅgassa. 
+ayamuddeso saḷāyatanavibhaṅgassa. [3.2]
 
-PLI [4.1]: ‘Cha ajjhattikāni āyatanāni veditabbānī’ti—
+‘Cha ajjhattikāni āyatanāni veditabbānī’ti— [4.1]
 
-PLI [4.2]: iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? 
+iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? [4.2]
 
-PLI [4.3]: ‘Cakkhāyatanaṁ sotāyatanaṁ ghānāyatanaṁ jivhāyatanaṁ kāyāyatanaṁ manāyatanaṁ—
+‘Cakkhāyatanaṁ sotāyatanaṁ ghānāyatanaṁ jivhāyatanaṁ kāyāyatanaṁ manāyatanaṁ— [4.3]
 
-PLI [4.4]: cha ajjhattikāni āyatanāni veditabbānī’ti—
+cha ajjhattikāni āyatanāni veditabbānī’ti— [4.4]
 
-PLI [4.5]: iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. 
+iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. [4.5]
 
-PLI [5.1]: ‘Cha bāhirāni āyatanāni veditabbānī’ti—
+‘Cha bāhirāni āyatanāni veditabbānī’ti— [5.1]
 
-PLI [5.2]: iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? 
+iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? [5.2]
 
-PLI [5.3]: ‘Rūpāyatanaṁ saddāyatanaṁ gandhāyatanaṁ rasāyatanaṁ phoṭṭhabbāyatanaṁ dhammāyatanaṁ—
+‘Rūpāyatanaṁ saddāyatanaṁ gandhāyatanaṁ rasāyatanaṁ phoṭṭhabbāyatanaṁ dhammāyatanaṁ— [5.3]
 
-PLI [5.4]: cha bāhirāni āyatanāni veditabbānī’ti—
+cha bāhirāni āyatanāni veditabbānī’ti— [5.4]
 
-PLI [5.5]: iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. 
+iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. [5.5]
 
-PLI [6.1]: ‘Cha viññāṇakāyā veditabbā’ti—
+‘Cha viññāṇakāyā veditabbā’ti— [6.1]
 
-PLI [6.2]: iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? 
+iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? [6.2]
 
-PLI [6.3]: ‘Cakkhuviññāṇaṁ sotaviññāṇaṁ ghānaviññāṇaṁ jivhāviññāṇaṁ kāyaviññāṇaṁ manoviññāṇaṁ—
+‘Cakkhuviññāṇaṁ sotaviññāṇaṁ ghānaviññāṇaṁ jivhāviññāṇaṁ kāyaviññāṇaṁ manoviññāṇaṁ— [6.3]
 
-PLI [6.4]: cha viññāṇakāyā veditabbā’ti—
+cha viññāṇakāyā veditabbā’ti— [6.4]
 
-PLI [6.5]: iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. 
+iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. [6.5]
 
-PLI [7.1]: ‘Cha phassakāyā veditabbā’ti—
+‘Cha phassakāyā veditabbā’ti— [7.1]
 
-PLI [7.2]: iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? 
+iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? [7.2]
 
-PLI [7.3]: ‘Cakkhusamphasso sotasamphasso ghānasamphasso jivhāsamphasso kāyasamphasso manosamphasso—
+‘Cakkhusamphasso sotasamphasso ghānasamphasso jivhāsamphasso kāyasamphasso manosamphasso— [7.3]
 
-PLI [7.4]: cha phassakāyā veditabbā’ti—
+cha phassakāyā veditabbā’ti— [7.4]
 
-PLI [7.5]: iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. 
+iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. [7.5]
 
-PLI [8.1]: ‘Aṭṭhārasa manopavicārā veditabbā’ti—
+‘Aṭṭhārasa manopavicārā veditabbā’ti— [8.1]
 
-PLI [8.2]: iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? 
+iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? [8.2]
 
-PLI [8.3]: ‘Cakkhunā rūpaṁ disvā somanassaṭṭhānīyaṁ rūpaṁ upavicarati, domanassaṭṭhānīyaṁ rūpaṁ upavicarati, upekkhāṭṭhānīyaṁ rūpaṁ upavicarati. 
+‘Cakkhunā rūpaṁ disvā somanassaṭṭhānīyaṁ rūpaṁ upavicarati, domanassaṭṭhānīyaṁ rūpaṁ upavicarati, upekkhāṭṭhānīyaṁ rūpaṁ upavicarati. [8.3]
 
-PLI [8.4]: Sotena saddaṁ sutvā …pe… 
+Sotena saddaṁ sutvā …pe… [8.4]
 
-PLI [8.5]: ghānena gandhaṁ ghāyitvā … 
+ghānena gandhaṁ ghāyitvā … [8.5]
 
-PLI [8.6]: jivhāya rasaṁ sāyitvā … 
+jivhāya rasaṁ sāyitvā … [8.6]
 
-PLI [8.7]: kāyena phoṭṭhabbaṁ phusitvā … 
+kāyena phoṭṭhabbaṁ phusitvā … [8.7]
 
-PLI [8.8]: manasā dhammaṁ viññāya somanassaṭṭhānīyaṁ dhammaṁ upavicarati, domanassaṭṭhānīyaṁ dhammaṁ upavicarati, upekkhāṭṭhānīyaṁ dhammaṁ upavicarati. 
+manasā dhammaṁ viññāya somanassaṭṭhānīyaṁ dhammaṁ upavicarati, domanassaṭṭhānīyaṁ dhammaṁ upavicarati, upekkhāṭṭhānīyaṁ dhammaṁ upavicarati. [8.8]
 
-PLI [8.9]: Iti cha somanassūpavicārā, cha domanassūpavicārā, cha upekkhūpavicārā, aṭṭhārasa manopavicārā veditabbā’ti—
+Iti cha somanassūpavicārā, cha domanassūpavicārā, cha upekkhūpavicārā, aṭṭhārasa manopavicārā veditabbā’ti— [8.9]
 
-PLI [8.10]: iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. 
+iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. [8.10]
 
-PLI [9.1]: ‘Chattiṁsa sattapadā veditabbā’ti—
+‘Chattiṁsa sattapadā veditabbā’ti— [9.1]
 
-PLI [9.2]: iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? 
+iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? [9.2]
 
-PLI [9.3]: Cha gehasitāni somanassāni, cha nekkhammasitāni somanassāni, cha gehasitāni domanassāni, cha nekkhammasitāni domanassāni, cha gehasitā upekkhā, cha nekkhammasitā upekkhā. 
+Cha gehasitāni somanassāni, cha nekkhammasitāni somanassāni, cha gehasitāni domanassāni, cha nekkhammasitāni domanassāni, cha gehasitā upekkhā, cha nekkhammasitā upekkhā. [9.3]
 
-PLI [10.1]: Tattha katamāni cha gehasitāni somanassāni? 
+Tattha katamāni cha gehasitāni somanassāni? [10.1]
 
-PLI [10.2]: Cakkhuviññeyyānaṁ rūpānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ manoramānaṁ lokāmisapaṭisaṁyuttānaṁ paṭilābhaṁ vā paṭilābhato samanupassato pubbe vā paṭiladdhapubbaṁ atītaṁ niruddhaṁ vipariṇataṁ samanussarato uppajjati somanassaṁ. 
+Cakkhuviññeyyānaṁ rūpānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ manoramānaṁ lokāmisapaṭisaṁyuttānaṁ paṭilābhaṁ vā paṭilābhato samanupassato pubbe vā paṭiladdhapubbaṁ atītaṁ niruddhaṁ vipariṇataṁ samanussarato uppajjati somanassaṁ. [10.2]
 
-PLI [10.3]: Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati gehasitaṁ somanassaṁ. 
+Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati gehasitaṁ somanassaṁ. [10.3]
 
-PLI [10.4]: Sotaviññeyyānaṁ saddānaṁ … 
+Sotaviññeyyānaṁ saddānaṁ … [10.4]
 
-PLI [10.5]: ghānaviññeyyānaṁ gandhānaṁ … 
+ghānaviññeyyānaṁ gandhānaṁ … [10.5]
 
-PLI [10.6]: jivhāviññeyyānaṁ rasānaṁ … 
+jivhāviññeyyānaṁ rasānaṁ … [10.6]
 
-PLI [10.7]: kāyaviññeyyānaṁ phoṭṭhabbānaṁ … 
+kāyaviññeyyānaṁ phoṭṭhabbānaṁ … [10.7]
 
-PLI [10.8]: manoviññeyyānaṁ dhammānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ …pe… somanassaṁ. 
+manoviññeyyānaṁ dhammānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ …pe… somanassaṁ. [10.8]
 
-PLI [10.9]: Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati gehasitaṁ somanassaṁ. 
+Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati gehasitaṁ somanassaṁ. [10.9]
 
-PLI [10.10]: Imāni cha gehasitāni somanassāni. 
+Imāni cha gehasitāni somanassāni. [10.10]
 
-PLI [11.1]: Tattha katamāni cha nekkhammasitāni somanassāni? 
+Tattha katamāni cha nekkhammasitāni somanassāni? [11.1]
 
-PLI [11.2]: Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati somanassaṁ. 
+Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati somanassaṁ. [11.2]
 
-PLI [11.3]: Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ. 
+Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ. [11.3]
 
-PLI [11.4]: Saddānaṁ tveva … 
+Saddānaṁ tveva … [11.4]
 
-PLI [11.5]: gandhānaṁ tveva … 
+gandhānaṁ tveva … [11.5]
 
-PLI [11.6]: rasānaṁ tveva … 
+rasānaṁ tveva … [11.6]
 
-PLI [11.7]: phoṭṭhabbānaṁ tveva … 
+phoṭṭhabbānaṁ tveva … [11.7]
 
-PLI [11.8]: dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati somanassaṁ. 
+dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati somanassaṁ. [11.8]
 
-PLI [11.9]: Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ. 
+Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ. [11.9]
 
-PLI [11.10]: Imāni cha nekkhammasitāni somanassāni. 
+Imāni cha nekkhammasitāni somanassāni. [11.10]
 
-PLI [12.1]: Tattha katamāni cha gehasitāni domanassāni? 
+Tattha katamāni cha gehasitāni domanassāni? [12.1]
 
-PLI [12.2]: Cakkhuviññeyyānaṁ rūpānaṁ … 
+Cakkhuviññeyyānaṁ rūpānaṁ … [12.2]
 
-PLI [12.3]: pe… 
+pe… [12.3]
 
-PLI [12.4]: sotaviññeyyānaṁ saddānaṁ … 
+sotaviññeyyānaṁ saddānaṁ … [12.4]
 
-PLI [12.5]: ghānaviññeyyānaṁ gandhānaṁ … 
+ghānaviññeyyānaṁ gandhānaṁ … [12.5]
 
-PLI [12.6]: jivhāviññeyyānaṁ rasānaṁ … 
+jivhāviññeyyānaṁ rasānaṁ … [12.6]
 
-PLI [12.7]: kāyaviññeyyānaṁ phoṭṭhabbānaṁ … 
+kāyaviññeyyānaṁ phoṭṭhabbānaṁ … [12.7]
 
-PLI [12.8]: manoviññeyyānaṁ dhammānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ manoramānaṁ lokāmisapaṭisaṁyuttānaṁ appaṭilābhaṁ vā appaṭilābhato samanupassato pubbe vā appaṭiladdhapubbaṁ atītaṁ niruddhaṁ vipariṇataṁ samanussarato uppajjati domanassaṁ. 
+manoviññeyyānaṁ dhammānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ manoramānaṁ lokāmisapaṭisaṁyuttānaṁ appaṭilābhaṁ vā appaṭilābhato samanupassato pubbe vā appaṭiladdhapubbaṁ atītaṁ niruddhaṁ vipariṇataṁ samanussarato uppajjati domanassaṁ. [12.8]
 
-PLI [12.9]: Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati gehasitaṁ domanassaṁ. 
+Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati gehasitaṁ domanassaṁ. [12.9]
 
-PLI [12.10]: Imāni cha gehasitāni domanassāni. 
+Imāni cha gehasitāni domanassāni. [12.10]
 
-PLI [13.1]: “Tattha katamāni cha nekkhammasitāni domanassāni? 
+“Tattha katamāni cha nekkhammasitāni domanassāni? [13.1]
 
-PLI [13.2]: Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anuttaresu vimokkhesu pihaṁ upaṭṭhāpeti: 
+Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anuttaresu vimokkhesu pihaṁ upaṭṭhāpeti: [13.2]
 
-PLI [13.3]: ‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihapaccayā domanassaṁ. 
+‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihapaccayā domanassaṁ. [13.3]
 
-PLI [13.4]: Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati nekkhammasitaṁ domanassaṁ. 
+Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati nekkhammasitaṁ domanassaṁ. [13.4]
 
-PLI [13.5]: Saddānaṁ tveva …pe… 
+Saddānaṁ tveva …pe… [13.5]
 
-PLI [13.6]: gandhānaṁ tveva … 
+gandhānaṁ tveva … [13.6]
 
-PLI [13.7]: rasānaṁ tveva … 
+rasānaṁ tveva … [13.7]
 
-PLI [13.8]: phoṭṭhabbānaṁ tveva … 
+phoṭṭhabbānaṁ tveva … [13.8]
 
-PLI [13.9]: dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anuttaresu vimokkhesu pihaṁ upaṭṭhāpeti: 
+dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anuttaresu vimokkhesu pihaṁ upaṭṭhāpeti: [13.9]
 
-PLI [13.10]: ‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihapaccayā domanassaṁ. 
+‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihapaccayā domanassaṁ. [13.10]
 
-PLI [13.11]: Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati nekkhammasitaṁ domanassaṁ. 
+Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati nekkhammasitaṁ domanassaṁ. [13.11]
 
-PLI [13.12]: Imāni cha nekkhammasitāni domanassāni. 
+Imāni cha nekkhammasitāni domanassāni. [13.12]
 
-PLI [14.1]: Tattha katamā cha gehasitā upekkhā? 
+Tattha katamā cha gehasitā upekkhā? [14.1]
 
-PLI [14.2]: Cakkhunā rūpaṁ disvā uppajjati upekkhā bālassa mūḷhassa puthujjanassa anodhijinassa avipākajinassa anādīnavadassāvino assutavato puthujjanassa. 
+Cakkhunā rūpaṁ disvā uppajjati upekkhā bālassa mūḷhassa puthujjanassa anodhijinassa avipākajinassa anādīnavadassāvino assutavato puthujjanassa. [14.2]
 
-PLI [14.3]: Yā evarūpā upekkhā, rūpaṁ sā nātivattati. 
+Yā evarūpā upekkhā, rūpaṁ sā nātivattati. [14.3]
 
-PLI [14.4]: Tasmā sā upekkhā ‘gehasitā’ti vuccati. 
+Tasmā sā upekkhā ‘gehasitā’ti vuccati. [14.4]
 
-PLI [14.5]: Sotena saddaṁ sutvā … 
+Sotena saddaṁ sutvā … [14.5]
 
-PLI [14.6]: ghānena gandhaṁ ghāyitvā … 
+ghānena gandhaṁ ghāyitvā … [14.6]
 
-PLI [14.7]: jivhāya rasaṁ sāyitvā … 
+jivhāya rasaṁ sāyitvā … [14.7]
 
-PLI [14.8]: kāyena phoṭṭhabbaṁ phusitvā … 
+kāyena phoṭṭhabbaṁ phusitvā … [14.8]
 
-PLI [14.9]: manasā dhammaṁ viññāya uppajjati upekkhā bālassa mūḷhassa puthujjanassa anodhijinassa avipākajinassa anādīnavadassāvino assutavato puthujjanassa. 
+manasā dhammaṁ viññāya uppajjati upekkhā bālassa mūḷhassa puthujjanassa anodhijinassa avipākajinassa anādīnavadassāvino assutavato puthujjanassa. [14.9]
 
-PLI [14.10]: Yā evarūpā upekkhā, dhammaṁ sā nātivattati. 
+Yā evarūpā upekkhā, dhammaṁ sā nātivattati. [14.10]
 
-PLI [14.11]: Tasmā sā upekkhā ‘gehasitā’ti vuccati. 
+Tasmā sā upekkhā ‘gehasitā’ti vuccati. [14.11]
 
-PLI [14.12]: Imā cha gehasitā upekkhā. 
+Imā cha gehasitā upekkhā. [14.12]
 
-PLI [15.1]: Tattha katamā cha nekkhammasitā upekkhā? 
+Tattha katamā cha nekkhammasitā upekkhā? [15.1]
 
-PLI [15.2]: Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati upekkhā. 
+Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati upekkhā. [15.2]
 
-PLI [15.3]: Yā evarūpā upekkhā, rūpaṁ sā ativattati. 
+Yā evarūpā upekkhā, rūpaṁ sā ativattati. [15.3]
 
-PLI [15.4]: Tasmā sā upekkhā ‘nekkhammasitā’ti vuccati. 
+Tasmā sā upekkhā ‘nekkhammasitā’ti vuccati. [15.4]
 
-PLI [15.5]: Saddānaṁ tveva … 
+Saddānaṁ tveva … [15.5]
 
-PLI [15.6]: gandhānaṁ tveva … 
+gandhānaṁ tveva … [15.6]
 
-PLI [15.7]: rasānaṁ tveva … 
+rasānaṁ tveva … [15.7]
 
-PLI [15.8]: phoṭṭhabbānaṁ tveva … 
+phoṭṭhabbānaṁ tveva … [15.8]
 
-PLI [15.9]: dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati upekkhā. 
+dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati upekkhā. [15.9]
 
-PLI [15.10]: Yā evarūpā upekkhā, dhammaṁ sā ativattati. 
+Yā evarūpā upekkhā, dhammaṁ sā ativattati. [15.10]
 
-PLI [15.11]: Tasmā sā upekkhā ‘nekkhammasitā’ti vuccati. 
+Tasmā sā upekkhā ‘nekkhammasitā’ti vuccati. [15.11]
 
-PLI [15.12]: Imā cha nekkhammasitā upekkhā. 
+Imā cha nekkhammasitā upekkhā. [15.12]
 
-PLI [15.13]: ‘Chattiṁsa sattapadā veditabbā’ti—
+‘Chattiṁsa sattapadā veditabbā’ti— [15.13]
 
-PLI [15.14]: iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. 
+iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. [15.14]
 
-PLI [16.1]: ‘Tatra idaṁ nissāya idaṁ pajahathā’ti—
+‘Tatra idaṁ nissāya idaṁ pajahathā’ti— [16.1]
 
-PLI [16.2]: iti kho panetaṁ vuttaṁ; Kiñcetaṁ paṭicca vuttaṁ? 
+iti kho panetaṁ vuttaṁ; Kiñcetaṁ paṭicca vuttaṁ? [16.2]
 
-PLI [16.3]: Tatra, bhikkhave, yāni cha nekkhammasitāni somanassāni tāni nissāya tāni āgamma yāni cha gehasitāni somanassāni tāni pajahatha, tāni samatikkamatha. 
+Tatra, bhikkhave, yāni cha nekkhammasitāni somanassāni tāni nissāya tāni āgamma yāni cha gehasitāni somanassāni tāni pajahatha, tāni samatikkamatha. [16.3]
 
-PLI [16.4]: Evametesaṁ pahānaṁ hoti, evametesaṁ samatikkamo hoti. 
+Evametesaṁ pahānaṁ hoti, evametesaṁ samatikkamo hoti. [16.4]
 
-PLI [16.5]: Tatra, bhikkhave, yāni cha nekkhammasitāni domanassāni tāni nissāya tāni āgamma yāni cha gehasitāni domanassāni tāni pajahatha, tāni samatikkamatha. 
+Tatra, bhikkhave, yāni cha nekkhammasitāni domanassāni tāni nissāya tāni āgamma yāni cha gehasitāni domanassāni tāni pajahatha, tāni samatikkamatha. [16.5]
 
-PLI [16.6]: Evametesaṁ pahānaṁ hoti, evametesaṁ samatikkamo hoti. 
+Evametesaṁ pahānaṁ hoti, evametesaṁ samatikkamo hoti. [16.6]
 
-PLI [16.7]: Tatra, bhikkhave, yā cha nekkhammasitā upekkhā tā nissāya tā āgamma, yā cha gehasitā upekkhā tā pajahatha tā samatikkamatha. 
+Tatra, bhikkhave, yā cha nekkhammasitā upekkhā tā nissāya tā āgamma, yā cha gehasitā upekkhā tā pajahatha tā samatikkamatha. [16.7]
 
-PLI [16.8]: Evametāsaṁ pahānaṁ hoti, evametāsaṁ samatikkamo hoti. 
+Evametāsaṁ pahānaṁ hoti, evametāsaṁ samatikkamo hoti. [16.8]
 
-PLI [16.9]: Tatra, bhikkhave, yāni cha nekkhammasitāni somanassāni tāni nissāya tāni āgamma yāni cha nekkhammasitāni domanassāni tāni pajahatha, tāni samatikkamatha. 
+Tatra, bhikkhave, yāni cha nekkhammasitāni somanassāni tāni nissāya tāni āgamma yāni cha nekkhammasitāni domanassāni tāni pajahatha, tāni samatikkamatha. [16.9]
 
-PLI [16.10]: Evametesaṁ pahānaṁ hoti, evametesaṁ samatikkamo hoti. 
+Evametesaṁ pahānaṁ hoti, evametesaṁ samatikkamo hoti. [16.10]
 
-PLI [16.11]: Tatra, bhikkhave, yā cha nekkhammasitā upekkhā tā nissāya tā āgamma yāni cha nekkhammasitāni somanassāni tāni pajahatha, tāni samatikkamatha. 
+Tatra, bhikkhave, yā cha nekkhammasitā upekkhā tā nissāya tā āgamma yāni cha nekkhammasitāni somanassāni tāni pajahatha, tāni samatikkamatha. [16.11]
 
-PLI [16.12]: Evametesaṁ pahānaṁ hoti, evametesaṁ samatikkamo hoti. 
+Evametesaṁ pahānaṁ hoti, evametesaṁ samatikkamo hoti. [16.12]
 
-PLI [17.1]: Atthi, bhikkhave, upekkhā nānattā nānattasitā, atthi upekkhā ekattā ekattasitā. 
+Atthi, bhikkhave, upekkhā nānattā nānattasitā, atthi upekkhā ekattā ekattasitā. [17.1]
 
-PLI [18.1]: Katamā ca, bhikkhave, upekkhā nānattā nānattasitā? 
+Katamā ca, bhikkhave, upekkhā nānattā nānattasitā? [18.1]
 
-PLI [18.2]: Atthi, bhikkhave, upekkhā rūpesu, atthi saddesu, atthi gandhesu, atthi rasesu, atthi phoṭṭhabbesu—
+Atthi, bhikkhave, upekkhā rūpesu, atthi saddesu, atthi gandhesu, atthi rasesu, atthi phoṭṭhabbesu— [18.2]
 
-PLI [18.3]: ayaṁ, bhikkhave, upekkhā nānattā nānattasitā. 
+ayaṁ, bhikkhave, upekkhā nānattā nānattasitā. [18.3]
 
-PLI [19.1]: Katamā ca, bhikkhave, upekkhā ekattā ekattasitā? 
+Katamā ca, bhikkhave, upekkhā ekattā ekattasitā? [19.1]
 
-PLI [19.2]: Atthi, bhikkhave, upekkhā ākāsānañcāyatananissitā, atthi viññāṇañcāyatananissitā, atthi ākiñcaññāyatananissitā, atthi nevasaññānāsaññāyatananissitā—
+Atthi, bhikkhave, upekkhā ākāsānañcāyatananissitā, atthi viññāṇañcāyatananissitā, atthi ākiñcaññāyatananissitā, atthi nevasaññānāsaññāyatananissitā— [19.2]
 
-PLI [19.3]: ayaṁ, bhikkhave, upekkhā ekattā ekattasitā. 
+ayaṁ, bhikkhave, upekkhā ekattā ekattasitā. [19.3]
 
-PLI [20.1]: Tatra, bhikkhave, yāyaṁ upekkhā ekattā ekattasitā taṁ nissāya taṁ āgamma yāyaṁ upekkhā nānattā nānattasitā taṁ pajahatha, taṁ samatikkamatha. 
+Tatra, bhikkhave, yāyaṁ upekkhā ekattā ekattasitā taṁ nissāya taṁ āgamma yāyaṁ upekkhā nānattā nānattasitā taṁ pajahatha, taṁ samatikkamatha. [20.1]
 
-PLI [20.2]: Evametissā pahānaṁ hoti, evametissā samatikkamo hoti. 
+Evametissā pahānaṁ hoti, evametissā samatikkamo hoti. [20.2]
 
-PLI [20.3]: Atammayataṁ, bhikkhave, nissāya atammayataṁ āgamma yāyaṁ upekkhā ekattā ekattasitā taṁ pajahatha, taṁ samatikkamatha. 
+Atammayataṁ, bhikkhave, nissāya atammayataṁ āgamma yāyaṁ upekkhā ekattā ekattasitā taṁ pajahatha, taṁ samatikkamatha. [20.3]
 
-PLI [20.4]: Evametissā pahānaṁ hoti, evametissā samatikkamo hoti. 
+Evametissā pahānaṁ hoti, evametissā samatikkamo hoti. [20.4]
 
-PLI [20.5]: ‘Tatra idaṁ nissāya idaṁ pajahathā’ti—
+‘Tatra idaṁ nissāya idaṁ pajahathā’ti— [20.5]
 
-PLI [20.6]: iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. 
+iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. [20.6]
 
-PLI [21.1]: ‘Tayo satipaṭṭhānā yadariyo sevati, yadariyo sevamāno satthā gaṇamanusāsitumarahatī’ti—
+‘Tayo satipaṭṭhānā yadariyo sevati, yadariyo sevamāno satthā gaṇamanusāsitumarahatī’ti— [21.1]
 
-PLI [21.2]: iti kho panetaṁ vuttaṁ; 
+iti kho panetaṁ vuttaṁ; [21.2]
 
-PLI [21.3]: kiñcetaṁ paṭicca vuttaṁ? 
+kiñcetaṁ paṭicca vuttaṁ? [21.3]
 
-PLI [22.1]: Idha, bhikkhave, satthā sāvakānaṁ dhammaṁ deseti anukampako hitesī anukampaṁ upādāya: 
+Idha, bhikkhave, satthā sāvakānaṁ dhammaṁ deseti anukampako hitesī anukampaṁ upādāya: [22.1]
 
-PLI [22.2]: ‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. 
+‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. [22.2]
 
-PLI [22.3]: Tassa sāvakā na sussūsanti, na sotaṁ odahanti, na aññā cittaṁ upaṭṭhapenti, vokkamma ca satthusāsanā vattanti. 
+Tassa sāvakā na sussūsanti, na sotaṁ odahanti, na aññā cittaṁ upaṭṭhapenti, vokkamma ca satthusāsanā vattanti. [22.3]
 
-PLI [22.4]: Tatra, bhikkhave, tathāgato na ceva anattamano hoti, na ca anattamanataṁ paṭisaṁvedeti, anavassuto ca viharati sato sampajāno. 
+Tatra, bhikkhave, tathāgato na ceva anattamano hoti, na ca anattamanataṁ paṭisaṁvedeti, anavassuto ca viharati sato sampajāno. [22.4]
 
-PLI [22.5]: Idaṁ, bhikkhave, paṭhamaṁ satipaṭṭhānaṁ yadariyo sevati, yadariyo sevamāno satthā gaṇamanusāsitumarahati. 
+Idaṁ, bhikkhave, paṭhamaṁ satipaṭṭhānaṁ yadariyo sevati, yadariyo sevamāno satthā gaṇamanusāsitumarahati. [22.5]
 
-PLI [23.1]: Puna caparaṁ, bhikkhave, satthā sāvakānaṁ dhammaṁ deseti anukampako hitesī anukampaṁ upādāya: 
+Puna caparaṁ, bhikkhave, satthā sāvakānaṁ dhammaṁ deseti anukampako hitesī anukampaṁ upādāya: [23.1]
 
-PLI [23.2]: ‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. 
+‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. [23.2]
 
-PLI [23.3]: Tassa ekacce sāvakā na sussūsanti, na sotaṁ odahanti, na aññā cittaṁ upaṭṭhapenti, vokkamma ca satthusāsanā vattanti; 
+Tassa ekacce sāvakā na sussūsanti, na sotaṁ odahanti, na aññā cittaṁ upaṭṭhapenti, vokkamma ca satthusāsanā vattanti; [23.3]
 
-PLI [23.4]: ekacce sāvakā sussūsanti, sotaṁ odahanti, aññā cittaṁ upaṭṭhapenti, na ca vokkamma satthusāsanā vattanti. 
+ekacce sāvakā sussūsanti, sotaṁ odahanti, aññā cittaṁ upaṭṭhapenti, na ca vokkamma satthusāsanā vattanti. [23.4]
 
-PLI [23.5]: Tatra, bhikkhave, tathāgato na ceva anattamano hoti, na ca anattamanataṁ paṭisaṁvedeti; 
+Tatra, bhikkhave, tathāgato na ceva anattamano hoti, na ca anattamanataṁ paṭisaṁvedeti; [23.5]
 
-PLI [23.6]: na ca attamano hoti, na ca attamanataṁ paṭisaṁvedeti. 
+na ca attamano hoti, na ca attamanataṁ paṭisaṁvedeti. [23.6]
 
-PLI [23.7]: Anattamanatā ca attamanatā ca—
+Anattamanatā ca attamanatā ca— [23.7]
 
-PLI [23.8]: tadubhayaṁ abhinivajjetvā upekkhako viharati sato sampajāno. 
+tadubhayaṁ abhinivajjetvā upekkhako viharati sato sampajāno. [23.8]
 
-PLI [23.9]: Idaṁ vuccati, bhikkhave, dutiyaṁ satipaṭṭhānaṁ yadariyo sevati, yadariyo sevamāno satthā gaṇamanusāsitumarahati. 
+Idaṁ vuccati, bhikkhave, dutiyaṁ satipaṭṭhānaṁ yadariyo sevati, yadariyo sevamāno satthā gaṇamanusāsitumarahati. [23.9]
 
-PLI [24.1]: Puna caparaṁ, bhikkhave, satthā sāvakānaṁ dhammaṁ deseti anukampako hitesī anukampaṁ upādāya: 
+Puna caparaṁ, bhikkhave, satthā sāvakānaṁ dhammaṁ deseti anukampako hitesī anukampaṁ upādāya: [24.1]
 
-PLI [24.2]: ‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. 
+‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. [24.2]
 
-PLI [24.3]: Tassa sāvakā sussūsanti, sotaṁ odahanti, aññācittaṁ upaṭṭhapenti, na ca vokkamma satthusāsanā vattanti. 
+Tassa sāvakā sussūsanti, sotaṁ odahanti, aññācittaṁ upaṭṭhapenti, na ca vokkamma satthusāsanā vattanti. [24.3]
 
-PLI [24.4]: Tatra, bhikkhave, tathāgato attamano ceva hoti, attamanatañca paṭisaṁvedeti, anavassuto ca viharati sato sampajāno. 
+Tatra, bhikkhave, tathāgato attamano ceva hoti, attamanatañca paṭisaṁvedeti, anavassuto ca viharati sato sampajāno. [24.4]
 
-PLI [24.5]: Idaṁ vuccati, bhikkhave, tatiyaṁ satipaṭṭhānaṁ yadariyo sevati, yadariyo sevamāno satthā gaṇamanusāsitumarahati. 
+Idaṁ vuccati, bhikkhave, tatiyaṁ satipaṭṭhānaṁ yadariyo sevati, yadariyo sevamāno satthā gaṇamanusāsitumarahati. [24.5]
 
-PLI [24.6]: ‘Tayo satipaṭṭhānā yadariyo sevati, yadariyo sevamāno satthā gaṇamanusāsitumarahatī’ti—
+‘Tayo satipaṭṭhānā yadariyo sevati, yadariyo sevamāno satthā gaṇamanusāsitumarahatī’ti— [24.6]
 
-PLI [24.7]: iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. 
+iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. [24.7]
 
-PLI [25.1]: ‘So vuccati yoggācariyānaṁ anuttaro purisadammasārathī’ti—
+‘So vuccati yoggācariyānaṁ anuttaro purisadammasārathī’ti— [25.1]
 
-PLI [25.2]: iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? 
+iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? [25.2]
 
-PLI [25.3]: Hatthidamakena, bhikkhave, hatthidammo sārito ekaṁyeva disaṁ dhāvati—
+Hatthidamakena, bhikkhave, hatthidammo sārito ekaṁyeva disaṁ dhāvati— [25.3]
 
-PLI [25.4]: puratthimaṁ vā pacchimaṁ vā uttaraṁ vā dakkhiṇaṁ vā. 
+puratthimaṁ vā pacchimaṁ vā uttaraṁ vā dakkhiṇaṁ vā. [25.4]
 
-PLI [26.1]: Assadamakena, bhikkhave, assadammo sārito ekaññeva disaṁ dhāvati—
+Assadamakena, bhikkhave, assadammo sārito ekaññeva disaṁ dhāvati— [26.1]
 
-PLI [26.2]: puratthimaṁ vā pacchimaṁ vā uttaraṁ vā dakkhiṇaṁ vā. 
+puratthimaṁ vā pacchimaṁ vā uttaraṁ vā dakkhiṇaṁ vā. [26.2]
 
-PLI [26.3]: Godamakena, bhikkhave, godammo sārito ekaññeva disaṁ dhāvati—
+Godamakena, bhikkhave, godammo sārito ekaññeva disaṁ dhāvati— [26.3]
 
-PLI [26.4]: puratthimaṁ vā pacchimaṁ vā uttaraṁ vā dakkhiṇaṁ vā. 
+puratthimaṁ vā pacchimaṁ vā uttaraṁ vā dakkhiṇaṁ vā. [26.4]
 
-PLI [26.5]: Tathāgatena hi, bhikkhave, arahatā sammāsambuddhena purisadammo sārito aṭṭha disā vidhāvati. 
+Tathāgatena hi, bhikkhave, arahatā sammāsambuddhena purisadammo sārito aṭṭha disā vidhāvati. [26.5]
 
-PLI [27.1]: Rūpī rūpāni passati—
+Rūpī rūpāni passati— [27.1]
 
-PLI [27.2]: ayaṁ ekā disā; 
+ayaṁ ekā disā; [27.2]
 
-PLI [27.3]: ajjhattaṁ arūpasaññī bahiddhā rūpāni passati—
+ajjhattaṁ arūpasaññī bahiddhā rūpāni passati— [27.3]
 
-PLI [27.4]: ayaṁ dutiyā disā; 
+ayaṁ dutiyā disā; [27.4]
 
-PLI [27.5]: subhantveva adhimutto hoti—
+subhantveva adhimutto hoti— [27.5]
 
-PLI [27.6]: ayaṁ tatiyā disā; 
+ayaṁ tatiyā disā; [27.6]
 
-PLI [27.7]: sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati—
+sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati— [27.7]
 
-PLI [27.8]: ayaṁ catutthī disā; 
+ayaṁ catutthī disā; [27.8]
 
-PLI [27.9]: sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati—
+sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati— [27.9]
 
-PLI [27.10]: ayaṁ pañcamī disā; 
+ayaṁ pañcamī disā; [27.10]
 
-PLI [27.11]: sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati—
+sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati— [27.11]
 
-PLI [27.12]: ayaṁ chaṭṭhī disā; 
+ayaṁ chaṭṭhī disā; [27.12]
 
-PLI [27.13]: sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati—
+sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati— [27.13]
 
-PLI [27.14]: ayaṁ sattamī disā; 
+ayaṁ sattamī disā; [27.14]
 
-PLI [27.15]: sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati—
+sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati— [27.15]
 
-PLI [27.16]: ayaṁ aṭṭhamī disā. 
+ayaṁ aṭṭhamī disā. [27.16]
 
-PLI [27.17]: Tathāgatena, bhikkhave, arahatā sammāsambuddhena purisadammo sārito imā aṭṭha disā vidhāvati. 
+Tathāgatena, bhikkhave, arahatā sammāsambuddhena purisadammo sārito imā aṭṭha disā vidhāvati. [27.17]
 
-PLI [28.1]: So vuccati: ‘yoggācariyānaṁ anuttaro purisadammasārathī’ti—
+So vuccati: ‘yoggācariyānaṁ anuttaro purisadammasārathī’ti— [28.1]
 
-PLI [28.2]: iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttan”ti. 
+iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttan”ti. [28.2]
 
-PLI [28.3]: Idamavoca bhagavā. 
+Idamavoca bhagavā. [28.3]
 
-PLI [28.4]: Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti. 
+Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti. [28.4]
 
-PLI [28.5]: Saḷāyatanavibhaṅgasuttaṁ niṭṭhitaṁ sattamaṁ.
+Saḷāyatanavibhaṅgasuttaṁ niṭṭhitaṁ sattamaṁ. [28.5]

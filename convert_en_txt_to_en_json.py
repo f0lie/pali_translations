@@ -41,22 +41,20 @@ def parse_translation_doc(filepath: str) -> tuple[dict[str, str], dict[str, str]
 
     with open(filepath, "r", encoding="utf-8") as f:
         for line in f:
-            line = line.strip()
             # Parse SUTTA name
             if match := re.match(r"\[SUTTA (.*?)\]", line):
                 current_sutta = match.group(1)
             # Parse English lines
-            elif match := re.match(r"\[E (\d+(?:\.\d+)?)\] (.*)", line):
-                key = f"{current_sutta}:{match.group(1)}"
-                translation_data[key] = match.group(2)
+            elif match := re.match(r"(.*?) \[E (\d+(?:\.\d+)?)\]", line):
+                key = f"{current_sutta}:{match.group(2)}"
+                translation_data[key] = match.group(1).strip()
             # Parse comments
-            elif match := re.match(r"\[C (\d+(?:\.\d+)?)\] (.*)", line):
-                key = f"{current_sutta}:{match.group(1)}"
-                # Handle lines with multiple comments on them.
+            elif match := re.match(r"(.*?) \[C (\d+(?:\.\d+)?)\]", line):
+                key = f"{current_sutta}:{match.group(2)}"
                 if key not in comment_data:
-                    comment_data[key] = match.group(2)
+                    comment_data[key] = match.group(1).strip()
                 else:
-                    comment_data[key] += f"\n\n{match.group(2)}"
+                    comment_data[key] += f"\n\n{match.group(1)}"
 
     return translation_data, comment_data
 
@@ -79,7 +77,7 @@ def write_translation_and_comment_files(
     translation_output_path = filepath.replace(".txt", ".json")
     os.makedirs(os.path.dirname(translation_output_path), exist_ok=True)
     with open(translation_output_path, "w", encoding="utf-8") as f:
-        json.dump(translation_dict, f, indent=0, ensure_ascii=False)
+        json.dump(translation_dict, f, indent=2, ensure_ascii=False)
 
     comment_output_path = (
         translation_filepath.replace("/translation-en", "/comment")
@@ -88,7 +86,7 @@ def write_translation_and_comment_files(
     )
     os.makedirs(os.path.dirname(comment_output_path), exist_ok=True)
     with open(comment_output_path, "w", encoding="utf-8") as f:
-        json.dump(comments_dict, f, indent=0, ensure_ascii=False)
+        json.dump(comments_dict, f, indent=2, ensure_ascii=False)
 
 
 # translation_filepath = "suttas/translation-en/mn/mn3_translation-en-f0lie.txt"

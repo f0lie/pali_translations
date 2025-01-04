@@ -21,12 +21,13 @@ def format_sutta(filepath: str) -> str:
         if sutta_current != sutta:
             output += f"[SUTTA {sutta}]\n\n"
             sutta_current = sutta
-        output += f"[{segment_num}] {text}\n\n"
+        output += f"{text.strip()} [{segment_num}]\n\n"
 
     return output.strip()
 
 
-filepath = "suttas/root/kn/dhp/dhp1-20_root-pli-ms.json"
+# filepath = "suttas/root/kn/dhp/dhp1-20_root-pli-ms.json"
+filepath = "suttas/root/mn/mn137_root-pli-ms.json"
 if formatted_text := format_sutta(filepath):
     output_filepath = filepath.replace(
         "suttas/root/", "suttas/translation-en/"

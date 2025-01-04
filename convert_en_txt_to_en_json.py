@@ -31,36 +31,39 @@ def find_pali_filepath(translation_filepath: str, root_dir: str = "suttas/root")
     raise ValueError(f"No matching Pali file found for: {translation_filepath}")
 
 
-def extract_segments_to_dict(text: list[str], filter: str) -> dict[str, str]:
+def parse_translation_doc(filepath: str) -> tuple[dict[str, str], dict[str, str]]:
     """
-    Extracts segments from text based on a given filter.
+    Parse translation file format into json files.
     """
+    translation_data = {}
+    comment_data = {}
     current_sutta = ""
-    output_dict = {}
-    filter_pattern = rf"^{filter} \[(.*?)\]: (.*)"
 
-    for line in text:
-        if line.startswith("SUTTA:"):
-            current_sutta = line.split(": ")[1].strip()
-        if matched := re.match(filter_pattern, line):
-            section_number = matched.group(1)
-            text = matched.group(2)
-            output_dict[current_sutta + ":" + section_number] = text
+    with open(filepath, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            # Parse SUTTA name
+            if match := re.match(r"\[SUTTA (.*?)\]", line):
+                current_sutta = match.group(1)
+            # Parse English lines
+            elif match := re.match(r"\[E (\d+(?:\.\d+)?)\] (.*)", line):
+                key = f"{current_sutta}:{match.group(1)}"
+                translation_data[key] = match.group(2)
+            # Parse comments
+            elif match := re.match(r"\[C (\d+(?:\.\d+)?)\] (.*)", line):
+                key = f"{current_sutta}:{match.group(1)}"
+                comment_data[key] = match.group(2)
 
-    return output_dict
+    return translation_data, comment_data
 
 
-def add_trailing_whitespace(
-    pali_json: dict[str, str], translated_dict: dict[str, str]
-) -> dict[str, str]:
+def add_trailing_whitespace(pali_json: dict[str, str], translated_dict: dict[str, str]):
     """
     Adds trailing whitespace to translated segments if the corresponding Pali segment ends with whitespace.
     """
-    new_translated_dict = translated_dict.copy()
     for segment_num, text in pali_json.items():
-        if segment_num in new_translated_dict and text.endswith(" "):
-            new_translated_dict[segment_num] += " "
-    return new_translated_dict
+        if segment_num in translated_dict and text.endswith(" "):
+            translated_dict[segment_num] += " "
 
 
 translation_filepath = "suttas/translation-en/mn/mn3_translation-en-f0lie.txt"
@@ -69,15 +72,12 @@ pali_filepath = find_pali_filepath(translation_filepath)
 with open(pali_filepath, "r", encoding="utf-8") as f:
     pali_json = json.load(f)
 
-with open(translation_filepath, "r", encoding="utf-8") as f:
-    lines = f.readlines()
-    en_translation_dict = extract_segments_to_dict(lines, "EN")
-    en_translation_dict = add_trailing_whitespace(pali_json, en_translation_dict)
-    en_comments_dict = extract_segments_to_dict(lines, "EN-COMMENT")
+translation_dict, comments_dict = parse_translation_doc(translation_filepath)
+add_trailing_whitespace(pali_json, translation_dict)
 
 translation_output_path = translation_filepath.replace(".txt", ".json")
 with open(translation_output_path, "w", encoding="utf-8") as f:
-    json.dump(en_translation_dict, f, indent=2, ensure_ascii=False)
+    json.dump(translation_dict, f, indent=2, ensure_ascii=False)
 
 comment_output_path = (
     translation_filepath.replace("/translation-en", "/comment")
@@ -85,4 +85,4 @@ comment_output_path = (
     .replace(".txt", ".json")
 )
 with open(comment_output_path, "w", encoding="utf-8") as f:
-    json.dump(en_comments_dict, f, indent=2, ensure_ascii=False)
+    json.dump(comments_dict, f, indent=2, ensure_ascii=False)

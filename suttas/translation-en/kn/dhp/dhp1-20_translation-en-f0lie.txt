@@ -1,255 +1,255 @@
-SUTTA: dhp1
+[SUTTA dhp1]
 
-PLI [0.1]: Khuddakanikāya 
+[0.1] Khuddakanikāya 
 
-PLI [0.2]: Dhammapada 
+[0.2] Dhammapada 
 
-PLI [0.3]: Yamakavagga 
+[0.3] Yamakavagga 
 
-PLI [0.4]: Cakkhupālattheravatthu 
+[0.4] Cakkhupālattheravatthu 
 
-PLI [1]: Manopubbaṅgamā dhammā, 
+[1] Manopubbaṅgamā dhammā, 
 
-PLI [2]: manoseṭṭhā manomayā; 
+[2] manoseṭṭhā manomayā; 
 
-PLI [3]: Manasā ce paduṭṭhena, 
+[3] Manasā ce paduṭṭhena, 
 
-PLI [4]: bhāsati vā karoti vā; 
+[4] bhāsati vā karoti vā; 
 
-PLI [5]: Tato naṁ dukkhamanveti, 
+[5] Tato naṁ dukkhamanveti, 
 
-PLI [6]: cakkaṁva vahato padaṁ. 
+[6] cakkaṁva vahato padaṁ. 
 
-SUTTA: dhp2
+[SUTTA dhp2]
 
-PLI [0]: Maṭṭhakuṇḍalīvatthu 
+[0] Maṭṭhakuṇḍalīvatthu 
 
-PLI [1]: Manopubbaṅgamā dhammā, 
+[1] Manopubbaṅgamā dhammā, 
 
-PLI [2]: manoseṭṭhā manomayā; 
+[2] manoseṭṭhā manomayā; 
 
-PLI [3]: Manasā ce pasannena, 
+[3] Manasā ce pasannena, 
 
-PLI [4]: bhāsati vā karoti vā; 
+[4] bhāsati vā karoti vā; 
 
-PLI [5]: Tato naṁ sukhamanveti, 
+[5] Tato naṁ sukhamanveti, 
 
-PLI [6]: chāyāva anapāyinī. 
+[6] chāyāva anapāyinī. 
 
-SUTTA: dhp3
+[SUTTA dhp3]
 
-PLI [0]: Tissattheravatthu 
+[0] Tissattheravatthu 
 
-PLI [1]: Akkocchi maṁ avadhi maṁ, 
+[1] Akkocchi maṁ avadhi maṁ, 
 
-PLI [2]: ajini maṁ ahāsi me; 
+[2] ajini maṁ ahāsi me; 
 
-PLI [3]: Ye ca taṁ upanayhanti, 
+[3] Ye ca taṁ upanayhanti, 
 
-PLI [4]: veraṁ tesaṁ na sammati. 
+[4] veraṁ tesaṁ na sammati. 
 
-SUTTA: dhp4
+[SUTTA dhp4]
 
-PLI [1]: Akkocchi maṁ avadhi maṁ, 
+[1] Akkocchi maṁ avadhi maṁ, 
 
-PLI [2]: ajini maṁ ahāsi me; 
+[2] ajini maṁ ahāsi me; 
 
-PLI [3]: Ye ca taṁ nupanayhanti, 
+[3] Ye ca taṁ nupanayhanti, 
 
-PLI [4]: veraṁ tesūpasammati. 
+[4] veraṁ tesūpasammati. 
 
-SUTTA: dhp5
+[SUTTA dhp5]
 
-PLI [0]: Kāḷayakkhinīvatthu 
+[0] Kāḷayakkhinīvatthu 
 
-PLI [1]: Na hi verena verāni, 
+[1] Na hi verena verāni, 
 
-PLI [2]: sammantīdha kudācanaṁ; 
+[2] sammantīdha kudācanaṁ; 
 
-PLI [3]: Averena ca sammanti, 
+[3] Averena ca sammanti, 
 
-PLI [4]: esa dhammo sanantano. 
+[4] esa dhammo sanantano. 
 
-SUTTA: dhp6
+[SUTTA dhp6]
 
-PLI [0]: Kosambakavatthu 
+[0] Kosambakavatthu 
 
-PLI [1]: Pare ca na vijānanti, 
+[1] Pare ca na vijānanti, 
 
-PLI [2]: mayamettha yamāmase; 
+[2] mayamettha yamāmase; 
 
-PLI [3]: Ye ca tattha vijānanti, 
+[3] Ye ca tattha vijānanti, 
 
-PLI [4]: tato sammanti medhagā. 
+[4] tato sammanti medhagā. 
 
-SUTTA: dhp7
+[SUTTA dhp7]
 
-PLI [0]: Mahākāḷattheravatthu 
+[0] Mahākāḷattheravatthu 
 
-PLI [1]: Subhānupassiṁ viharantaṁ, 
+[1] Subhānupassiṁ viharantaṁ, 
 
-PLI [2]: indriyesu asaṁvutaṁ; 
+[2] indriyesu asaṁvutaṁ; 
 
-PLI [3]: Bhojanamhi cāmattaññuṁ, 
+[3] Bhojanamhi cāmattaññuṁ, 
 
-PLI [4]: kusītaṁ hīnavīriyaṁ; 
+[4] kusītaṁ hīnavīriyaṁ; 
 
-PLI [5]: Taṁ ve pasahati māro, 
+[5] Taṁ ve pasahati māro, 
 
-PLI [6]: vāto rukkhaṁva dubbalaṁ. 
+[6] vāto rukkhaṁva dubbalaṁ. 
 
-SUTTA: dhp8
+[SUTTA dhp8]
 
-PLI [1]: Asubhānupassiṁ viharantaṁ, 
+[1] Asubhānupassiṁ viharantaṁ, 
 
-PLI [2]: Indriyesu susaṁvutaṁ; 
+[2] Indriyesu susaṁvutaṁ; 
 
-PLI [3]: Bhojanamhi ca mattaññuṁ, 
+[3] Bhojanamhi ca mattaññuṁ, 
 
-PLI [4]: Saddhaṁ āraddhavīriyaṁ; 
+[4] Saddhaṁ āraddhavīriyaṁ; 
 
-PLI [5]: Taṁ ve nappasahati māro, 
+[5] Taṁ ve nappasahati māro, 
 
-PLI [6]: Vāto selaṁva pabbataṁ. 
+[6] Vāto selaṁva pabbataṁ. 
 
-SUTTA: dhp9
+[SUTTA dhp9]
 
-PLI [0]: Devadattavatthu 
+[0] Devadattavatthu 
 
-PLI [1]: Anikkasāvo kāsāvaṁ, 
+[1] Anikkasāvo kāsāvaṁ, 
 
-PLI [2]: yo vatthaṁ paridahissati; 
+[2] yo vatthaṁ paridahissati; 
 
-PLI [3]: Apeto damasaccena, 
+[3] Apeto damasaccena, 
 
-PLI [4]: na so kāsāvamarahati. 
+[4] na so kāsāvamarahati. 
 
-SUTTA: dhp10
+[SUTTA dhp10]
 
-PLI [1]: Yo ca vantakasāvassa, 
+[1] Yo ca vantakasāvassa, 
 
-PLI [2]: sīlesu susamāhito; 
+[2] sīlesu susamāhito; 
 
-PLI [3]: Upeto damasaccena, 
+[3] Upeto damasaccena, 
 
-PLI [4]: sa ve kāsāvamarahati. 
+[4] sa ve kāsāvamarahati. 
 
-SUTTA: dhp11
+[SUTTA dhp11]
 
-PLI [0]: Sāriputtattheravatthu 
+[0] Sāriputtattheravatthu 
 
-PLI [1]: Asāre sāramatino, 
+[1] Asāre sāramatino, 
 
-PLI [2]: sāre cāsāradassino; 
+[2] sāre cāsāradassino; 
 
-PLI [3]: Te sāraṁ nādhigacchanti, 
+[3] Te sāraṁ nādhigacchanti, 
 
-PLI [4]: micchāsaṅkappagocarā. 
+[4] micchāsaṅkappagocarā. 
 
-SUTTA: dhp12
+[SUTTA dhp12]
 
-PLI [1]: Sārañca sārato ñatvā, 
+[1] Sārañca sārato ñatvā, 
 
-PLI [2]: asārañca asārato; 
+[2] asārañca asārato; 
 
-PLI [3]: Te sāraṁ adhigacchanti, 
+[3] Te sāraṁ adhigacchanti, 
 
-PLI [4]: sammāsaṅkappagocarā. 
+[4] sammāsaṅkappagocarā. 
 
-SUTTA: dhp13
+[SUTTA dhp13]
 
-PLI [0]: Nandattheravatthu 
+[0] Nandattheravatthu 
 
-PLI [1]: Yathā agāraṁ ducchannaṁ, 
+[1] Yathā agāraṁ ducchannaṁ, 
 
-PLI [2]: vuṭṭhī samativijjhati; 
+[2] vuṭṭhī samativijjhati; 
 
-PLI [3]: Evaṁ abhāvitaṁ cittaṁ, 
+[3] Evaṁ abhāvitaṁ cittaṁ, 
 
-PLI [4]: rāgo samativijjhati. 
+[4] rāgo samativijjhati. 
 
-SUTTA: dhp14
+[SUTTA dhp14]
 
-PLI [1]: Yathā agāraṁ suchannaṁ, 
+[1] Yathā agāraṁ suchannaṁ, 
 
-PLI [2]: vuṭṭhī na samativijjhati; 
+[2] vuṭṭhī na samativijjhati; 
 
-PLI [3]: Evaṁ subhāvitaṁ cittaṁ, 
+[3] Evaṁ subhāvitaṁ cittaṁ, 
 
-PLI [4]: rāgo na samativijjhati. 
+[4] rāgo na samativijjhati. 
 
-SUTTA: dhp15
+[SUTTA dhp15]
 
-PLI [0]: Cundasūkarikavatthu 
+[0] Cundasūkarikavatthu 
 
-PLI [1]: Idha socati pecca socati, 
+[1] Idha socati pecca socati, 
 
-PLI [2]: Pāpakārī ubhayattha socati; 
+[2] Pāpakārī ubhayattha socati; 
 
-PLI [3]: So socati so vihaññati, 
+[3] So socati so vihaññati, 
 
-PLI [4]: Disvā kammakiliṭṭhamattano. 
+[4] Disvā kammakiliṭṭhamattano. 
 
-SUTTA: dhp16
+[SUTTA dhp16]
 
-PLI [0]: Dhammikaupāsakavatthu 
+[0] Dhammikaupāsakavatthu 
 
-PLI [1]: Idha modati pecca modati, 
+[1] Idha modati pecca modati, 
 
-PLI [2]: Katapuñño ubhayattha modati; 
+[2] Katapuñño ubhayattha modati; 
 
-PLI [3]: So modati so pamodati, 
+[3] So modati so pamodati, 
 
-PLI [4]: Disvā kammavisuddhimattano. 
+[4] Disvā kammavisuddhimattano. 
 
-SUTTA: dhp17
+[SUTTA dhp17]
 
-PLI [0]: Devadattavatthu 
+[0] Devadattavatthu 
 
-PLI [1]: Idha tappati pecca tappati, 
+[1] Idha tappati pecca tappati, 
 
-PLI [2]: Pāpakārī ubhayattha tappati; 
+[2] Pāpakārī ubhayattha tappati; 
 
-PLI [3]: “Pāpaṁ me katan”ti tappati, 
+[3] “Pāpaṁ me katan”ti tappati, 
 
-PLI [4]: Bhiyyo tappati duggatiṁ gato. 
+[4] Bhiyyo tappati duggatiṁ gato. 
 
-SUTTA: dhp18
+[SUTTA dhp18]
 
-PLI [0]: Sumanadevīvatthu 
+[0] Sumanadevīvatthu 
 
-PLI [1]: Idha nandati pecca nandati, 
+[1] Idha nandati pecca nandati, 
 
-PLI [2]: Katapuñño ubhayattha nandati; 
+[2] Katapuñño ubhayattha nandati; 
 
-PLI [3]: “Puññaṁ me katan”ti nandati, 
+[3] “Puññaṁ me katan”ti nandati, 
 
-PLI [4]: Bhiyyo nandati suggatiṁ gato. 
+[4] Bhiyyo nandati suggatiṁ gato. 
 
-SUTTA: dhp19
+[SUTTA dhp19]
 
-PLI [0]: Dvesahāyakabhikkhuvatthu 
+[0] Dvesahāyakabhikkhuvatthu 
 
-PLI [1]: Bahumpi ce saṁhita bhāsamāno, 
+[1] Bahumpi ce saṁhita bhāsamāno, 
 
-PLI [2]: Na takkaro hoti naro pamatto; 
+[2] Na takkaro hoti naro pamatto; 
 
-PLI [3]: Gopova gāvo gaṇayaṁ paresaṁ, 
+[3] Gopova gāvo gaṇayaṁ paresaṁ, 
 
-PLI [4]: Na bhāgavā sāmaññassa hoti. 
+[4] Na bhāgavā sāmaññassa hoti. 
 
-SUTTA: dhp20
+[SUTTA dhp20]
 
-PLI [1]: Appampi ce saṁhita bhāsamāno, 
+[1] Appampi ce saṁhita bhāsamāno, 
 
-PLI [2]: Dhammassa hoti anudhammacārī; 
+[2] Dhammassa hoti anudhammacārī; 
 
-PLI [3]: Rāgañca dosañca pahāya mohaṁ, 
+[3] Rāgañca dosañca pahāya mohaṁ, 
 
-PLI [4]: Sammappajāno suvimuttacitto; 
+[4] Sammappajāno suvimuttacitto; 
 
-PLI [5]: Anupādiyāno idha vā huraṁ vā, 
+[5] Anupādiyāno idha vā huraṁ vā, 
 
-PLI [6]: Sa bhāgavā sāmaññassa hoti. 
+[6] Sa bhāgavā sāmaññassa hoti. 
 
-PLI [7]: Yamakavaggo paṭhamo.
+[7] Yamakavaggo paṭhamo.

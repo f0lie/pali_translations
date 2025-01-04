@@ -19,9 +19,9 @@ def format_sutta(filepath: str) -> str:
     for tag_segment_num, text in data.items():
         sutta, segment_num = tag_segment_num.split(":")
         if sutta_current != sutta:
-            output += f"SUTTA: {sutta}\n\n"
+            output += f"[SUTTA {sutta}]\n\n"
             sutta_current = sutta
-        output += f"PLI [{segment_num}]: {text}\n\n"
+        output += f"[{segment_num}] {text}\n\n"
 
     return output.strip()
 

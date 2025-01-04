@@ -4,252 +4,373 @@
 
 [0.2] Dhammapada 
 
-[0.3] Yamakavagga 
+[0.3] Yamakavagga
 
-[0.4] Cakkhupālattheravatthu 
+[C 0.3] These verses are about or spoken by different people in the suttas. Each verse is self-contained and a complete teaching in itself.
 
-[1] Manopubbaṅgamā dhammā, 
+[0.4] Cakkhupālattheravatthu
 
-[2] manoseṭṭhā manomayā; 
+[1] Manopubbaṅgamā dhammā,
+[E 1] Mental states herald by you,
 
-[3] Manasā ce paduṭṭhena, 
+[2] manoseṭṭhā manomayā;
+[E 1] Foremost by you, made by you;
 
-[4] bhāsati vā karoti vā; 
+[3] Manasā ce paduṭṭhena,
+[E 3] If through contamination, by you,
 
-[5] Tato naṁ dukkhamanveti, 
+[4] bhāsati vā karoti vā;
+[E 4] speak or act;
 
-[6] cakkaṁva vahato padaṁ. 
+[5] Tato naṁ dukkhamanveti,
+[E 5] Your ill-being follows,
+
+[6] cakkaṁva vahato padaṁ.
+[E 6] Like a cart pulled by footsteps;
+
+[C 1] "Mano" is translated as "you" to convey the immediacy that other renderings like "mind," "one," or "intention" lack. "Citta" is a distinct concept, referring to the “heart-mind”, “wild animal”, or “inner child”, while "mano" here represents the volitional agent—"you"—directly responsible for actions.
+
+[C 1] "Dhammā" here encompasses multiple meanings: the teachings as understood by you, the mental states arising from your actions, and you within the context of the way things are.
+
+[C 3] Both "manasā" (by means of mano) and "paduṭṭhena" (by means of contamination) are in the instrumental case, and the verse states "speaks" (bhāsati) or "acts" (karoti) with no other agent. Thus, mano—"you"—is the actor. The contamination ("paduṭṭhena") modifies the means of action ("manasā"), meaning through action, contamination from past actions maintains ill-being.
+
+[C 4] Dukkha (ill-being, unsatisfactoriness) and sukha (well-being, satisfaction) describe more than just emotions. They refer to the overall quality of one's experiential “space'” (kha), akin to the open “space” of the sky. The prefix "du" is negative, meaning "bad" or "difficult". Thus, dukkha indicates a constricted or unsatisfactory state of existence. The prefix “su” is positive, meaning “well” or “excellent”. This “space” (kha) encompasses the “being” in “well-being” and “ill-being,” indicating the totality of one's state of existence.
+
+[C 4] Contamination itself does not force action; acting out is still on you. Rather, contamination is a state arising from past unwholesome actions. If one acts out with this contaminated state, further ill-being inevitably follows.
+
+[C 6] The verse compares "speak or act" to "footsteps," emphasizing that ill-being is a result of one's actions, not a random occurrence. This aligns with the principle that "beings are owners of their actions."
 
 [SUTTA dhp2]
 
-[0] Maṭṭhakuṇḍalīvatthu 
+[0] Maṭṭhakuṇḍalīvatthu
 
-[1] Manopubbaṅgamā dhammā, 
+[1] Manopubbaṅgamā dhammā,
+[E 1] Mental states herald by you,
 
-[2] manoseṭṭhā manomayā; 
+[2] manoseṭṭhā manomayā;
+[E 2] Foremost by you, made by you;
 
-[3] Manasā ce pasannena, 
+[3] Manasā ce pasannena,
+[E 3] If through lucidity, by you,
 
-[4] bhāsati vā karoti vā; 
+[4] bhāsati vā karoti vā;
+[E 4] speak or act;
 
-[5] Tato naṁ sukhamanveti, 
+[5] Tato naṁ sukhamanveti,
+[E 5] Your well-being follows,
 
 [6] chāyāva anapāyinī. 
+[E 6] Like a never leaving shadow.
 
 [SUTTA dhp3]
 
-[0] Tissattheravatthu 
+[0] Tissattheravatthu
 
-[1] Akkocchi maṁ avadhi maṁ, 
+[1] Akkocchi maṁ avadhi maṁ,
+[E 1] Berated me! Struck me!
 
-[2] ajini maṁ ahāsi me; 
+[2] ajini maṁ ahāsi me;
+[E 2] Robbed me! Mine was taken!
 
-[3] Ye ca taṁ upanayhanti, 
+[3] Ye ca taṁ upanayhanti,
+[E 3] Whoever bears this burden,
 
-[4] veraṁ tesaṁ na sammati. 
+[4] veraṁ tesaṁ na sammati.
+[E 4] Their hostilities aren’t settled.
+
+[C 3] The Pali word taṁ means "that," and the verb upanayhanti means "to carry, to hold, to harbor." Translating literally as “hold onto that” doesn’t convey the same sense of the resentment’s weight hence “bear this burden”. This also parallels “discard this burden”.
 
 [SUTTA dhp4]
 
-[1] Akkocchi maṁ avadhi maṁ, 
+[1] Akkocchi maṁ avadhi maṁ,
+[E 1] Berated me! Struck me!
 
-[2] ajini maṁ ahāsi me; 
+[2] ajini maṁ ahāsi me;
+[E 2] Robbed me! Mine was taken!
 
-[3] Ye ca taṁ nupanayhanti, 
+[3] Ye ca taṁ nupanayhanti,
+[E 3] Whoever discard this burden,
 
-[4] veraṁ tesūpasammati. 
+[4] veraṁ tesūpasammati.
+[E 4] Their hostilities are settled.
 
 [SUTTA dhp5]
 
-[0] Kāḷayakkhinīvatthu 
+[0] Kāḷayakkhinīvatthu
 
-[1] Na hi verena verāni, 
+[1] Na hi verena verāni,
+[E 1] Hostilities are never appeased by hostilities.
 
-[2] sammantīdha kudācanaṁ; 
+[2] sammantīdha kudācanaṁ;
 
-[3] Averena ca sammanti, 
+[3] Averena ca sammanti,
+[E 3] But appeased by non-hostilities,
 
-[4] esa dhammo sanantano. 
+[4] esa dhammo sanantano.
+[E 4] This is always true.
+
+[C 3] This line employs subtle wordplay. In the preceding line, sammantīdha ("are appeased here") refers to the hostilities. Here, sammanti ("are appeased") lacks an explicit subject. Sammanti implies two subjects "oneself is appeased" and "hostiles are appeased".
 
 [SUTTA dhp6]
 
-[0] Kosambakavatthu 
+[0] Kosambakavatthu
 
-[1] Pare ca na vijānanti, 
+[1] Pare ca na vijānanti,
+[E 1] The others don’t understand,
 
-[2] mayamettha yamāmase; 
+[2] mayamettha yamāmase;
+[E 2] That we here are perishing;
 
-[3] Ye ca tattha vijānanti, 
+[3] Ye ca tattha vijānanti,
+[E 3] And those who understand this,
 
-[4] tato sammanti medhagā. 
+[4] tato sammanti medhagā.
+[E 4] Thus settle their disputes.
+
+[C 2] Yamāmase is the middle voice of yamati, “to die,” and the suffix -mase brings it sharply to the right here, right now. Hence “perishing” highlights the continuous presence of death with all life.
 
 [SUTTA dhp7]
 
-[0] Mahākāḷattheravatthu 
+[0] Mahākāḷattheravatthu
 
-[1] Subhānupassiṁ viharantaṁ, 
+[1] Subhānupassiṁ viharantaṁ,
+[E 1] Abiding in maintaining perspective of the appealing,
 
-[2] indriyesu asaṁvutaṁ; 
+[2] indriyesu asaṁvutaṁ;
+[E 2] Unguarded senses;
 
-[3] Bhojanamhi cāmattaññuṁ, 
+[3] Bhojanamhi cāmattaññuṁ,
+[E 3] Disregarding the proper amount of food,
 
-[4] kusītaṁ hīnavīriyaṁ; 
+[4] kusītaṁ hīnavīriyaṁ;
+[E 4] Apathetic, lacking diligence;
 
-[5] Taṁ ve pasahati māro, 
+[5] Taṁ ve pasahati māro,
+[E 5] They are conquered by Mara,
 
-[6] vāto rukkhaṁva dubbalaṁ. 
+[6] vāto rukkhaṁva dubbalaṁ.
+[E 6] As wind and feeble trees.
+
+[C 0] Attributed to Elder Mahākāḷa, these verses encapsulate core elements of the noble disciple’s practice. A deep understanding of each Pali word is a mark of one "well-learned and skilled in the way of the noble disciples" (sutavā ariyasāvako).
 
 [SUTTA dhp8]
 
-[1] Asubhānupassiṁ viharantaṁ, 
+[1] Asubhānupassiṁ viharantaṁ,
+[E 1] Abiding in maintaining perspective of the not appealing,
 
-[2] Indriyesu susaṁvutaṁ; 
+[2] Indriyesu susaṁvutaṁ;
+[E 2] Well-guarded senses;
 
-[3] Bhojanamhi ca mattaññuṁ, 
+[3] Bhojanamhi ca mattaññuṁ,
+[E 3] Maintaining the proper amount of food,
 
-[4] Saddhaṁ āraddhavīriyaṁ; 
+[4] Saddhaṁ āraddhavīriyaṁ;
+[E 4] Endowed with conviction, diligent;
 
-[5] Taṁ ve nappasahati māro, 
+[5] Taṁ ve nappasahati māro,
+[E 5] They are not conquered by Mara,
 
-[6] Vāto selaṁva pabbataṁ. 
+[6] Vāto selaṁva pabbataṁ.
+[E 6] As wind and rocky mountains.
 
 [SUTTA dhp9]
 
-[0] Devadattavatthu 
+[0] Devadattavatthu
 
-[1] Anikkasāvo kāsāvaṁ, 
+[1] Anikkasāvo kāsāvaṁ,
+[E 1] Whoever, not free of defilements,
 
-[2] yo vatthaṁ paridahissati; 
+[2] yo vatthaṁ paridahissati;
+[E 2] would wear the ochre robe;
 
-[3] Apeto damasaccena, 
+[3] Apeto damasaccena,
+[E 3] Devoid of restraint and truthfulness,
 
-[4] na so kāsāvamarahati. 
+[4] na so kāsāvamarahati.
+[E 4] he is not worthy of the ochre robe.
 
 [SUTTA dhp10]
 
-[1] Yo ca vantakasāvassa, 
+[0] Yo ca vantakasāvassa,
+[E 1] But whoever, having disgorged their defilements, 
 
-[2] sīlesu susamāhito; 
+[2] sīlesu susamāhito;
+[E 2] established in virtue;
 
 [3] Upeto damasaccena, 
+[E 3] Endowed with restraint and truthfulness,
 
-[4] sa ve kāsāvamarahati. 
+[4] sa ve kāsāvamarahati.
+[E 4]  he is worthy of the ochre robe.
+
+[C 0] These verses describe a sotapanna, one established in virtue, restraint, and truthfulness. They have “disgorged” (vanta-), or forcefully expelled, the majority of their defilements (kasāva), like one vomiting a poisonous meal. This expulsion requires effort and a clear understanding of the urgent need to abandon defilements. However, a sotapanna hasn't eradicated all traces of the root defilements (kilesas), such as passion (rāga), thus they are not yet an arahant. This highlights that establishment in virtue is unattainable without first significantly reducing one's defilements.
 
 [SUTTA dhp11]
 
-[0] Sāriputtattheravatthu 
+[0] Sāriputtattheravatthu
 
-[1] Asāre sāramatino, 
+[1] Asāre sāramatino,
+[E 1] Opining necessary, that is unnecessary,
 
-[2] sāre cāsāradassino; 
+[2] sāre cāsāradassino;
+[E 2] And seeing unnecessary, that is necessary;
 
-[3] Te sāraṁ nādhigacchanti, 
-
-[4] micchāsaṅkappagocarā. 
+[3] Te sāraṁ nādhigacchanti, micchāsaṅkappagocarā.
+[E 3] Dwelling in improper thoughts, they do not attain the necessary.
 
 [SUTTA dhp12]
 
-[1] Sārañca sārato ñatvā, 
 
-[2] asārañca asārato; 
+[1] Sārañca sārato ñatvā,
+[E 1] Understand the necessary by its necessariness,
 
-[3] Te sāraṁ adhigacchanti, 
+[2] asārañca asārato;
+[E 2] And the unnecessary by its unnecessariness;
 
-[4] sammāsaṅkappagocarā. 
+[3] Te sāraṁ adhigacchanti, sammāsaṅkappagocarā.
+[E 3] Dwelling in proper thoughts, they attain the necessary.
+
+[C 1] Sāra was translated as "necessary" rather than “essential” to bridge its meaning of "essential" with the practical understanding of what is truly important. Discerning the "necessary" requires understanding a thing's essential nature. This is inherent in sammādiṭṭhi (proper view), which is the foundation the rest of the eightfold noble path.
+
+[C 2] This illustrates micchādiṭṭhi (improper view), where one holds opinions without genuine understanding. Proper understanding comes from grasping the Dhamma directly.
+
+[C 3] "Sammā" and "micchā" were translated as "proper" and "improper" instead of "right" and "wrong." This shifts the focus from moral judgment to the effectiveness of the path. "Proper" implies that if something is done correctly according to the Buddha's teachings, it yields the promised results—the attainments.
+
+[C 3] “Necessary” here refers to the ending of ill-being (dukkha) and the means of true well-being (sukha).
 
 [SUTTA dhp13]
 
-[0] Nandattheravatthu 
+[0] Nandattheravatthu
 
-[1] Yathā agāraṁ ducchannaṁ, 
+[1] Yathā agāraṁ ducchannaṁ,
+[E 1] As rain completely soaks a poorly-thatched house; 
 
-[2] vuṭṭhī samativijjhati; 
+[2] vuṭṭhī samativijjhati;
 
-[3] Evaṁ abhāvitaṁ cittaṁ, 
+[3] Evaṁ abhāvitaṁ cittaṁ,
+[E 3] So too, passion completely soaks an undeveloped mind.
 
-[4] rāgo samativijjhati. 
+[4] rāgo samativijjhati.
+
+[C 3] “Mind” here means “citta”, not mental faculty, “mano”. It’s the “citta” that is soaked with passion, not phenomena.
 
 [SUTTA dhp14]
 
-[1] Yathā agāraṁ suchannaṁ, 
+[1] Yathā agāraṁ suchannaṁ,
+[E 1] Just as rain does not completely soak a well-thatched house;
 
-[2] vuṭṭhī na samativijjhati; 
+[2] vuṭṭhī na samativijjhati;
 
 [3] Evaṁ subhāvitaṁ cittaṁ, 
+[E 3] So too passion does not completely soak a well-developed mind.
 
-[4] rāgo na samativijjhati. 
+[4] rāgo na samativijjhati.
 
 [SUTTA dhp15]
 
-[0] Cundasūkarikavatthu 
+[0] Cundasūkarikavatthu
 
-[1] Idha socati pecca socati, 
+[1] Idha socati pecca socati,
+[E 1] He laments in this life, he laments in the next life,
 
-[2] Pāpakārī ubhayattha socati; 
+[2] Pāpakārī ubhayattha socati;
+[E 2] The wrong-doer laments in both places;
 
-[3] So socati so vihaññati, 
+[3] So socati so vihaññati
+[E 3] He laments, he’s afflicted,
 
-[4] Disvā kammakiliṭṭhamattano. 
+[4] Disvā kammakiliṭṭhamattano. [1]
+[E 4] He has found his defiled actions. [2]
+
+[C 4] Translating “disvā” as “seeing” is too literal and implies that one is understanding their defiled actions, which is not necessarily true. “Disvā” is more like “found out”, “experiencing”, or “encountering”.
+
+[C 4] I have added “he has” to draw attention to the clever use of the verb “disvā”. He experiences lamentation or gladness, in the same way one has “found” the result of their actions.
 
 [SUTTA dhp16]
 
-[0] Dhammikaupāsakavatthu 
+[0] Dhammikaupāsakavatthu
 
-[1] Idha modati pecca modati, 
+[1] Idha modati pecca modati,
+[E 1] He’s glad in this life, he’s glad in the next life.
 
-[2] Katapuñño ubhayattha modati; 
+[2] Katapuñño ubhayattha modati;
+[E 2] The merit-maker is glad in both places;
 
-[3] So modati so pamodati, 
+[3] So modati so pamodati,
+[E 3] He’s glad, he’s jubilant,
 
-[4] Disvā kammavisuddhimattano. 
+[4] Disvā kammavisuddhimattano.
+[E 4] He has found his pure actions.
 
 [SUTTA dhp17]
 
-[0] Devadattavatthu 
+[0] Devadattavatthu
 
-[1] Idha tappati pecca tappati, 
+[1] Idha tappati pecca tappati,
+[E 1] He regrets in this life, he regrets in the next life, 
 
-[2] Pāpakārī ubhayattha tappati; 
+[2] Pāpakārī ubhayattha tappati;
+[E 2] The wrong-doer regrets in both places;
 
-[3] “Pāpaṁ me katan”ti tappati, 
+[3] “Pāpaṁ me katan”ti tappati,
+[E 3] “I have done wrong!” he regrets,
 
-[4] Bhiyyo tappati duggatiṁ gato. 
+[4] Bhiyyo tappati duggatiṁ gato.
+[E 4] He regrets even more when gone to a bad destination.
 
 [SUTTA dhp18]
 
-[0] Sumanadevīvatthu 
+[0] Sumanadevīvatthu
 
-[1] Idha nandati pecca nandati, 
+[1] Idha nandati pecca nandati,
+[E 1] He’s pleased in this life, he’s pleased in the next life,
 
-[2] Katapuñño ubhayattha nandati; 
+[2] katapuñño ubhayattha nandati;
+[E 2] The merit-maker is pleased in both places;
 
-[3] “Puññaṁ me katan”ti nandati, 
+[3] “Puññaṁ me katan”ti nandati,
+[E 3] “I have done good”, he’s pleased,
 
-[4] Bhiyyo nandati suggatiṁ gato. 
+[4] Bhiyyo nandati suggatiṁ gato.
+[E 4] He is even more pleased when gone to a good destination.
 
 [SUTTA dhp19]
 
-[0] Dvesahāyakabhikkhuvatthu 
+[0] Dvesahāyakabhikkhuvatthu
 
-[1] Bahumpi ce saṁhita bhāsamāno, 
+[1] Bahumpi ce saṁhita bhāsamāno,
+[E 1] Though reciting much of the text,
 
-[2] Na takkaro hoti naro pamatto; 
 
-[3] Gopova gāvo gaṇayaṁ paresaṁ, 
+[2] Na takkaro hoti naro pamatto;
+[E 2] If he is one who doesn’t do what was recited—a negligent man;
 
-[4] Na bhāgavā sāmaññassa hoti. 
+[3] Gopova gāvo gaṇayaṁ paresaṁ,
+[E 3] Like a cowherd counting other’s cows,
+
+[4] Na bhāgavā sāmaññassa hoti.
+[E 4]He doesn’t partake in the renunciative life.
+
+[C 2] “Naro pamatto” (negligent man) is put after “na takkaro hoti” (not doing what was recited), to emphasize the quality of negligence within that man. Pali is flexible with word order, but this is where the unusual word order matters for emphasis.
 
 [SUTTA dhp20]
 
-[1] Appampi ce saṁhita bhāsamāno, 
+[1] Appampi ce saṁhita bhāsamāno,
+[E 1] Though reciting little of the text,
 
-[2] Dhammassa hoti anudhammacārī; 
+[2] Dhammassa hoti anudhammacārī;
+[E 2] If he is one who practices according to the dhamma;
 
-[3] Rāgañca dosañca pahāya mohaṁ, 
+[3] Rāgañca dosañca pahāya mohaṁ,
+[E 3] Having abandoned passion, aversion, and muddledness,
 
-[4] Sammappajāno suvimuttacitto; 
+[4] Sammappajāno suvimuttacitto;
+[E 4] Properly comprehending, with a liberated mind;
 
-[5] Anupādiyāno idha vā huraṁ vā, 
+[5] Anupādiyāno idha vā huraṁ vā,
+[E 5] Not assuming anything this life or the next,
 
-[6] Sa bhāgavā sāmaññassa hoti. 
+[6] Sa bhāgavā sāmaññassa hoti.
+[E 6] He partakes in the renunciative life.
 
 [7] Yamakavaggo paṭhamo.

@@ -6,15 +6,9 @@ import os
 import json
 
 
-def format_sutta(filepath):
+def format_sutta(filepath: str) -> str:
     """
     Reads a JSON file containing sutta data and formats it into a more readable translation format.
-
-    Args:
-        filepath (str): The path to the JSON file.
-
-    Returns:
-        str: A formatted string containing the sutta in a translation-friendly format.
     """
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)

@@ -2,7 +2,7 @@
     "version": "0.2",
     "language": "en",
     "ignoreRegExpList": [
-        "Pali.*"
+        "PLI.*"
     ],
     "words": [
         "Anathapindika",
@@ -25,7 +25,7 @@
         ".git/{index,*refs,*HEAD}",
         ".vscode",
         ".vscode-insiders",
-        "suttas/root/mn",
+        "suttas/root/**",
         ".gitignore"
     ]
 }

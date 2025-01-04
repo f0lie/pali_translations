@@ -1,0 +1,255 @@
+SUTTA: dhp1
+
+PLI [0.1]: Khuddakanikāya 
+
+PLI [0.2]: Dhammapada 
+
+PLI [0.3]: Yamakavagga 
+
+PLI [0.4]: Cakkhupālattheravatthu 
+
+PLI [1]: Manopubbaṅgamā dhammā, 
+
+PLI [2]: manoseṭṭhā manomayā; 
+
+PLI [3]: Manasā ce paduṭṭhena, 
+
+PLI [4]: bhāsati vā karoti vā; 
+
+PLI [5]: Tato naṁ dukkhamanveti, 
+
+PLI [6]: cakkaṁva vahato padaṁ. 
+
+SUTTA: dhp2
+
+PLI [0]: Maṭṭhakuṇḍalīvatthu 
+
+PLI [1]: Manopubbaṅgamā dhammā, 
+
+PLI [2]: manoseṭṭhā manomayā; 
+
+PLI [3]: Manasā ce pasannena, 
+
+PLI [4]: bhāsati vā karoti vā; 
+
+PLI [5]: Tato naṁ sukhamanveti, 
+
+PLI [6]: chāyāva anapāyinī. 
+
+SUTTA: dhp3
+
+PLI [0]: Tissattheravatthu 
+
+PLI [1]: Akkocchi maṁ avadhi maṁ, 
+
+PLI [2]: ajini maṁ ahāsi me; 
+
+PLI [3]: Ye ca taṁ upanayhanti, 
+
+PLI [4]: veraṁ tesaṁ na sammati. 
+
+SUTTA: dhp4
+
+PLI [1]: Akkocchi maṁ avadhi maṁ, 
+
+PLI [2]: ajini maṁ ahāsi me; 
+
+PLI [3]: Ye ca taṁ nupanayhanti, 
+
+PLI [4]: veraṁ tesūpasammati. 
+
+SUTTA: dhp5
+
+PLI [0]: Kāḷayakkhinīvatthu 
+
+PLI [1]: Na hi verena verāni, 
+
+PLI [2]: sammantīdha kudācanaṁ; 
+
+PLI [3]: Averena ca sammanti, 
+
+PLI [4]: esa dhammo sanantano. 
+
+SUTTA: dhp6
+
+PLI [0]: Kosambakavatthu 
+
+PLI [1]: Pare ca na vijānanti, 
+
+PLI [2]: mayamettha yamāmase; 
+
+PLI [3]: Ye ca tattha vijānanti, 
+
+PLI [4]: tato sammanti medhagā. 
+
+SUTTA: dhp7
+
+PLI [0]: Mahākāḷattheravatthu 
+
+PLI [1]: Subhānupassiṁ viharantaṁ, 
+
+PLI [2]: indriyesu asaṁvutaṁ; 
+
+PLI [3]: Bhojanamhi cāmattaññuṁ, 
+
+PLI [4]: kusītaṁ hīnavīriyaṁ; 
+
+PLI [5]: Taṁ ve pasahati māro, 
+
+PLI [6]: vāto rukkhaṁva dubbalaṁ. 
+
+SUTTA: dhp8
+
+PLI [1]: Asubhānupassiṁ viharantaṁ, 
+
+PLI [2]: Indriyesu susaṁvutaṁ; 
+
+PLI [3]: Bhojanamhi ca mattaññuṁ, 
+
+PLI [4]: Saddhaṁ āraddhavīriyaṁ; 
+
+PLI [5]: Taṁ ve nappasahati māro, 
+
+PLI [6]: Vāto selaṁva pabbataṁ. 
+
+SUTTA: dhp9
+
+PLI [0]: Devadattavatthu 
+
+PLI [1]: Anikkasāvo kāsāvaṁ, 
+
+PLI [2]: yo vatthaṁ paridahissati; 
+
+PLI [3]: Apeto damasaccena, 
+
+PLI [4]: na so kāsāvamarahati. 
+
+SUTTA: dhp10
+
+PLI [1]: Yo ca vantakasāvassa, 
+
+PLI [2]: sīlesu susamāhito; 
+
+PLI [3]: Upeto damasaccena, 
+
+PLI [4]: sa ve kāsāvamarahati. 
+
+SUTTA: dhp11
+
+PLI [0]: Sāriputtattheravatthu 
+
+PLI [1]: Asāre sāramatino, 
+
+PLI [2]: sāre cāsāradassino; 
+
+PLI [3]: Te sāraṁ nādhigacchanti, 
+
+PLI [4]: micchāsaṅkappagocarā. 
+
+SUTTA: dhp12
+
+PLI [1]: Sārañca sārato ñatvā, 
+
+PLI [2]: asārañca asārato; 
+
+PLI [3]: Te sāraṁ adhigacchanti, 
+
+PLI [4]: sammāsaṅkappagocarā. 
+
+SUTTA: dhp13
+
+PLI [0]: Nandattheravatthu 
+
+PLI [1]: Yathā agāraṁ ducchannaṁ, 
+
+PLI [2]: vuṭṭhī samativijjhati; 
+
+PLI [3]: Evaṁ abhāvitaṁ cittaṁ, 
+
+PLI [4]: rāgo samativijjhati. 
+
+SUTTA: dhp14
+
+PLI [1]: Yathā agāraṁ suchannaṁ, 
+
+PLI [2]: vuṭṭhī na samativijjhati; 
+
+PLI [3]: Evaṁ subhāvitaṁ cittaṁ, 
+
+PLI [4]: rāgo na samativijjhati. 
+
+SUTTA: dhp15
+
+PLI [0]: Cundasūkarikavatthu 
+
+PLI [1]: Idha socati pecca socati, 
+
+PLI [2]: Pāpakārī ubhayattha socati; 
+
+PLI [3]: So socati so vihaññati, 
+
+PLI [4]: Disvā kammakiliṭṭhamattano. 
+
+SUTTA: dhp16
+
+PLI [0]: Dhammikaupāsakavatthu 
+
+PLI [1]: Idha modati pecca modati, 
+
+PLI [2]: Katapuñño ubhayattha modati; 
+
+PLI [3]: So modati so pamodati, 
+
+PLI [4]: Disvā kammavisuddhimattano. 
+
+SUTTA: dhp17
+
+PLI [0]: Devadattavatthu 
+
+PLI [1]: Idha tappati pecca tappati, 
+
+PLI [2]: Pāpakārī ubhayattha tappati; 
+
+PLI [3]: “Pāpaṁ me katan”ti tappati, 
+
+PLI [4]: Bhiyyo tappati duggatiṁ gato. 
+
+SUTTA: dhp18
+
+PLI [0]: Sumanadevīvatthu 
+
+PLI [1]: Idha nandati pecca nandati, 
+
+PLI [2]: Katapuñño ubhayattha nandati; 
+
+PLI [3]: “Puññaṁ me katan”ti nandati, 
+
+PLI [4]: Bhiyyo nandati suggatiṁ gato. 
+
+SUTTA: dhp19
+
+PLI [0]: Dvesahāyakabhikkhuvatthu 
+
+PLI [1]: Bahumpi ce saṁhita bhāsamāno, 
+
+PLI [2]: Na takkaro hoti naro pamatto; 
+
+PLI [3]: Gopova gāvo gaṇayaṁ paresaṁ, 
+
+PLI [4]: Na bhāgavā sāmaññassa hoti. 
+
+SUTTA: dhp20
+
+PLI [1]: Appampi ce saṁhita bhāsamāno, 
+
+PLI [2]: Dhammassa hoti anudhammacārī; 
+
+PLI [3]: Rāgañca dosañca pahāya mohaṁ, 
+
+PLI [4]: Sammappajāno suvimuttacitto; 
+
+PLI [5]: Anupādiyāno idha vā huraṁ vā, 
+
+PLI [6]: Sa bhāgavā sāmaññassa hoti. 
+
+PLI [7]: Yamakavaggo paṭhamo.

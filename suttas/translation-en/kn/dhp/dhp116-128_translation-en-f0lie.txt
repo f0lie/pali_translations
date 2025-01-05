@@ -1,0 +1,169 @@
+[SUTTA dhp116]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Pāpavagga [0.3]
+
+Cūḷekasāṭakabrāhmaṇavatthu [0.4]
+
+Abhittharetha kalyāṇe, [1]
+
+pāpā cittaṁ nivāraye; [2]
+
+Dandhañhi karoto puññaṁ, [3]
+
+pāpasmiṁ ramatī mano. [4]
+
+[SUTTA dhp117]
+
+Seyyasakattheravatthu [0]
+
+Pāpañce puriso kayirā, [1]
+
+Na naṁ kayirā punappunaṁ; [2]
+
+Na tamhi chandaṁ kayirātha, [3]
+
+Dukkho pāpassa uccayo. [4]
+
+[SUTTA dhp118]
+
+Lājadevadhītāvatthu [0]
+
+Puññañce puriso kayirā, [1]
+
+kayirā naṁ punappunaṁ; [2]
+
+Tamhi chandaṁ kayirātha, [3]
+
+sukho puññassa uccayo. [4]
+
+[SUTTA dhp119]
+
+Anāthapiṇḍikaseṭṭhivatthu [0]
+
+Pāpopi passati bhadraṁ, [1]
+
+Yāva pāpaṁ na paccati; [2]
+
+Yadā ca paccati pāpaṁ, [3]
+
+Atha pāpo pāpāni passati. [4]
+
+[SUTTA dhp120]
+
+Bhadropi passati pāpaṁ, [1]
+
+Yāva bhadraṁ na paccati; [2]
+
+Yadā ca paccati bhadraṁ, [3]
+
+Atha bhadro bhadrāni passati. [4]
+
+[SUTTA dhp121]
+
+Asaññataparikkhāravatthu [0]
+
+Māvamaññetha pāpassa, [1]
+
+na mantaṁ āgamissati; [2]
+
+Udabindunipātena, [3]
+
+udakumbhopi pūrati; [4]
+
+Bālo pūrati pāpassa, [5]
+
+thokaṁ thokampi ācinaṁ. [6]
+
+[SUTTA dhp122]
+
+Biḷālapādakaseṭṭhivatthu [0]
+
+Māvamaññetha puññassa, [1]
+
+na mandaṁ āgamissati; [2]
+
+Udabindunipātena, [3]
+
+udakumbhopi pūrati; [4]
+
+Dhīro pūrati puññassa, [5]
+
+thokaṁ thokampi ācinaṁ. [6]
+
+[SUTTA dhp123]
+
+Mahādhanavāṇijavatthu [0]
+
+Vāṇijova bhayaṁ maggaṁ, [1]
+
+appasattho mahaddhano; [2]
+
+Visaṁ jīvitukāmova, [3]
+
+pāpāni parivajjaye. [4]
+
+[SUTTA dhp124]
+
+Kukkuṭamittanesādavatthu [0]
+
+Pāṇimhi ce vaṇo nāssa, [1]
+
+hareyya pāṇinā visaṁ; [2]
+
+Nābbaṇaṁ visamanveti, [3]
+
+natthi pāpaṁ akubbato. [4]
+
+[SUTTA dhp125]
+
+Kokasunakhaluddakavatthu [0]
+
+Yo appaduṭṭhassa narassa dussati, [1]
+
+Suddhassa posassa anaṅgaṇassa; [2]
+
+Tameva bālaṁ pacceti pāpaṁ, [3]
+
+Sukhumo rajo paṭivātaṁva khitto. [4]
+
+[SUTTA dhp126]
+
+Maṇikārakulūpakatissattheravatthu [0]
+
+Gabbhameke uppajjanti, [1]
+
+nirayaṁ pāpakammino; [2]
+
+Saggaṁ sugatino yanti, [3]
+
+parinibbanti anāsavā. [4]
+
+[SUTTA dhp127]
+
+Tayojanavatthu [0]
+
+Na antalikkhe na samuddamajjhe, [1]
+
+Na pabbatānaṁ vivaraṁ pavissa; [2]
+
+Na vijjatī so jagatippadeso, [3]
+
+Yatthaṭṭhito mucceyya pāpakammā. [4]
+
+[SUTTA dhp128]
+
+Suppabuddhasakyavatthu [0]
+
+Na antalikkhe na samuddamajjhe, [1]
+
+Na pabbatānaṁ vivaraṁ pavissa; [2]
+
+Na vijjatī so jagatippadeso, [3]
+
+Yatthaṭṭhitaṁ nappasaheyya maccu. [4]
+
+Pāpavaggo navamo. [5]

@@ -1,0 +1,167 @@
+[SUTTA dhp221]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Kodhavagga [0.3]
+
+Rohinīkhattiyakaññāvatthu [0.4]
+
+Kodhaṁ jahe vippajaheyya mānaṁ, [1]
+
+Saṁyojanaṁ sabbamatikkameyya; [2]
+
+Taṁ nāmarūpasmimasajjamānaṁ, [3]
+
+Akiñcanaṁ nānupatanti dukkhā. [4]
+
+[SUTTA dhp222]
+
+Aññatarabhikkhuvatthu [0]
+
+Yo ve uppatitaṁ kodhaṁ, [1]
+
+rathaṁ bhantaṁva vāraye; [2]
+
+Tamahaṁ sārathiṁ brūmi, [3]
+
+rasmiggāho itaro jano. [4]
+
+[SUTTA dhp223]
+
+Uttarāupāsikavatthu [0]
+
+Akkodhena jine kodhaṁ, [1]
+
+asādhuṁ sādhunā jine; [2]
+
+Jine kadariyaṁ dānena, [3]
+
+saccenālikavādinaṁ. [4]
+
+[SUTTA dhp224]
+
+Mahāmoggallānapañhavatthu [0]
+
+Saccaṁ bhaṇe na kujjheyya, [1]
+
+dajjā appampi yācito; [2]
+
+Etehi tīhi ṭhānehi, [3]
+
+gacche devāna santike. [4]
+
+[SUTTA dhp225]
+
+Buddhapitubrāhmaṇavatthu [0]
+
+Ahiṁsakā ye munayo, [1]
+
+niccaṁ kāyena saṁvutā; [2]
+
+Te yanti accutaṁ ṭhānaṁ, [3]
+
+yattha gantvā na socare. [4]
+
+[SUTTA dhp226]
+
+Puṇṇadāsīvatthu [0]
+
+Sadā jāgaramānānaṁ, [1]
+
+ahorattānusikkhinaṁ; [2]
+
+Nibbānaṁ adhimuttānaṁ, [3]
+
+atthaṁ gacchanti āsavā. [4]
+
+[SUTTA dhp227]
+
+Atulaupāsakavatthu [0]
+
+Porāṇametaṁ atula, [1]
+
+netaṁ ajjatanāmiva; [2]
+
+Nindanti tuṇhimāsīnaṁ, [3]
+
+nindanti bahubhāṇinaṁ; [4]
+
+Mitabhāṇimpi nindanti, [5]
+
+natthi loke anindito. [6]
+
+[SUTTA dhp228]
+
+Na cāhu na ca bhavissati, [1]
+
+na cetarahi vijjati; [2]
+
+Ekantaṁ nindito poso, [3]
+
+ekantaṁ vā pasaṁsito. [4]
+
+[SUTTA dhp229]
+
+Yañce viññū pasaṁsanti, [1]
+
+anuvicca suve suve; [2]
+
+Acchiddavuttiṁ medhāviṁ, [3]
+
+paññāsīlasamāhitaṁ. [4]
+
+[SUTTA dhp230]
+
+Nikkhaṁ jambonadasseva, [1]
+
+ko taṁ ninditumarahati; [2]
+
+Devāpi naṁ pasaṁsanti, [3]
+
+brahmunāpi pasaṁsito. [4]
+
+[SUTTA dhp231]
+
+Chabbaggiyavatthu [0]
+
+Kāyappakopaṁ rakkheyya, [1]
+
+kāyena saṁvuto siyā; [2]
+
+Kāyaduccaritaṁ hitvā, [3]
+
+kāyena sucaritaṁ care. [4]
+
+[SUTTA dhp232]
+
+Vacīpakopaṁ rakkheyya, [1]
+
+vācāya saṁvuto siyā; [2]
+
+Vacīduccaritaṁ hitvā, [3]
+
+vācāya sucaritaṁ care. [4]
+
+[SUTTA dhp233]
+
+Manopakopaṁ rakkheyya, [1]
+
+manasā saṁvuto siyā; [2]
+
+Manoduccaritaṁ hitvā, [3]
+
+manasā sucaritaṁ care. [4]
+
+[SUTTA dhp234]
+
+Kāyena saṁvutā dhīrā, [1]
+
+atho vācāya saṁvutā; [2]
+
+Manasā saṁvutā dhīrā, [3]
+
+te ve suparisaṁvutā. [4]
+
+Kodhavaggo sattarasamo. [5]

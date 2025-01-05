@@ -1,0 +1,203 @@
+[SUTTA dhp129]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Daṇḍavagga [0.3]
+
+Chabbaggiyabhikkhuvatthu [0.4]
+
+Sabbe tasanti daṇḍassa, [1]
+
+sabbe bhāyanti maccuno; [2]
+
+Attānaṁ upamaṁ katvā, [3]
+
+na haneyya na ghātaye. [4]
+
+[SUTTA dhp130]
+
+Chabbaggiyavatthu [0]
+
+Sabbe tasanti daṇḍassa, [1]
+
+sabbesaṁ jīvitaṁ piyaṁ; [2]
+
+Attānaṁ upamaṁ katvā, [3]
+
+na haneyya na ghātaye. [4]
+
+[SUTTA dhp131]
+
+Sambahulakumārakavatthu [0]
+
+Sukhakāmāni bhūtāni, [1]
+
+yo daṇḍena vihiṁsati; [2]
+
+Attano sukhamesāno, [3]
+
+pecca so na labhate sukhaṁ. [4]
+
+[SUTTA dhp132]
+
+Sukhakāmāni bhūtāni, [1]
+
+yo daṇḍena na hiṁsati; [2]
+
+Attano sukhamesāno, [3]
+
+pecca so labhate sukhaṁ. [4]
+
+[SUTTA dhp133]
+
+Koṇḍadhānattheravatthu [0]
+
+Māvoca pharusaṁ kañci, [1]
+
+vuttā paṭivadeyyu taṁ; [2]
+
+Dukkhā hi sārambhakathā, [3]
+
+paṭidaṇḍā phuseyyu taṁ. [4]
+
+[SUTTA dhp134]
+
+Sace neresi attānaṁ, [1]
+
+kaṁso upahato yathā; [2]
+
+Esa pattosi nibbānaṁ, [3]
+
+sārambho te na vijjati. [4]
+
+[SUTTA dhp135]
+
+Uposathikaitthīnaṁvatthu [0]
+
+Yathā daṇḍena gopālo, [1]
+
+gāvo pājeti gocaraṁ; [2]
+
+Evaṁ jarā ca maccu ca, [3]
+
+āyuṁ pājenti pāṇinaṁ. [4]
+
+[SUTTA dhp136]
+
+Ajagarapetavatthu [0]
+
+Atha pāpāni kammāni, [1]
+
+karaṁ bālo na bujjhati; [2]
+
+Sehi kammehi dummedho, [3]
+
+aggidaḍḍhova tappati. [4]
+
+[SUTTA dhp137]
+
+Mahāmoggallānattheravatthu [0]
+
+Yo daṇḍena adaṇḍesu, [1]
+
+appaduṭṭhesu dussati; [2]
+
+Dasannamaññataraṁ ṭhānaṁ, [3]
+
+khippameva nigacchati. [4]
+
+[SUTTA dhp138]
+
+Vedanaṁ pharusaṁ jāniṁ, [1]
+
+sarīrassa va bhedanaṁ; [2]
+
+Garukaṁ vāpi ābādhaṁ, [3]
+
+cittakkhepaṁ va pāpuṇe. [4]
+
+[SUTTA dhp139]
+
+Rājato vā upasaggaṁ, [1]
+
+Abbhakkhānaṁ va dāruṇaṁ; [2]
+
+Parikkhayaṁ va ñātīnaṁ, [3]
+
+Bhogānaṁ va pabhaṅguraṁ. [4]
+
+[SUTTA dhp140]
+
+Atha vāssa agārāni, [1]
+
+aggi ḍahati pāvako; [2]
+
+Kāyassa bhedā duppañño, [3]
+
+nirayaṁ sopapajjati. [4]
+
+[SUTTA dhp141]
+
+Bahubhaṇḍikabhikkhuvatthu [0]
+
+Na naggacariyā na jaṭā na paṅkā, [1]
+
+Nānāsakā thaṇḍilasāyikā vā; [2]
+
+Rajojallaṁ ukkuṭikappadhānaṁ, [3]
+
+Sodhenti maccaṁ avitiṇṇakaṅkhaṁ. [4]
+
+[SUTTA dhp142]
+
+Santatimahāmattavatthu [0]
+
+Alaṅkato cepi samaṁ careyya, [1]
+
+Santo danto niyato brahmacārī; [2]
+
+Sabbesu bhūtesu nidhāya daṇḍaṁ, [3]
+
+So brāhmaṇo so samaṇo sa bhikkhu. [4]
+
+[SUTTA dhp143]
+
+Pilotikatissattheravatthu [0]
+
+Hirīnisedho puriso, [1]
+
+koci lokasmi vijjati; [2]
+
+Yo niddaṁ apabodheti, [3]
+
+asso bhadro kasāmiva. [4]
+
+[SUTTA dhp144]
+
+Asso yathā bhadro kasāniviṭṭho, [1]
+
+Ātāpino saṁvegino bhavātha; [2]
+
+Saddhāya sīlena ca vīriyena ca, [3]
+
+Samādhinā dhammavinicchayena ca; [4]
+
+Sampannavijjācaraṇā patissatā, [5]
+
+Jahissatha dukkhamidaṁ anappakaṁ. [6]
+
+[SUTTA dhp145]
+
+Sukhasāmaṇeravatthu [0]
+
+Udakañhi nayanti nettikā, [1]
+
+Usukārā namayanti tejanaṁ; [2]
+
+Dāruṁ namayanti tacchakā, [3]
+
+Attānaṁ damayanti subbatā. [4]
+
+Daṇḍavaggo dasamo. [5]

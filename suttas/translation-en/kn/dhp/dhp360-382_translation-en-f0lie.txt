@@ -1,0 +1,271 @@
+[SUTTA dhp360]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Bhikkhuvagga [0.3]
+
+Pañcabhikkhuvatthu [0.4]
+
+Cakkhunā saṁvaro sādhu, [1]
+
+sādhu sotena saṁvaro; [2]
+
+Ghānena saṁvaro sādhu, [3]
+
+sādhu jivhāya saṁvaro. [4]
+
+[SUTTA dhp361]
+
+Kāyena saṁvaro sādhu, [1]
+
+sādhu vācāya saṁvaro; [2]
+
+Manasā saṁvaro sādhu, [3]
+
+sādhu sabbattha saṁvaro; [4]
+
+Sabbattha saṁvuto bhikkhu, [5]
+
+sabbadukkhā pamuccati. [6]
+
+[SUTTA dhp362]
+
+Haṁsaghātakabhikkhuvatthu [0]
+
+Hatthasaṁyato pādasaṁyato, [1]
+
+Vācāsaṁyato saṁyatuttamo; [2]
+
+Ajjhattarato samāhito, [3]
+
+Eko santusito tamāhu bhikkhuṁ. [4]
+
+[SUTTA dhp363]
+
+Kokālikavatthu [0]
+
+Yo mukhasaṁyato bhikkhu, [1]
+
+mantabhāṇī anuddhato; [2]
+
+Atthaṁ dhammañca dīpeti, [3]
+
+madhuraṁ tassa bhāsitaṁ. [4]
+
+[SUTTA dhp364]
+
+Dhammārāmattheravatthu [0]
+
+Dhammārāmo dhammarato, [1]
+
+dhammaṁ anuvicintayaṁ; [2]
+
+Dhammaṁ anussaraṁ bhikkhu, [3]
+
+saddhammā na parihāyati. [4]
+
+[SUTTA dhp365]
+
+Vipakkhasevakabhikkhuvatthu [0]
+
+Salābhaṁ nātimaññeyya, [1]
+
+nāññesaṁ pihayaṁ care; [2]
+
+Aññesaṁ pihayaṁ bhikkhu, [3]
+
+samādhiṁ nādhigacchati. [4]
+
+[SUTTA dhp366]
+
+Appalābhopi ce bhikkhu, [1]
+
+salābhaṁ nātimaññati; [2]
+
+Taṁ ve devā pasaṁsanti, [3]
+
+suddhājīviṁ atanditaṁ. [4]
+
+[SUTTA dhp367]
+
+Pañcaggadāyakabrāhmaṇavatthu [0]
+
+Sabbaso nāmarūpasmiṁ, [1]
+
+yassa natthi mamāyitaṁ; [2]
+
+Asatā ca na socati, [3]
+
+sa ve “bhikkhū”ti vuccati. [4]
+
+[SUTTA dhp368]
+
+Sambahulabhikkhuvatthu [0]
+
+Mettāvihārī yo bhikkhu, [1]
+
+pasanno buddhasāsane; [2]
+
+Adhigacche padaṁ santaṁ, [3]
+
+saṅkhārūpasamaṁ sukhaṁ. [4]
+
+[SUTTA dhp369]
+
+Siñca bhikkhu imaṁ nāvaṁ, [1]
+
+sittā te lahumessati; [2]
+
+Chetvā rāgañca dosañca, [3]
+
+tato nibbānamehisi. [4]
+
+[SUTTA dhp370]
+
+Pañca chinde pañca jahe, [1]
+
+pañca cuttari bhāvaye; [2]
+
+Pañca saṅgātigo bhikkhu, [3]
+
+“oghatiṇṇo”ti vuccati. [4]
+
+[SUTTA dhp371]
+
+Jhāya bhikkhu mā pamādo, [1]
+
+Mā te kāmaguṇe ramessu cittaṁ; [2]
+
+Mā lohaguḷaṁ gilī pamatto, [3]
+
+Mā kandi “dukkhamidan”ti dayhamāno. [4]
+
+[SUTTA dhp372]
+
+Natthi jhānaṁ apaññassa, [1]
+
+paññā natthi ajhāyato; [2]
+
+Yamhi jhānañca paññā ca, [3]
+
+sa ve nibbānasantike. [4]
+
+[SUTTA dhp373]
+
+Suññāgāraṁ paviṭṭhassa, [1]
+
+santacittassa bhikkhuno; [2]
+
+Amānusī rati hoti, [3]
+
+sammā dhammaṁ vipassato. [4]
+
+[SUTTA dhp374]
+
+Yato yato sammasati, [1]
+
+khandhānaṁ udayabbayaṁ; [2]
+
+Labhatī pītipāmojjaṁ, [3]
+
+amataṁ taṁ vijānataṁ. [4]
+
+[SUTTA dhp375]
+
+Tatrāyamādi bhavati, [1]
+
+idha paññassa bhikkhuno; [2]
+
+Indriyagutti santuṭṭhi, [3]
+
+pātimokkhe ca saṁvaro. [4]
+
+[SUTTA dhp376]
+
+Mitte bhajassu kalyāṇe, [1]
+
+suddhājīve atandite; [2]
+
+Paṭisanthāravutyassa, [3]
+
+ācārakusalo siyā; [4]
+
+Tato pāmojjabahulo, [5]
+
+dukkhassantaṁ karissati. [6]
+
+[SUTTA dhp377]
+
+Pañcasatabhikkhuvatthu [0]
+
+Vassikā viya pupphāni, [1]
+
+maddavāni pamuñcati; [2]
+
+Evaṁ rāgañca dosañca, [3]
+
+vippamuñcetha bhikkhavo. [4]
+
+[SUTTA dhp378]
+
+Santakāyattheravatthu [0]
+
+Santakāyo santavāco, [1]
+
+santavā susamāhito; [2]
+
+Vantalokāmiso bhikkhu, [3]
+
+“upasanto”ti vuccati. [4]
+
+[SUTTA dhp379]
+
+Naṅgalakulattheravatthu [0]
+
+Attanā codayattānaṁ, [1]
+
+paṭimaṁsetha attanā; [2]
+
+So attagutto satimā, [3]
+
+sukhaṁ bhikkhu vihāhisi. [4]
+
+[SUTTA dhp380]
+
+Attā hi attano nātho, [1]
+
+ko hi nātho paro siyā; [2]
+
+Attā hi attano gati, [3]
+
+tasmā saṁyamamattānaṁ; [4]
+
+Assaṁ bhadraṁva vāṇijo. [5]
+
+[SUTTA dhp381]
+
+Vakkalittheravatthu [0]
+
+Pāmojjabahulo bhikkhu, [1]
+
+pasanno buddhasāsane; [2]
+
+Adhigacche padaṁ santaṁ, [3]
+
+saṅkhārūpasamaṁ sukhaṁ. [4]
+
+[SUTTA dhp382]
+
+Sumanasāmaṇeravatthu [0]
+
+Yo have daharo bhikkhu, [1]
+
+yuñjati buddhasāsane; [2]
+
+Somaṁ lokaṁ pabhāseti, [3]
+
+abbhā muttova candimā. [4]
+
+Bhikkhuvaggo pañcavīsatimo. [5]

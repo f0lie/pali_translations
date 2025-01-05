@@ -1,0 +1,249 @@
+[SUTTA dhp235]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Malavagga [0.3]
+
+Goghātakaputtavatthu [0.4]
+
+Paṇḍupalāsova dānisi, [1]
+
+Yamapurisāpi ca te upaṭṭhitā; [2]
+
+Uyyogamukhe ca tiṭṭhasi, [3]
+
+Pātheyyampi ca te na vijjati. [4]
+
+[SUTTA dhp236]
+
+So karohi dīpamattano, [1]
+
+Khippaṁ vāyama paṇḍito bhava; [2]
+
+Niddhantamalo anaṅgaṇo, [3]
+
+Dibbaṁ ariyabhūmiṁ upehisi. [4]
+
+[SUTTA dhp237]
+
+Upanītavayo ca dānisi, [1]
+
+Sampayātosi yamassa santikaṁ; [2]
+
+Vāso te natthi antarā, [3]
+
+Pātheyyampi ca te na vijjati. [4]
+
+[SUTTA dhp238]
+
+So karohi dīpamattano, [1]
+
+Khippaṁ vāyama paṇḍito bhava; [2]
+
+Niddhantamalo anaṅgaṇo, [3]
+
+Na punaṁ jātijaraṁ upehisi. [4]
+
+[SUTTA dhp239]
+
+Aññatarabrāhmaṇavatthu [0]
+
+Anupubbena medhāvī, [1]
+
+thokaṁ thokaṁ khaṇe khaṇe; [2]
+
+Kammāro rajatasseva, [3]
+
+niddhame malamattano. [4]
+
+[SUTTA dhp240]
+
+Tissattheravatthu [0]
+
+Ayasāva malaṁ samuṭṭhitaṁ, [1]
+
+Tatuṭṭhāya tameva khādati; [2]
+
+Evaṁ atidhonacārinaṁ, [3]
+
+Sāni kammāni nayanti duggatiṁ. [4]
+
+[SUTTA dhp241]
+
+Lāḷudāyīvatthu [0]
+
+Asajjhāyamalā mantā, [1]
+
+anuṭṭhānamalā gharā; [2]
+
+Malaṁ vaṇṇassa kosajjaṁ, [3]
+
+pamādo rakkhato malaṁ. [4]
+
+[SUTTA dhp242]
+
+Aññatarakulaputtavatthu [0]
+
+Malitthiyā duccaritaṁ, [1]
+
+maccheraṁ dadato malaṁ; [2]
+
+Malā ve pāpakā dhammā, [3]
+
+asmiṁ loke paramhi ca. [4]
+
+[SUTTA dhp243]
+
+Tato malā malataraṁ, [1]
+
+avijjā paramaṁ malaṁ; [2]
+
+Etaṁ malaṁ pahantvāna, [3]
+
+nimmalā hotha bhikkhavo. [4]
+
+[SUTTA dhp244]
+
+Cūḷasāribhikkhuvatthu [0]
+
+Sujīvaṁ ahirikena, [1]
+
+kākasūrena dhaṁsinā; [2]
+
+Pakkhandinā pagabbhena, [3]
+
+saṅkiliṭṭhena jīvitaṁ. [4]
+
+[SUTTA dhp245]
+
+Hirīmatā ca dujjīvaṁ, [1]
+
+niccaṁ sucigavesinā; [2]
+
+Alīnenāppagabbhena, [3]
+
+suddhājīvena passatā. [4]
+
+[SUTTA dhp246]
+
+Pañcaupāsakavatthu [0]
+
+Yo pāṇamatipāteti, [1]
+
+musāvādañca bhāsati; [2]
+
+Loke adinnamādiyati, [3]
+
+paradārañca gacchati. [4]
+
+[SUTTA dhp247]
+
+Surāmerayapānañca, [1]
+
+yo naro anuyuñjati; [2]
+
+Idheva meso lokasmiṁ, [3]
+
+mūlaṁ khaṇati attano. [4]
+
+[SUTTA dhp248]
+
+Evaṁ bho purisa jānāhi, [1]
+
+pāpadhammā asaññatā; [2]
+
+Mā taṁ lobho adhammo ca, [3]
+
+ciraṁ dukkhāya randhayuṁ. [4]
+
+[SUTTA dhp249]
+
+Tissadaharavatthu [0]
+
+Dadāti ve yathāsaddhaṁ, [1]
+
+yathāpasādanaṁ jano; [2]
+
+Tattha yo ca maṅku bhavati, [3]
+
+paresaṁ pānabhojane; [4]
+
+Na so divā vā rattiṁ vā, [5]
+
+samādhimadhigacchati. [6]
+
+[SUTTA dhp250]
+
+Yassa cetaṁ samucchinnaṁ, [1]
+
+mūlaghaccaṁ samūhataṁ; [2]
+
+Sa ve divā vā rattiṁ vā, [3]
+
+samādhimadhigacchati. [4]
+
+[SUTTA dhp251]
+
+Pañcaupāsakavatthu [0]
+
+Natthi rāgasamo aggi, [1]
+
+natthi dosasamo gaho; [2]
+
+Natthi mohasamaṁ jālaṁ, [3]
+
+natthi taṇhāsamā nadī. [4]
+
+[SUTTA dhp252]
+
+Meṇḍakaseṭṭhivatthu [0]
+
+Sudassaṁ vajjamaññesaṁ, [1]
+
+attano pana duddasaṁ; [2]
+
+Paresaṁ hi so vajjāni, [3]
+
+opunāti yathā bhusaṁ; [4]
+
+Attano pana chādeti, [5]
+
+kaliṁva kitavā saṭho. [6]
+
+[SUTTA dhp253]
+
+Ujjhānasaññittheravatthu [0]
+
+Paravajjānupassissa, [1]
+
+niccaṁ ujjhānasaññino; [2]
+
+Āsavā tassa vaḍḍhanti, [3]
+
+ārā so āsavakkhayā. [4]
+
+[SUTTA dhp254]
+
+Subhaddaparibbājakavatthu [0]
+
+Ākāseva padaṁ natthi, [1]
+
+samaṇo natthi bāhire; [2]
+
+Papañcābhiratā pajā, [3]
+
+nippapañcā tathāgatā. [4]
+
+[SUTTA dhp255]
+
+Ākāseva padaṁ natthi, [1]
+
+samaṇo natthi bāhire; [2]
+
+Saṅkhārā sassatā natthi, [3]
+
+natthi buddhānamiñjitaṁ. [4]
+
+Malavaggo aṭṭhārasamo. [5]

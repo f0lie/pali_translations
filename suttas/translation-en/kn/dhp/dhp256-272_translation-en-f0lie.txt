@@ -1,0 +1,201 @@
+[SUTTA dhp256]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Dhammaṭṭhavagga [0.3]
+
+Vinicchayamahāmattavatthu [0.4]
+
+Na tena hoti dhammaṭṭho, [1]
+
+yenatthaṁ sāhasā naye; [2]
+
+Yo ca atthaṁ anatthañca, [3]
+
+ubho niccheyya paṇḍito. [4]
+
+[SUTTA dhp257]
+
+Asāhasena dhammena, [1]
+
+samena nayatī pare; [2]
+
+Dhammassa gutto medhāvī, [3]
+
+“dhammaṭṭho”ti pavuccati. [4]
+
+[SUTTA dhp258]
+
+Chabbaggiyavatthu [0]
+
+Na tena paṇḍito hoti, [1]
+
+yāvatā bahu bhāsati; [2]
+
+Khemī averī abhayo, [3]
+
+“paṇḍito”ti pavuccati. [4]
+
+[SUTTA dhp259]
+
+Ekudānakhīṇāsavavatthu [0]
+
+Na tāvatā dhammadharo, [1]
+
+yāvatā bahu bhāsati; [2]
+
+Yo ca appampi sutvāna, [3]
+
+dhammaṁ kāyena passati; [4]
+
+Sa ve dhammadharo hoti, [5]
+
+yo dhammaṁ nappamajjati. [6]
+
+[SUTTA dhp260]
+
+Lakuṇḍakabhaddiyattheravatthu [0]
+
+Na tena thero so hoti, [1]
+
+yenassa palitaṁ siro; [2]
+
+Paripakko vayo tassa, [3]
+
+“moghajiṇṇo”ti vuccati. [4]
+
+[SUTTA dhp261]
+
+Yamhi saccañca dhammo ca, [1]
+
+ahiṁsā saṁyamo damo; [2]
+
+Sa ve vantamalo dhīro, [3]
+
+“thero” iti pavuccati. [4]
+
+[SUTTA dhp262]
+
+Sambahulabhikkhuvatthu [0]
+
+Na vākkaraṇamattena, [1]
+
+vaṇṇapokkharatāya vā; [2]
+
+Sādhurūpo naro hoti, [3]
+
+issukī maccharī saṭho. [4]
+
+[SUTTA dhp263]
+
+Yassa cetaṁ samucchinnaṁ, [1]
+
+mūlaghaccaṁ samūhataṁ; [2]
+
+Sa vantadoso medhāvī, [3]
+
+“sādhurūpo”ti vuccati. [4]
+
+[SUTTA dhp264]
+
+Hatthakavatthu [0]
+
+Na muṇḍakena samaṇo, [1]
+
+abbato alikaṁ bhaṇaṁ; [2]
+
+Icchālobhasamāpanno, [3]
+
+samaṇo kiṁ bhavissati. [4]
+
+[SUTTA dhp265]
+
+Yo ca sameti pāpāni, [1]
+
+aṇuṁthūlāni sabbaso; [2]
+
+Samitattā hi pāpānaṁ, [3]
+
+“samaṇo”ti pavuccati. [4]
+
+[SUTTA dhp266]
+
+Aññatarabrāhmaṇavatthu [0]
+
+Na tena bhikkhu so hoti, [1]
+
+yāvatā bhikkhate pare; [2]
+
+Vissaṁ dhammaṁ samādāya, [3]
+
+bhikkhu hoti na tāvatā. [4]
+
+[SUTTA dhp267]
+
+Yodha puññañca pāpañca, [1]
+
+bāhetvā brahmacariyavā; [2]
+
+Saṅkhāya loke carati, [3]
+
+sa ve “bhikkhū”ti vuccati. [4]
+
+[SUTTA dhp268]
+
+Titthiyavatthu [0]
+
+Na monena munī hoti, [1]
+
+mūḷharūpo aviddasu; [2]
+
+Yo ca tulaṁva paggayha, [3]
+
+varamādāya paṇḍito. [4]
+
+[SUTTA dhp269]
+
+Pāpāni parivajjeti, [1]
+
+sa munī tena so muni; [2]
+
+Yo munāti ubho loke, [3]
+
+“muni” tena pavuccati. [4]
+
+[SUTTA dhp270]
+
+Bālisikavatthu [0]
+
+Na tena ariyo hoti, [1]
+
+yena pāṇāni hiṁsati; [2]
+
+Ahiṁsā sabbapāṇānaṁ, [3]
+
+“ariyo”ti pavuccati. [4]
+
+[SUTTA dhp271]
+
+Sambahulasīlādisampannabhikkhuvatthu [0]
+
+Na sīlabbatamattena, [1]
+
+bāhusaccena vā pana; [2]
+
+Atha vā samādhilābhena, [3]
+
+vivittasayanena vā. [4]
+
+[SUTTA dhp272]
+
+Phusāmi nekkhammasukhaṁ, [1]
+
+aputhujjanasevitaṁ; [2]
+
+Bhikkhu vissāsamāpādi, [3]
+
+appatto āsavakkhayaṁ. [4]
+
+Dhammaṭṭhavaggo ekūnavīsatimo. [5]

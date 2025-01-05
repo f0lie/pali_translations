@@ -1,0 +1,135 @@
+[SUTTA dhp90]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Arahantavagga [0.3]
+
+Jīvakapañhavatthu [0.4]
+
+Gataddhino visokassa, [1]
+
+vippamuttassa sabbadhi; [2]
+
+Sabbaganthappahīnassa, [3]
+
+pariḷāho na vijjati. [4]
+
+[SUTTA dhp91]
+
+Mahākassapattheravatthu [0]
+
+Uyyuñjanti satīmanto, [1]
+
+na nikete ramanti te; [2]
+
+Haṁsāva pallalaṁ hitvā, [3]
+
+okamokaṁ jahanti te. [4]
+
+[SUTTA dhp92]
+
+Belaṭṭhasīsattheravatthu [0]
+
+Yesaṁ sannicayo natthi, [1]
+
+ye pariññātabhojanā; [2]
+
+Suññato animitto ca, [3]
+
+vimokkho yesaṁ gocaro; [4]
+
+Ākāseva sakuntānaṁ, [5]
+
+gati tesaṁ durannayā. [6]
+
+[SUTTA dhp93]
+
+Anuruddhattheravatthu [0]
+
+Yassāsavā parikkhīṇā, [1]
+
+āhāre ca anissito; [2]
+
+Suññato animitto ca, [3]
+
+vimokkho yassa gocaro; [4]
+
+Ākāseva sakuntānaṁ, [5]
+
+padaṁ tassa durannayaṁ. [6]
+
+[SUTTA dhp94]
+
+Mahākaccāyanattheravatthu [0]
+
+Yassindriyāni samathaṅgatāni, [1]
+
+Assā yathā sārathinā sudantā; [2]
+
+Pahīnamānassa anāsavassa, [3]
+
+Devāpi tassa pihayanti tādino. [4]
+
+[SUTTA dhp95]
+
+Sāriputtattheravatthu [0]
+
+Pathavisamo no virujjhati, [1]
+
+Indakhilupamo tādi subbato; [2]
+
+Rahadova apetakaddamo, [3]
+
+Saṁsārā na bhavanti tādino. [4]
+
+[SUTTA dhp96]
+
+Kosambivāsitissattherasāmaṇeravatthu [0]
+
+Santaṁ tassa manaṁ hoti, [1]
+
+santā vācā ca kamma ca; [2]
+
+Sammadaññāvimuttassa, [3]
+
+upasantassa tādino. [4]
+
+[SUTTA dhp97]
+
+Sāriputtattheravatthu [0]
+
+Assaddho akataññū ca, [1]
+
+sandhicchedo ca yo naro; [2]
+
+Hatāvakāso vantāso, [3]
+
+sa ve uttamaporiso. [4]
+
+[SUTTA dhp98]
+
+Khadiravaniyarevatattheravatthu [0]
+
+Gāme vā yadi vāraññe, [1]
+
+Ninne vā yadi vā thale; [2]
+
+Yattha arahanto viharanti, [3]
+
+Taṁ bhūmirāmaṇeyyakaṁ. [4]
+
+[SUTTA dhp99]
+
+Aññataraitthivatthu [0]
+
+Ramaṇīyāni araññāni, [1]
+
+yattha na ramatī jano; [2]
+
+Vītarāgā ramissanti, [3]
+
+na te kāmagavesino. [4]
+
+Arahantavaggo sattamo. [5]

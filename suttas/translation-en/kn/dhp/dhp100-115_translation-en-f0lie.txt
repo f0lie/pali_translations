@@ -1,0 +1,203 @@
+[SUTTA dhp100]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Sahassavagga [0.3]
+
+Tambadāṭhikacoraghātakavatthu [0.4]
+
+Sahassamapi ce vācā, [1]
+
+anatthapadasaṁhitā; [2]
+
+Ekaṁ atthapadaṁ seyyo, [3]
+
+yaṁ sutvā upasammati. [4]
+
+[SUTTA dhp101]
+
+Bāhiyadārucīriyattheravatthu [0]
+
+Sahassamapi ce gāthā, [1]
+
+anatthapadasaṁhitā; [2]
+
+Ekaṁ gāthāpadaṁ seyyo, [3]
+
+yaṁ sutvā upasammati. [4]
+
+[SUTTA dhp102]
+
+Kuṇḍalakesitherīvatthu [0]
+
+Yo ca gāthā sataṁ bhāse, [1]
+
+anatthapadasaṁhitā; [2]
+
+Ekaṁ dhammapadaṁ seyyo, [3]
+
+yaṁ sutvā upasammati. [4]
+
+[SUTTA dhp103]
+
+Yo sahassaṁ sahassena, [1]
+
+saṅgāme mānuse jine; [2]
+
+Ekañca jeyyamattānaṁ, [3]
+
+sa ve saṅgāmajuttamo. [4]
+
+[SUTTA dhp104]
+
+Anatthapucchakabrāhmaṇavatthu [0]
+
+Attā have jitaṁ seyyo, [1]
+
+yā cāyaṁ itarā pajā; [2]
+
+Attadantassa posassa, [3]
+
+niccaṁ saññatacārino. [4]
+
+[SUTTA dhp105]
+
+Neva devo na gandhabbo, [1]
+
+na māro saha brahmunā; [2]
+
+Jitaṁ apajitaṁ kayirā, [3]
+
+tathārūpassa jantuno. [4]
+
+[SUTTA dhp106]
+
+Sāriputtattherassa mātulabrāhmaṇavatthu [0]
+
+Māse māse sahassena, [1]
+
+yo yajetha sataṁ samaṁ; [2]
+
+Ekañca bhāvitattānaṁ, [3]
+
+muhuttamapi pūjaye; [4]
+
+Sāyeva pūjanā seyyo, [5]
+
+yañce vassasataṁ hutaṁ. [6]
+
+[SUTTA dhp107]
+
+Sāriputtattherassa bhāgineyyavatthu [0]
+
+Yo ca vassasataṁ jantu, [1]
+
+aggiṁ paricare vane; [2]
+
+Ekañca bhāvitattānaṁ, [3]
+
+muhuttamapi pūjaye; [4]
+
+Sāyeva pūjanā seyyo, [5]
+
+yañce vassasataṁ hutaṁ. [6]
+
+[SUTTA dhp108]
+
+Sāriputtatherassa sahāyakabrāhmaṇavatthu [0]
+
+Yaṁ kiñci yiṭṭhaṁ va hutaṁ va loke, [1]
+
+Saṁvaccharaṁ yajetha puññapekkho; [2]
+
+Sabbampi taṁ na catubhāgameti, [3]
+
+Abhivādanā ujjugatesu seyyo. [4]
+
+[SUTTA dhp109]
+
+Āyuvaḍḍhanakumāravatthu [0]
+
+Abhivādanasīlissa, [1]
+
+niccaṁ vuḍḍhāpacāyino; [2]
+
+Cattāro dhammā vaḍḍhanti, [3]
+
+āyu vaṇṇo sukhaṁ balaṁ. [4]
+
+[SUTTA dhp110]
+
+Saṅkiccasāmaṇeravatthu [0]
+
+Yo ca vassasataṁ jīve, [1]
+
+dussīlo asamāhito; [2]
+
+Ekāhaṁ jīvitaṁ seyyo, [3]
+
+sīlavantassa jhāyino. [4]
+
+[SUTTA dhp111]
+
+Khāṇukoṇḍaññattheravatthu [0]
+
+Yo ca vassasataṁ jīve, [1]
+
+duppañño asamāhito; [2]
+
+Ekāhaṁ jīvitaṁ seyyo, [3]
+
+paññavantassa jhāyino. [4]
+
+[SUTTA dhp112]
+
+Sabbadāsattheravatthu [0]
+
+Yo ca vassasataṁ jīve, [1]
+
+kusīto hīnavīriyo; [2]
+
+Ekāhaṁ jīvitaṁ seyyo, [3]
+
+vīriyamārabhato daḷhaṁ. [4]
+
+[SUTTA dhp113]
+
+Paṭācārātherīvatthu [0]
+
+Yo ca vassasataṁ jīve, [1]
+
+apassaṁ udayabbayaṁ; [2]
+
+Ekāhaṁ jīvitaṁ seyyo, [3]
+
+passato udayabbayaṁ. [4]
+
+[SUTTA dhp114]
+
+Kisāgotamīvatthu [0]
+
+Yo ca vassasataṁ jīve, [1]
+
+apassaṁ amataṁ padaṁ; [2]
+
+Ekāhaṁ jīvitaṁ seyyo, [3]
+
+passato amataṁ padaṁ. [4]
+
+[SUTTA dhp115]
+
+Bahuputtikattherīvatthu [0]
+
+Yo ca vassasataṁ jīve, [1]
+
+apassaṁ dhammamuttamaṁ; [2]
+
+Ekāhaṁ jīvitaṁ seyyo, [3]
+
+passato dhammamuttamaṁ. [4]
+
+Sahassavaggo aṭṭhamo. [5]

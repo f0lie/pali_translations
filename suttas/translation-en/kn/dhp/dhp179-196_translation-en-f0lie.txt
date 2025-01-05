@@ -1,0 +1,211 @@
+[SUTTA dhp179]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Buddhavagga [0.3]
+
+Māradhītaravatthu [0.4]
+
+Yassa jitaṁ nāvajīyati, [1]
+
+Jitaṁ yassa noyāti koci loke; [2]
+
+Taṁ buddhamanantagocaraṁ, [3]
+
+Apadaṁ kena padena nessatha. [4]
+
+[SUTTA dhp180]
+
+Yassa jālinī visattikā, [1]
+
+Taṇhā natthi kuhiñci netave; [2]
+
+Taṁ buddhamanantagocaraṁ, [3]
+
+Apadaṁ kena padena nessatha. [4]
+
+[SUTTA dhp181]
+
+Devorohaṇavatthu [0]
+
+Ye jhānapasutā dhīrā, [1]
+
+nekkhammūpasame ratā; [2]
+
+Devāpi tesaṁ pihayanti, [3]
+
+sambuddhānaṁ satīmataṁ. [4]
+
+[SUTTA dhp182]
+
+Erakapattanāgarājavatthu [0]
+
+Kiccho manussapaṭilābho, [1]
+
+kicchaṁ maccāna jīvitaṁ; [2]
+
+Kicchaṁ saddhammassavanaṁ, [3]
+
+kiccho buddhānamuppādo. [4]
+
+[SUTTA dhp183]
+
+Ānandattherapañhavatthu [0]
+
+Sabbapāpassa akaraṇaṁ, [1]
+
+kusalassa upasampadā; [2]
+
+Sacittapariyodapanaṁ, [3]
+
+etaṁ buddhāna sāsanaṁ. [4]
+
+[SUTTA dhp184]
+
+Khantī paramaṁ tapo titikkhā, [1]
+
+Nibbānaṁ paramaṁ vadanti buddhā; [2]
+
+Na hi pabbajito parūpaghātī, [3]
+
+Na samaṇo hoti paraṁ viheṭhayanto. [4]
+
+[SUTTA dhp185]
+
+Anūpavādo anūpaghāto, [1]
+
+Pātimokkhe ca saṁvaro; [2]
+
+Mattaññutā ca bhattasmiṁ, [3]
+
+Pantañca sayanāsanaṁ; [4]
+
+Adhicitte ca āyogo, [5]
+
+Etaṁ buddhāna sāsanaṁ. [6]
+
+[SUTTA dhp186]
+
+Anabhiratabhikkhuvatthu [0]
+
+Na kahāpaṇavassena, [1]
+
+titti kāmesu vijjati; [2]
+
+Appassādā dukhā kāmā, [3]
+
+iti viññāya paṇḍito. [4]
+
+[SUTTA dhp187]
+
+Api dibbesu kāmesu, [1]
+
+ratiṁ so nādhigacchati; [2]
+
+Taṇhakkhayarato hoti, [3]
+
+sammāsambuddhasāvako. [4]
+
+[SUTTA dhp188]
+
+Aggidattabrāhmaṇavatthu [0]
+
+Bahuṁ ve saraṇaṁ yanti, [1]
+
+pabbatāni vanāni ca; [2]
+
+Ārāmarukkhacetyāni, [3]
+
+manussā bhayatajjitā. [4]
+
+[SUTTA dhp189]
+
+Netaṁ kho saraṇaṁ khemaṁ, [1]
+
+netaṁ saraṇamuttamaṁ; [2]
+
+Netaṁ saraṇamāgamma, [3]
+
+sabbadukkhā pamuccati. [4]
+
+[SUTTA dhp190]
+
+Yo ca buddhañca dhammañca, [1]
+
+saṅghañca saraṇaṁ gato; [2]
+
+Cattāri ariyasaccāni, [3]
+
+sammappaññāya passati. [4]
+
+[SUTTA dhp191]
+
+Dukkhaṁ dukkhasamuppādaṁ, [1]
+
+dukkhassa ca atikkamaṁ; [2]
+
+Ariyaṁ caṭṭhaṅgikaṁ maggaṁ, [3]
+
+dukkhūpasamagāminaṁ. [4]
+
+[SUTTA dhp192]
+
+Etaṁ kho saraṇaṁ khemaṁ, [1]
+
+etaṁ saraṇamuttamaṁ; [2]
+
+Etaṁ saraṇamāgamma, [3]
+
+sabbadukkhā pamuccati. [4]
+
+[SUTTA dhp193]
+
+Ānandattherapañhavatthu [0]
+
+Dullabho purisājañño, [1]
+
+na so sabbattha jāyati; [2]
+
+Yattha so jāyati dhīro, [3]
+
+taṁ kulaṁ sukhamedhati. [4]
+
+[SUTTA dhp194]
+
+Sambahulabhikkhuvatthu [0]
+
+Sukho buddhānamuppādo, [1]
+
+sukhā saddhammadesanā; [2]
+
+Sukhā saṅghassa sāmaggī, [3]
+
+samaggānaṁ tapo sukho. [4]
+
+[SUTTA dhp195]
+
+Kassapadasabalassasuvaṇṇacetiyavatthu [0]
+
+Pūjārahe pūjayato, [1]
+
+buddhe yadi va sāvake; [2]
+
+Papañcasamatikkante, [3]
+
+tiṇṇasokapariddave. [4]
+
+[SUTTA dhp196]
+
+Te tādise pūjayato, [1]
+
+nibbute akutobhaye; [2]
+
+Na sakkā puññaṁ saṅkhātuṁ, [3]
+
+imettamapi kenaci. [4]
+
+Buddhavaggo cuddasamo. [5]
+
+Paṭhamabhāṇavāraṁ. [6]

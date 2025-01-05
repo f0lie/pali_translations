@@ -1,0 +1,621 @@
+[SUTTA dhp383]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Brāhmaṇavagga [0.3]
+
+Pasādabahulabrāhmaṇavatthu [0.4]
+
+Chinda sotaṁ parakkamma, [1]
+
+kāme panuda brāhmaṇa; [2]
+
+Saṅkhārānaṁ khayaṁ ñatvā, [3]
+
+akataññūsi brāhmaṇa. [4]
+
+[SUTTA dhp384]
+
+Sambahulabhikkhuvatthu [0]
+
+Yadā dvayesu dhammesu, [1]
+
+pāragū hoti brāhmaṇo; [2]
+
+Athassa sabbe saṁyogā, [3]
+
+atthaṁ gacchanti jānato. [4]
+
+[SUTTA dhp385]
+
+Māravatthu [0]
+
+Yassa pāraṁ apāraṁ vā, [1]
+
+pārāpāraṁ na vijjati; [2]
+
+Vītaddaraṁ visaṁyuttaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp386]
+
+Aññatarabrāhmaṇavatthu [0]
+
+Jhāyiṁ virajamāsīnaṁ, [1]
+
+katakiccamanāsavaṁ; [2]
+
+Uttamatthamanuppattaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp387]
+
+Ānandattheravatthu [0]
+
+Divā tapati ādicco, [1]
+
+rattimābhāti candimā; [2]
+
+Sannaddho khattiyo tapati, [3]
+
+jhāyī tapati brāhmaṇo; [4]
+
+Atha sabbamahorattiṁ, [5]
+
+buddho tapati tejasā. [6]
+
+[SUTTA dhp388]
+
+Aññatarabrāhmaṇapabbajitavatthu [0]
+
+Bāhitapāpoti brāhmaṇo, [1]
+
+Samacariyā samaṇoti vuccati; [2]
+
+Pabbājayamattano malaṁ, [3]
+
+Tasmā “pabbajito”ti vuccati. [4]
+
+[SUTTA dhp389]
+
+Sāriputtattheravatthu [0]
+
+Na brāhmaṇassa pahareyya, [1]
+
+nāssa muñcetha brāhmaṇo; [2]
+
+Dhī brāhmaṇassa hantāraṁ, [3]
+
+tato dhī yassa muñcati. [4]
+
+[SUTTA dhp390]
+
+Na brāhmaṇassetadakiñci seyyo, [1]
+
+Yadā nisedho manaso piyehi; [2]
+
+Yato yato hiṁsamano nivattati, [3]
+
+Tato tato sammatimeva dukkhaṁ. [4]
+
+[SUTTA dhp391]
+
+Mahāpajāpatigotamīvatthu [0]
+
+Yassa kāyena vācāya, [1]
+
+manasā natthi dukkaṭaṁ; [2]
+
+Saṁvutaṁ tīhi ṭhānehi, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp392]
+
+Sāriputtattheravatthu [0]
+
+Yamhā dhammaṁ vijāneyya, [1]
+
+sammāsambuddhadesitaṁ; [2]
+
+Sakkaccaṁ taṁ namasseyya, [3]
+
+aggihuttaṁva brāhmaṇo. [4]
+
+[SUTTA dhp393]
+
+Jaṭilabrāhmaṇavatthu [0]
+
+Na jaṭāhi na gottena, [1]
+
+na jaccā hoti brāhmaṇo; [2]
+
+Yamhi saccañca dhammo ca, [3]
+
+so sucī so ca brāhmaṇo. [4]
+
+[SUTTA dhp394]
+
+Kuhakabrāhmaṇavatthu [0]
+
+Kiṁ te jaṭāhi dummedha, [1]
+
+kiṁ te ajinasāṭiyā; [2]
+
+Abbhantaraṁ te gahanaṁ, [3]
+
+bāhiraṁ parimajjasi. [4]
+
+[SUTTA dhp395]
+
+Kisāgotamīvatthu [0]
+
+Paṁsukūladharaṁ jantuṁ, [1]
+
+kisaṁ dhamanisanthataṁ; [2]
+
+Ekaṁ vanasmiṁ jhāyantaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp396]
+
+Ekabrāhmaṇavatthu [0]
+
+Na cāhaṁ brāhmaṇaṁ brūmi, [1]
+
+yonijaṁ mattisambhavaṁ; [2]
+
+Bhovādi nāma so hoti, [3]
+
+sace hoti sakiñcano; [4]
+
+Akiñcanaṁ anādānaṁ, [5]
+
+tamahaṁ brūmi brāhmaṇaṁ. [6]
+
+[SUTTA dhp397]
+
+Uggasenaseṭṭhiputtavatthu [0]
+
+Sabbasaṁyojanaṁ chetvā, [1]
+
+yo ve na paritassati; [2]
+
+Saṅgātigaṁ visaṁyuttaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp398]
+
+Dvebrāhmaṇavatthu [0]
+
+Chetvā naddhiṁ varattañca, [1]
+
+sandānaṁ sahanukkamaṁ; [2]
+
+Ukkhittapalighaṁ buddhaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp399]
+
+Akkosakabhāradvājavatthu [0]
+
+Akkosaṁ vadhabandhañca, [1]
+
+aduṭṭho yo titikkhati; [2]
+
+Khantībalaṁ balānīkaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp400]
+
+Sāriputtattheravatthu [0]
+
+Akkodhanaṁ vatavantaṁ, [1]
+
+sīlavantaṁ anussadaṁ; [2]
+
+Dantaṁ antimasārīraṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp401]
+
+Uppalavaṇṇāttherīvatthu [0]
+
+Vāri pokkharapatteva, [1]
+
+āraggeriva sāsapo; [2]
+
+Yo na limpati kāmesu, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp402]
+
+Aññatarabrāhmaṇavatthu [0]
+
+Yo dukkhassa pajānāti, [1]
+
+idheva khayamattano; [2]
+
+Pannabhāraṁ visaṁyuttaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp403]
+
+Khemābhikkhunīvatthu [0]
+
+Gambhīrapaññaṁ medhāviṁ, [1]
+
+maggāmaggassa kovidaṁ; [2]
+
+Uttamatthamanuppattaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp404]
+
+Pabbhāravāsitissattheravatthu [0]
+
+Asaṁsaṭṭhaṁ gahaṭṭhehi, [1]
+
+anāgārehi cūbhayaṁ; [2]
+
+Anokasārimappicchaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp405]
+
+Aññatarabhikkhuvatthu [0]
+
+Nidhāya daṇḍaṁ bhūtesu, [1]
+
+tasesu thāvaresu ca; [2]
+
+Yo na hanti na ghāteti, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp406]
+
+Sāmaṇerānaṁvatthu [0]
+
+Aviruddhaṁ viruddhesu, [1]
+
+attadaṇḍesu nibbutaṁ; [2]
+
+Sādānesu anādānaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp407]
+
+Mahāpanthakattheravatthu [0]
+
+Yassa rāgo ca doso ca, [1]
+
+māno makkho ca pātito; [2]
+
+Sāsaporiva āraggā, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp408]
+
+Pilindavacchattheravatthu [0]
+
+Akakkasaṁ viññāpaniṁ, [1]
+
+giraṁ saccamudīraye; [2]
+
+Yāya nābhisaje kañci, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp409]
+
+Aññatarattheravatthu [0]
+
+Yodha dīghaṁ va rassaṁ vā, [1]
+
+aṇuṁ thūlaṁ subhāsubhaṁ; [2]
+
+Loke adinnaṁ nādiyati, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp410]
+
+Sāriputtattheravatthu [0]
+
+Āsā yassa na vijjanti, [1]
+
+asmiṁ loke paramhi ca; [2]
+
+Nirāsāsaṁ visaṁyuttaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp411]
+
+Mahāmoggallānattheravatthu [0]
+
+Yassālayā na vijjanti, [1]
+
+aññāya akathaṅkathī; [2]
+
+Amatogadhamanuppattaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp412]
+
+Revatattheravatthu [0]
+
+Yodha puññañca pāpañca, [1]
+
+ubho saṅgamupaccagā; [2]
+
+Asokaṁ virajaṁ suddhaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp413]
+
+Candābhattheravatthu [0]
+
+Candaṁva vimalaṁ suddhaṁ, [1]
+
+vippasannamanāvilaṁ; [2]
+
+Nandībhavaparikkhīṇaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp414]
+
+Sīvalittheravatthu [0]
+
+Yomaṁ palipathaṁ duggaṁ, [1]
+
+saṁsāraṁ mohamaccagā; [2]
+
+Tiṇṇo pāraṅgato jhāyī, [3]
+
+anejo akathaṅkathī; [4]
+
+Anupādāya nibbuto, [5]
+
+tamahaṁ brūmi brāhmaṇaṁ. [6]
+
+[SUTTA dhp415]
+
+Sundarasamuddattheravatthu [0]
+
+Yodha kāme pahantvāna, [1]
+
+anāgāro paribbaje; [2]
+
+Kāmabhavaparikkhīṇaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp416]
+
+Jaṭilattheravatthu [0]
+
+Yodha taṇhaṁ pahantvāna, [1]
+
+anāgāro paribbaje; [2]
+
+Taṇhābhavaparikkhīṇaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+Jotikattheravatthu [5.0]
+
+Yodha taṇhaṁ pahantvāna, [5.1]
+
+anāgāro paribbaje; [6]
+
+Taṇhābhavaparikkhīṇaṁ, [7]
+
+tamahaṁ brūmi brāhmaṇaṁ. [8]
+
+[SUTTA dhp417]
+
+Naṭaputtakattheravatthu [0]
+
+Hitvā mānusakaṁ yogaṁ, [1]
+
+dibbaṁ yogaṁ upaccagā; [2]
+
+Sabbayogavisaṁyuttaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp418]
+
+Naṭaputtakattheravatthu [0]
+
+Hitvā ratiñca aratiñca, [1]
+
+sītibhūtaṁ nirūpadhiṁ; [2]
+
+Sabbalokābhibhuṁ vīraṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp419]
+
+Vaṅgīsattheravatthu [0]
+
+Cutiṁ yo vedi sattānaṁ, [1]
+
+upapattiñca sabbaso; [2]
+
+Asattaṁ sugataṁ buddhaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp420]
+
+Yassa gatiṁ na jānanti, [1]
+
+devā gandhabbamānusā; [2]
+
+Khīṇāsavaṁ arahantaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp421]
+
+Dhammadinnāttherīvatthu [0]
+
+Yassa pure ca pacchā ca, [1]
+
+majjhe ca natthi kiñcanaṁ; [2]
+
+Akiñcanaṁ anādānaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp422]
+
+Aṅgulimālattheravatthu [0]
+
+Usabhaṁ pavaraṁ vīraṁ, [1]
+
+mahesiṁ vijitāvinaṁ; [2]
+
+Anejaṁ nhātakaṁ buddhaṁ, [3]
+
+tamahaṁ brūmi brāhmaṇaṁ. [4]
+
+[SUTTA dhp423]
+
+Devahitabrāhmaṇavatthu [0]
+
+Pubbenivāsaṁ yo vedi, [1]
+
+saggāpāyañca passati; [2]
+
+Atho jātikkhayaṁ patto, [3]
+
+abhiññāvosito muni; [4]
+
+Sabbavositavosānaṁ, [5]
+
+tamahaṁ brūmi brāhmaṇaṁ. [6]
+
+Brāhmaṇavaggo chabbīsatimo. [7]
+
+Ettāvatā sabbapaṭhame yamakavagge cuddasa vatthūni, appamādavagge nava, cittavagge nava, pupphavagge dvādasa, bālavagge pannarasa, paṇḍitavagge ekādasa, arahantavagge dasa, sahassavagge cuddasa, pāpavagge dvādasa, daṇḍavagge ekādasa, jarāvagge nava, attavagge dasa, lokavagge ekādasa, buddhavagge nava, sukhavagge aṭṭha, piyavagge nava, kodhavagge aṭṭha, malavagge dvādasa, dhammaṭṭhavagge dasa, maggavagge dvādasa, pakiṇṇakavagge nava, nirayavagge nava, nāgavagge aṭṭha, taṇhāvagge dvādasa, bhikkhuvagge dvādasa, brāhmaṇavagge cattālīsāti pañcādhikāni tīṇi vatthusatāni. [8]
+
+Satevīsacatussatā, [9]
+
+catusaccavibhāvinā; [10]
+
+Satattayañca vatthūnaṁ, [11]
+
+pañcādhikaṁ samuṭṭhitāti. [12]
+
+Dhammapade vaggānamuddānaṁ [13]
+
+Yamakappamādo cittaṁ, [14]
+
+pupphaṁ bālena paṇḍito; [15]
+
+Arahanto sahassañca, [16]
+
+pāpaṁ daṇḍena te dasa. [17]
+
+Jarā attā ca loko ca, [18]
+
+buddho sukhaṁ piyena ca; [19]
+
+Kodho malañca dhammaṭṭho, [20]
+
+maggavaggena vīsati. [21]
+
+Pakiṇṇaṁ nirayo nāgo, [22]
+
+taṇhā bhikkhu ca brāhmaṇo; [23]
+
+Ete chabbīsati vaggā, [24]
+
+desitādiccabandhunā. [25]
+
+Gāthānamuddānaṁ [26]
+
+Yamake vīsati gāthā, [27]
+
+appamādamhi dvādasa; [28]
+
+Ekādasa cittavagge, [29]
+
+pupphavaggamhi soḷasa. [30]
+
+Bāle ca soḷasa gāthā, [31]
+
+paṇḍitamhi catuddasa; [32]
+
+Arahante dasa gāthā, [33]
+
+sahasse honti soḷasa. [34]
+
+Terasa pāpavaggamhi, [35]
+
+daṇḍamhi dasa satta ca; [36]
+
+Ekādasa jarā vagge, [37]
+
+attavaggamhi tā dasa. [38]
+
+Dvādasa lokavaggamhi, [39]
+
+buddhavaggamhi ṭhārasa; [40]
+
+Sukhe ca piyavagge ca, [41]
+
+gāthāyo honti dvādasa. [42]
+
+Cuddasa kodhavaggamhi, [43]
+
+malavaggekavīsati; [44]
+
+Sattarasa ca dhammaṭṭhe, [45]
+
+maggavagge sattarasa. [46]
+
+Pakiṇṇe soḷasa gāthā, [47]
+
+niraye nāge ca cuddasa; [48]
+
+Chabbīsa taṇhāvaggamhi, [49]
+
+tevīsa bhikkhuvaggikā. [50]
+
+Ekatālīsagāthāyo, [51]
+
+brāhmaṇe vaggamuttame; [52]
+
+Gāthāsatāni cattāri, [53]
+
+tevīsa ca punāpare; [54]
+
+Dhammapade nipātamhi, [55]
+
+desitādiccabandhunāti. [56]
+
+Dhammapadapāḷi samattā. [57]

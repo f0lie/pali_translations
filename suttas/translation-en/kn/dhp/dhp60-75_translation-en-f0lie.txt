@@ -1,0 +1,205 @@
+[SUTTA dhp60]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Bālavagga [0.3]
+
+Aññatarapurisavatthu [0.4]
+
+Dīghā jāgarato ratti, [1]
+
+dīghaṁ santassa yojanaṁ; [2]
+
+Dīgho bālāna saṁsāro, [3]
+
+saddhammaṁ avijānataṁ. [4]
+
+[SUTTA dhp61]
+
+Mahākassapasaddhivihārikavatthu [0]
+
+Carañce nādhigaccheyya, [1]
+
+Seyyaṁ sadisamattano; [2]
+
+Ekacariyaṁ daḷhaṁ kayirā, [3]
+
+Natthi bāle sahāyatā. [4]
+
+[SUTTA dhp62]
+
+Ānandaseṭṭhivatthu [0]
+
+Puttā matthi dhanaṁ matthi, [1]
+
+iti bālo vihaññati; [2]
+
+Attā hi attano natthi, [3]
+
+kuto puttā kuto dhanaṁ. [4]
+
+[SUTTA dhp63]
+
+Gaṇṭhibhedakacoravatthu [0]
+
+Yo bālo maññati bālyaṁ, [1]
+
+paṇḍito vāpi tena so; [2]
+
+Bālo ca paṇḍitamānī, [3]
+
+sa ve “bālo”ti vuccati. [4]
+
+[SUTTA dhp64]
+
+Udāyittheravatthu [0]
+
+Yāvajīvampi ce bālo, [1]
+
+paṇḍitaṁ payirupāsati; [2]
+
+Na so dhammaṁ vijānāti, [3]
+
+dabbī sūparasaṁ yathā. [4]
+
+[SUTTA dhp65]
+
+Tiṁsapāveyyakabhikkhuvatthu [0]
+
+Muhuttamapi ce viññū, [1]
+
+paṇḍitaṁ payirupāsati; [2]
+
+Khippaṁ dhammaṁ vijānāti, [3]
+
+jivhā sūparasaṁ yathā. [4]
+
+[SUTTA dhp66]
+
+Suppabuddhakuṭṭhivatthu [0]
+
+Caranti bālā dummedhā, [1]
+
+amitteneva attanā; [2]
+
+Karontā pāpakaṁ kammaṁ, [3]
+
+yaṁ hoti kaṭukapphalaṁ. [4]
+
+[SUTTA dhp67]
+
+Kassakavatthu [0]
+
+Na taṁ kammaṁ kataṁ sādhu, [1]
+
+yaṁ katvā anutappati; [2]
+
+Yassa assumukho rodaṁ, [3]
+
+vipākaṁ paṭisevati. [4]
+
+[SUTTA dhp68]
+
+Sumanamālākāravatthu [0]
+
+Tañca kammaṁ kataṁ sādhu, [1]
+
+yaṁ katvā nānutappati; [2]
+
+Yassa patīto sumano, [3]
+
+vipākaṁ paṭisevati. [4]
+
+[SUTTA dhp69]
+
+Uppalavaṇṇattherīvatthu [0]
+
+Madhuṁvā maññati bālo, [1]
+
+yāva pāpaṁ na paccati; [2]
+
+Yadā ca paccati pāpaṁ, [3]
+
+atha dukkhaṁ nigacchati. [4]
+
+[SUTTA dhp70]
+
+Jambukattheravatthu [0]
+
+Māse māse kusaggena, [1]
+
+bālo bhuñjeyya bhojanaṁ; [2]
+
+Na so saṅkhātadhammānaṁ, [3]
+
+kalaṁ agghati soḷasiṁ. [4]
+
+[SUTTA dhp71]
+
+Ahipetavatthu [0]
+
+Na hi pāpaṁ kataṁ kammaṁ, [1]
+
+Sajjukhīraṁva muccati; [2]
+
+Ḍahantaṁ bālamanveti, [3]
+
+Bhasmacchannova pāvako. [4]
+
+[SUTTA dhp72]
+
+Saṭṭhikūṭapetavatthu [0]
+
+Yāvadeva anatthāya, [1]
+
+ñattaṁ bālassa jāyati; [2]
+
+Hanti bālassa sukkaṁsaṁ, [3]
+
+muddhamassa vipātayaṁ. [4]
+
+[SUTTA dhp73]
+
+Cittagahapativatthu [0]
+
+Asantaṁ bhāvanamiccheyya, [1]
+
+Purekkhārañca bhikkhusu; [2]
+
+Āvāsesu ca issariyaṁ, [3]
+
+Pūjaṁ parakulesu ca. [4]
+
+[SUTTA dhp74]
+
+Mameva kata maññantu, [1]
+
+gihī pabbajitā ubho; [2]
+
+Mamevātivasā assu, [3]
+
+kiccākiccesu kismici; [4]
+
+Iti bālassa saṅkappo, [5]
+
+icchā māno ca vaḍḍhati. [6]
+
+[SUTTA dhp75]
+
+Vanavāsitissasāmaṇeravatthu [0]
+
+Aññā hi lābhūpanisā, [1]
+
+aññā nibbānagāminī; [2]
+
+Evametaṁ abhiññāya, [3]
+
+bhikkhu buddhassa sāvako; [4]
+
+Sakkāraṁ nābhinandeyya, [5]
+
+vivekamanubrūhaye. [6]
+
+Bālavaggo pañcamo. [7]

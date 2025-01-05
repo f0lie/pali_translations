@@ -1,0 +1,205 @@
+[SUTTA dhp273]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Maggavagga [0.3]
+
+Pañcasatabhikkhuvatthu [0.4]
+
+Maggānaṭṭhaṅgiko seṭṭho, [1]
+
+saccānaṁ caturo padā; [2]
+
+Virāgo seṭṭho dhammānaṁ, [3]
+
+dvipadānañca cakkhumā. [4]
+
+[SUTTA dhp274]
+
+Eseva maggo natthañño, [1]
+
+Dassanassa visuddhiyā; [2]
+
+Etañhi tumhe paṭipajjatha, [3]
+
+Mārassetaṁ pamohanaṁ. [4]
+
+[SUTTA dhp275]
+
+Etañhi tumhe paṭipannā, [1]
+
+dukkhassantaṁ karissatha; [2]
+
+Akkhāto vo mayā maggo, [3]
+
+aññāya sallakantanaṁ. [4]
+
+[SUTTA dhp276]
+
+Tumhehi kiccamātappaṁ, [1]
+
+akkhātāro tathāgatā; [2]
+
+Paṭipannā pamokkhanti, [3]
+
+jhāyino mārabandhanā. [4]
+
+[SUTTA dhp277]
+
+Aniccalakkhaṇavatthu [0]
+
+“Sabbe saṅkhārā aniccā”ti, [1]
+
+yadā paññāya passati; [2]
+
+Atha nibbindati dukkhe, [3]
+
+esa maggo visuddhiyā. [4]
+
+[SUTTA dhp278]
+
+Dukkhalakkhaṇavatthu [0]
+
+“Sabbe saṅkhārā dukkhā”ti, [1]
+
+yadā paññāya passati; [2]
+
+Atha nibbindati dukkhe, [3]
+
+esa maggo visuddhiyā. [4]
+
+[SUTTA dhp279]
+
+Anattalakkhaṇavatthu [0]
+
+“Sabbe dhammā anattā”ti, [1]
+
+yadā paññāya passati; [2]
+
+Atha nibbindati dukkhe, [3]
+
+esa maggo visuddhiyā. [4]
+
+[SUTTA dhp280]
+
+Padhānakammikatissattheravatthu [0]
+
+Uṭṭhānakālamhi anuṭṭhahāno, [1]
+
+Yuvā balī ālasiyaṁ upeto; [2]
+
+Saṁsannasaṅkappamano kusīto, [3]
+
+Paññāya maggaṁ alaso na vindati. [4]
+
+[SUTTA dhp281]
+
+Sūkarapetavatthu [0]
+
+Vācānurakkhī manasā susaṁvuto, [1]
+
+Kāyena ca nākusalaṁ kayirā; [2]
+
+Ete tayo kammapathe visodhaye, [3]
+
+Ārādhaye maggamisippaveditaṁ. [4]
+
+[SUTTA dhp282]
+
+Poṭṭhilattheravatthu [0]
+
+Yogā ve jāyatī bhūri, [1]
+
+ayogā bhūrisaṅkhayo; [2]
+
+Etaṁ dvedhāpathaṁ ñatvā, [3]
+
+bhavāya vibhavāya ca; [4]
+
+Tathāttānaṁ niveseyya, [5]
+
+yathā bhūri pavaḍḍhati. [6]
+
+[SUTTA dhp283]
+
+Pañcamahallakabhikkhuvatthu [0]
+
+Vanaṁ chindatha mā rukkhaṁ, [1]
+
+vanato jāyate bhayaṁ; [2]
+
+Chetvā vanañca vanathañca, [3]
+
+nibbanā hotha bhikkhavo. [4]
+
+[SUTTA dhp284]
+
+Yāva hi vanatho na chijjati, [1]
+
+Aṇumattopi narassa nārisu; [2]
+
+Paṭibaddhamanova tāva so, [3]
+
+Vaccho khīrapakova mātari. [4]
+
+[SUTTA dhp285]
+
+Suvaṇṇakārattheravatthu [0]
+
+Ucchinda sinehamattano, [1]
+
+Kumudaṁ sāradikaṁva pāṇinā; [2]
+
+Santimaggameva brūhaya, [3]
+
+Nibbānaṁ sugatena desitaṁ. [4]
+
+[SUTTA dhp286]
+
+Mahādhanavāṇijavatthu [0]
+
+Idha vassaṁ vasissāmi, [1]
+
+idha hemantagimhisu; [2]
+
+Iti bālo vicinteti, [3]
+
+antarāyaṁ na bujjhati. [4]
+
+[SUTTA dhp287]
+
+Kisāgotamīvatthu [0]
+
+Taṁ puttapasusammattaṁ, [1]
+
+byāsattamanasaṁ naraṁ; [2]
+
+Suttaṁ gāmaṁ mahoghova, [3]
+
+maccu ādāya gacchati. [4]
+
+[SUTTA dhp288]
+
+Paṭācārāvatthu [0]
+
+Na santi puttā tāṇāya, [1]
+
+na pitā nāpi bandhavā; [2]
+
+Antakenādhipannassa, [3]
+
+natthi ñātīsu tāṇatā. [4]
+
+[SUTTA dhp289]
+
+Etamatthavasaṁ ñatvā, [1]
+
+paṇḍito sīlasaṁvuto; [2]
+
+Nibbānagamanaṁ maggaṁ, [3]
+
+khippameva visodhaye. [4]
+
+Maggavaggo vīsatimo. [5]

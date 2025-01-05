@@ -1,0 +1,193 @@
+[SUTTA dhp290]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Pakiṇṇakavagga [0.3]
+
+Attanopubbakammavatthu [0.4]
+
+Mattāsukhapariccāgā, [1]
+
+passe ce vipulaṁ sukhaṁ; [2]
+
+Caje mattāsukhaṁ dhīro, [3]
+
+sampassaṁ vipulaṁ sukhaṁ. [4]
+
+[SUTTA dhp291]
+
+Kukkuṭaṇḍakhādikāvatthu [0]
+
+Paradukkhūpadhānena, [1]
+
+attano sukhamicchati; [2]
+
+Verasaṁsaggasaṁsaṭṭho, [3]
+
+verā so na parimuccati. [4]
+
+[SUTTA dhp292]
+
+Bhaddiyānaṁbhikkhūnaṁvatthu [0]
+
+Yañhi kiccaṁ apaviddhaṁ, [1]
+
+akiccaṁ pana karīyati; [2]
+
+Unnaḷānaṁ pamattānaṁ, [3]
+
+tesaṁ vaḍḍhanti āsavā. [4]
+
+[SUTTA dhp293]
+
+Yesañca susamāraddhā, [1]
+
+niccaṁ kāyagatā sati; [2]
+
+Akiccaṁ te na sevanti, [3]
+
+kicce sātaccakārino; [4]
+
+Satānaṁ sampajānānaṁ, [5]
+
+atthaṁ gacchanti āsavā. [6]
+
+[SUTTA dhp294]
+
+Lakuṇḍakabhaddiyavatthu [0]
+
+Mātaraṁ pitaraṁ hantvā, [1]
+
+rājāno dve ca khattiye; [2]
+
+Raṭṭhaṁ sānucaraṁ hantvā, [3]
+
+anīgho yāti brāhmaṇo. [4]
+
+[SUTTA dhp295]
+
+Mātaraṁ pitaraṁ hantvā, [1]
+
+rājāno dve ca sotthiye; [2]
+
+Veyagghapañcamaṁ hantvā, [3]
+
+anīgho yāti brāhmaṇo. [4]
+
+[SUTTA dhp296]
+
+Dārusākaṭikaputtavatthu [0]
+
+Suppabuddhaṁ pabujjhanti, [1]
+
+sadā gotamasāvakā; [2]
+
+Yesaṁ divā ca ratto ca, [3]
+
+niccaṁ buddhagatā sati. [4]
+
+[SUTTA dhp297]
+
+Suppabuddhaṁ pabujjhanti, [1]
+
+sadā gotamasāvakā; [2]
+
+Yesaṁ divā ca ratto ca, [3]
+
+niccaṁ dhammagatā sati. [4]
+
+[SUTTA dhp298]
+
+Suppabuddhaṁ pabujjhanti, [1]
+
+sadā gotamasāvakā; [2]
+
+Yesaṁ divā ca ratto ca, [3]
+
+niccaṁ saṅghagatā sati. [4]
+
+[SUTTA dhp299]
+
+Suppabuddhaṁ pabujjhanti, [1]
+
+sadā gotamasāvakā; [2]
+
+Yesaṁ divā ca ratto ca, [3]
+
+niccaṁ kāyagatā sati. [4]
+
+[SUTTA dhp300]
+
+Suppabuddhaṁ pabujjhanti, [1]
+
+sadā gotamasāvakā; [2]
+
+Yesaṁ divā ca ratto ca, [3]
+
+ahiṁsāya rato mano. [4]
+
+[SUTTA dhp301]
+
+Suppabuddhaṁ pabujjhanti, [1]
+
+sadā gotamasāvakā; [2]
+
+Yesaṁ divā ca ratto ca, [3]
+
+bhāvanāya rato mano. [4]
+
+[SUTTA dhp302]
+
+Vajjiputtakabhikkhuvatthu [0]
+
+Duppabbajjaṁ durabhiramaṁ, [1]
+
+Durāvāsā gharā dukhā; [2]
+
+Dukkhosamānasaṁvāso, [3]
+
+Dukkhānupatitaddhagū; [4]
+
+Tasmā na caddhagū siyā, [5]
+
+Na ca dukkhānupatito siyā. [6]
+
+[SUTTA dhp303]
+
+Cittagahapativatthu [0]
+
+Saddho sīlena sampanno, [1]
+
+yasobhogasamappito; [2]
+
+Yaṁ yaṁ padesaṁ bhajati, [3]
+
+tattha tattheva pūjito. [4]
+
+[SUTTA dhp304]
+
+Cūḷasubhaddāvatthu [0]
+
+Dūre santo pakāsenti, [1]
+
+himavantova pabbato; [2]
+
+Asantettha na dissanti, [3]
+
+rattiṁ khittā yathā sarā. [4]
+
+[SUTTA dhp305]
+
+Ekavihārittheravatthu [0]
+
+Ekāsanaṁ ekaseyyaṁ, [1]
+
+eko caramatandito; [2]
+
+Eko damayamattānaṁ, [3]
+
+vanante ramito siyā. [4]
+
+Pakiṇṇakavaggo ekavīsatimo. [5]

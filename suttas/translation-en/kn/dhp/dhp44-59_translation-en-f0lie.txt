@@ -1,0 +1,191 @@
+[SUTTA dhp44]
+
+Khuddakanikāya [0.1]
+
+Dhammapada [0.2]
+
+Pupphavagga [0.3]
+
+Pathavikathāpasutapañcasatabhikkhuvatthu [0.4]
+
+Ko imaṁ pathaviṁ vicessati, [1]
+
+Yamalokañca imaṁ sadevakaṁ; [2]
+
+Ko dhammapadaṁ sudesitaṁ, [3]
+
+Kusalo pupphamiva pacessati. [4]
+
+[SUTTA dhp45]
+
+Sekho pathaviṁ vicessati, [1]
+
+Yamalokañca imaṁ sadevakaṁ; [2]
+
+Sekho dhammapadaṁ sudesitaṁ, [3]
+
+Kusalo pupphamiva pacessati. [4]
+
+[SUTTA dhp46]
+
+Marīcikammaṭṭhānikabhikkhuvatthu [0]
+
+Pheṇūpamaṁ kāyamimaṁ viditvā, [1]
+
+Marīcidhammaṁ abhisambudhāno; [2]
+
+Chetvāna mārassa papupphakāni, [3]
+
+Adassanaṁ maccurājassa gacche. [4]
+
+[SUTTA dhp47]
+
+Viṭaṭūbhavatthu [0]
+
+Pupphāni heva pacinantaṁ, [1]
+
+byāsattamanasaṁ naraṁ; [2]
+
+Suttaṁ gāmaṁ mahoghova, [3]
+
+maccu ādāya gacchati. [4]
+
+[SUTTA dhp48]
+
+Patipūjikakumārivatthu [0]
+
+Pupphāni heva pacinantaṁ, [1]
+
+byāsattamanasaṁ naraṁ; [2]
+
+Atittaññeva kāmesu, [3]
+
+antako kurute vasaṁ. [4]
+
+[SUTTA dhp49]
+
+Macchariyakosiyaseṭṭhivatthu [0]
+
+Yathāpi bhamaro pupphaṁ, [1]
+
+vaṇṇagandhamaheṭhayaṁ; [2]
+
+Paleti rasamādāya, [3]
+
+evaṁ gāme munī care. [4]
+
+[SUTTA dhp50]
+
+Pāveyyaājīvakavatthu [0]
+
+Na paresaṁ vilomāni, [1]
+
+na paresaṁ katākataṁ; [2]
+
+Attanova avekkheyya, [3]
+
+katāni akatāni ca. [4]
+
+[SUTTA dhp51]
+
+Chattapāṇiupāsakavatthu [0]
+
+Yathāpi ruciraṁ pupphaṁ, [1]
+
+vaṇṇavantaṁ agandhakaṁ; [2]
+
+Evaṁ subhāsitā vācā, [3]
+
+aphalā hoti akubbato. [4]
+
+[SUTTA dhp52]
+
+Yathāpi ruciraṁ pupphaṁ, [1]
+
+Vaṇṇavantaṁ sagandhakaṁ; [2]
+
+Evaṁ subhāsitā vācā, [3]
+
+Saphalā hoti kubbato. [4]
+
+[SUTTA dhp53]
+
+Visākhāvatthu [0]
+
+Yathāpi puppharāsimhā, [1]
+
+kayirā mālāguṇe bahū; [2]
+
+Evaṁ jātena maccena, [3]
+
+kattabbaṁ kusalaṁ bahuṁ. [4]
+
+[SUTTA dhp54]
+
+Ānandattherapañhavatthu [0]
+
+Na pupphagandho paṭivātameti, [1]
+
+Na candanaṁ tagaramallikā vā; [2]
+
+Satañca gandho paṭivātameti, [3]
+
+Sabbā disā sappuriso pavāyati. [4]
+
+[SUTTA dhp55]
+
+Candanaṁ tagaraṁ vāpi, [1]
+
+uppalaṁ atha vassikī; [2]
+
+Etesaṁ gandhajātānaṁ, [3]
+
+sīlagandho anuttaro. [4]
+
+[SUTTA dhp56]
+
+Mahākassapattherapiṇḍapātadinnavatthu [0]
+
+Appamatto ayaṁ gandho, [1]
+
+yāyaṁ tagaracandanī; [2]
+
+Yo ca sīlavataṁ gandho, [3]
+
+vāti devesu uttamo. [4]
+
+[SUTTA dhp57]
+
+Godhikattheraparinibbānavatthu [0]
+
+Tesaṁ sampannasīlānaṁ, [1]
+
+appamādavihārinaṁ; [2]
+
+Sammadaññāvimuttānaṁ, [3]
+
+māro maggaṁ na vindati. [4]
+
+[SUTTA dhp58]
+
+Garahadinnavatthu [0]
+
+Yathā saṅkāradhānasmiṁ, [1]
+
+ujjhitasmiṁ mahāpathe; [2]
+
+Padumaṁ tattha jāyetha, [3]
+
+sucigandhaṁ manoramaṁ. [4]
+
+[SUTTA dhp59]
+
+Evaṁ saṅkārabhūtesu, [1]
+
+andhabhūte puthujjane; [2]
+
+Atirocati paññāya, [3]
+
+sammāsambuddhasāvako. [4]
+
+Pupphavaggo catuttho. [5]

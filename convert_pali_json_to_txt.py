@@ -71,7 +71,7 @@ def process_sutta_directory(
                 process_single_sutta_file(filepath, translator_prefix)
 
 
-root_directory = "suttas/root/kn/dhp"
+root_directory = "suttas/root/"
 translator_prefix = "_translation-en-f0lie"
 
 # Process a single file
